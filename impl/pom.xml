@@ -16,7 +16,7 @@
         <dependency>
             <groupId>dev.pcvolkmer.onkostar</groupId>
             <artifactId>onkostar-plugin-genes-api</artifactId>
-            <version>0.1.0-SNAPSHOT</version>
+            <version>${parent.version}</version>
         </dependency>
 
         <!-- Onkostar API -->
@@ -24,10 +24,10 @@
             <groupId>de.itc</groupId>
             <artifactId>onkostar-api</artifactId>
             <!-- Version entsprechend anpassen! -->
-            <version>2.11.1.5</version>
+            <version>${onkostar-version}</version>
             <scope>system</scope>
             <!-- Version entsprechend anpassen! -->
-            <systemPath>${project.basedir}/libs/onkostar-api-2.11.1.5.jar</systemPath>
+            <systemPath>${project.basedir}/libs/onkostar-api-${onkostar-version}.jar</systemPath>
         </dependency>
 
         <dependency>
