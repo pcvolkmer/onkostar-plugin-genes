@@ -19,7 +19,12 @@
 
 package dev.pcvolkmer.onkostar.genes;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.Objects;
+import java.util.Optional;
+import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 /**
  * Represents a gene
@@ -86,11 +91,45 @@ public class Gene {
     }
 
     /**
-     * Returns the chromosome the gene is located at
-     * @return the chromosome
+     * Returns the chromosome(s) the gene is located at
+     * @return the chromosome(s)
      */
     public String getChromosome() {
         return chromosome;
+    }
+
+    /**
+     * Returns a list of chromosomes using form 'chr?'
+     * @return a list of chromosomes
+     */
+    public List<String> getChromosomesInPropertyForm() {
+        return Arrays.stream(this.chromosome.split(" "))
+                .filter(chromosome -> chromosome.startsWith("1") || chromosome.startsWith("2") || chromosome.startsWith("X") || chromosome.startsWith("Y"))
+                .map(chromosome -> {
+                    var pattern = Pattern.compile("^([1-2][0-9]*|X|Y)");
+                    var matcher = pattern.matcher(chromosome);
+                    if (matcher.find()) {
+                        return String.format("chr%s", matcher.group(0));
+                    } else {
+                        return null;
+                    }
+                })
+                .filter(Objects::nonNull)
+                .collect(Collectors.toList());
+    }
+
+    /**
+     * Returns a chromosome using form 'chr...?' if one (single) chromosome listed
+     * @return an <code>Optional</code> containing the chromosome
+     */
+    public Optional<String> getSingleChromosomeInPropertyForm() {
+        var fixedChromosomes = this.getChromosomesInPropertyForm();
+
+        if (fixedChromosomes.size() == 1) {
+            return Optional.of(fixedChromosomes.get(0));
+        }
+
+        return Optional.empty();
     }
 
     @Override
