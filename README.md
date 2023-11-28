@@ -60,6 +60,7 @@ Im anderen Plugin wird die folgende Abhängigkeit benötigt:
     <artifactId>onkostar-plugin-genes-api</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <!-- Optional, wenn nicht über Maven geladen -->
+    <scope>system</scope>
     <systemPath>${project.basedir}/libs/onkostar-plugin-genes-api.0.1.0-SNAPSHOT.jar</systemPath>
 </dependency>
 ```
