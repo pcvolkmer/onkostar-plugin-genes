@@ -111,7 +111,7 @@ public class GenesPlugin implements IProcedureAnalyzer {
         if (null != input.get("q")) {
             queryString = input.get("q").toString();
         } else {
-            throw new RuntimeException("No genes for empty query string");
+            throw new GenesPluginException("No genes for empty query string");
         }
 
         return geneService.search(queryString);
@@ -139,7 +139,7 @@ public class GenesPlugin implements IProcedureAnalyzer {
         if (null != input.get("symbol")) {
             queryString = input.get("symbol").toString();
         } else {
-            throw new RuntimeException("No genes for empty symbol");
+            throw new GenesPluginException("No genes for empty symbol");
         }
 
         var result = geneService.findBySymbol(queryString);
@@ -148,6 +148,6 @@ public class GenesPlugin implements IProcedureAnalyzer {
             return result.get();
         }
 
-        throw new RuntimeException(String.format("No gene found for symbol '%s'", queryString));
+        throw new GenesPluginException(String.format("No gene found for symbol '%s'", queryString));
     }
 }

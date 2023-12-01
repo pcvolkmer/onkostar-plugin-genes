@@ -78,13 +78,40 @@ class GenesPluginTest {
     void testShouldThrowExceptionIfGeneNotFound() {
         doAnswer(invocationOnMock -> Optional.empty()).when(geneService).findBySymbol(anyString());
 
-        assertThrows(RuntimeException.class, () -> {
-            plugin.findBySymbol(Map.of("symbol", "WHAT?"));
-        });
+        var message = assertThrows(GenesPluginException.class, () -> plugin.findBySymbol(Map.of("symbol", "WHAT?"))).getMessage();
+
+        assertThat(message).isEqualTo("No gene found for symbol 'WHAT?'");
 
         var captor = ArgumentCaptor.forClass(String.class);
         verify(geneService, times(1)).findBySymbol(captor.capture());
         assertThat(captor.getValue()).isEqualTo("WHAT?");
+    }
+
+    @Test
+    void testShouldThrowExceptionIfEmptySymbolString() {
+        var message = assertThrows(GenesPluginException.class, () -> plugin.findBySymbol(Map.of("symbol", ""))).getMessage();
+
+        assertThat(message).isEqualTo("No gene found for symbol ''");
+
+        verify(geneService, times(1)).findBySymbol(anyString());
+    }
+
+    @Test
+    void testShouldThrowExceptionIfNoSymbol() {
+        var message = assertThrows(GenesPluginException.class, () -> plugin.findBySymbol(Map.of())).getMessage();
+
+        assertThat(message).isEqualTo("No genes for empty symbol");
+
+        verify(geneService, never()).findBySymbol(anyString());
+    }
+
+    @Test
+    void testShouldThrowExceptionIfNoQuery() {
+        var message = assertThrows(GenesPluginException.class, () -> plugin.search(Map.of())).getMessage();
+
+        assertThat(message).isEqualTo("No genes for empty query string");
+
+        verify(geneService, never()).findBySymbol(anyString());
     }
 
 }
