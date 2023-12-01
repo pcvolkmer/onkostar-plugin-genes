@@ -26,10 +26,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.ResourceLoader;
 
-import java.util.Map;
-import java.util.Objects;
-import java.util.stream.Collectors;
-
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.doAnswer;
@@ -41,7 +37,7 @@ public class GenesCsvTest {
     private ResourceLoader resourceLoader;
 
     @Test
-    void testCsvFileForUniqueHgncIds() throws Exception {
+    void testCsvFileForUniqueHgncIds() {
         doAnswer(invocationOnMock -> new ClassPathResource("genes.csv")).when(resourceLoader).getResource(anyString());
         var genes = new GeneServiceImpl(resourceLoader).loadGenes(resourceLoader);
 
@@ -51,7 +47,7 @@ public class GenesCsvTest {
     }
 
     @Test
-    void testCsvFileForUniqueSymbols() throws Exception {
+    void testCsvFileForUniqueSymbols() {
         doAnswer(invocationOnMock -> new ClassPathResource("genes.csv")).when(resourceLoader).getResource(anyString());
         var genes = new GeneServiceImpl(resourceLoader).loadGenes(resourceLoader);
 
