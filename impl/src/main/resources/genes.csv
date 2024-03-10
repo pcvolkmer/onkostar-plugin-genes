@@ -656,7 +656,7 @@ HGNC:55356	AGK-DT	AGK divergent transcript	7q34	ENSG00000261570
 HGNC:37661	AGKP1	AGK pseudogene 1	Yq11.221	ENSG00000226555
 HGNC:55132	AGKP2	AGK pseudogene 2	Xq26.2	ENSG00000228819
 HGNC:321	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase	1p21.2	ENSG00000162688
-HGNC:18407	AGMAT	agmatinase	1p36.21	ENSG00000116771
+HGNC:18407	AGMAT	agmatinase (putative)	1p36.21	ENSG00000116771
 HGNC:33784	AGMO	alkylglycerol monooxygenase	7p21.2	ENSG00000187546
 HGNC:3262	AGO1	argonaute RISC component 1	1p34.3	ENSG00000092847
 HGNC:3263	AGO2	argonaute RISC catalytic component 2	8q24.3	ENSG00000123908
@@ -3013,6 +3013,7 @@ HGNC:21703	C7orf25	chromosome 7 open reading frame 25	7p14.1	ENSG00000136197
 HGNC:21724	C7orf33	chromosome 7 open reading frame 33	7q36.1	ENSG00000170279
 HGNC:22421	C7orf50	chromosome 7 open reading frame 50	7p22.3	ENSG00000146540
 HGNC:22247	C7orf57	chromosome 7 open reading frame 57	7p12.3	ENSG00000164746
+HGNC:55185	C7orf78	chromosome 7 open reading frame 78	7p21.3	
 HGNC:1352	C8A	complement C8 alpha chain	1p32.2	ENSG00000157131
 HGNC:1353	C8B	complement C8 beta chain	1p32.2	ENSG00000021852
 HGNC:1354	C8G	complement C8 gamma chain	9q34.3	ENSG00000176919
@@ -5044,12 +5045,12 @@ HGNC:2150	CNGA3	cyclic nucleotide gated channel subunit alpha 3	2q11.2	ENSG00000
 HGNC:2152	CNGA4	cyclic nucleotide gated channel subunit alpha 4	11p15.4	ENSG00000132259
 HGNC:2151	CNGB1	cyclic nucleotide gated channel subunit beta 1	16q21	ENSG00000070729
 HGNC:2153	CNGB3	cyclic nucleotide gated channel subunit beta 3	8q21.3	ENSG00000170289
-HGNC:19431	CNIH1	cornichon family AMPA receptor auxiliary protein 1	14q22.2	ENSG00000100528
+HGNC:19431	CNIH1	cornichon family member 1	14q22.2	ENSG00000100528
 HGNC:28744	CNIH2	cornichon family AMPA receptor auxiliary protein 2	11q13.2	ENSG00000174871
 HGNC:26802	CNIH3	cornichon family AMPA receptor auxiliary protein 3	1q42.12	ENSG00000143786
 HGNC:41163	CNIH3-AS1	CNIH3 antisense RNA 1	1q42.12	ENSG00000229400
 HGNC:41162	CNIH3-AS2	CNIH3 antisense RNA 2	1q42.12	ENSG00000233384
-HGNC:25013	CNIH4	cornichon family AMPA receptor auxiliary protein 4	1q42.11	ENSG00000143771
+HGNC:25013	CNIH4	cornichon family member 4	1q42.11	ENSG00000143771
 HGNC:19700	CNKSR1	connector enhancer of kinase suppressor of Ras 1	1p36.11	ENSG00000142675
 HGNC:19701	CNKSR2	connector enhancer of kinase suppressor of Ras 2	Xp22.12	ENSG00000149970
 HGNC:23034	CNKSR3	CNKSR family member 3	6q25.2	ENSG00000153721
@@ -10023,7 +10024,7 @@ HGNC:27172	GAREM2	GRB2 associated regulator of MAPK1 subtype 2	2p23.3	ENSG000001
 HGNC:27998	GARIN1A	golgi associated RAB2 interactor 1A	7q32.1	ENSG00000205085
 HGNC:30704	GARIN1B	golgi associated RAB2 interactor 1B	7q32.1	ENSG00000135248
 HGNC:20101	GARIN2	golgi associated RAB2 interactor family member 2	14q23.3	ENSG00000172717
-HGNC:28397	GARIN3	golgi associated RAB2B interactor family member 3	5q33.3	ENSG00000170613
+HGNC:28397	GARIN3	golgi associated RAB2 interactor family member 3	5q33.3	ENSG00000170613
 HGNC:49805	GARIN3P1	GARIN3 pseudogene 1	9p21.2	ENSG00000270683
 HGNC:26541	GARIN4	golgi associated RAB2 interactor family member 4	1q32.3	ENSG00000162771
 HGNC:25107	GARIN5A	golgi associated RAB2 interactor 5A	19q13.33	ENSG00000142530
@@ -15810,7 +15811,6 @@ HGNC:51190	LINC01508	long intergenic non-protein coding RNA 1508	9q22.2	ENSG0000
 HGNC:51193	LINC01509	long intergenic non-protein coding RNA 1509	9q31.2	ENSG00000226825
 HGNC:51200	LINC01511	long intergenic non-protein coding RNA 1511	5p15.33	ENSG00000250584
 HGNC:51201	LINC01512	long intergenic non-protein coding RNA 1512	6p21.1	ENSG00000289313
-HGNC:51202	LINC01513	long intergenic non-protein coding RNA 1513	5p15.2	ENSG00000246016
 HGNC:51207	LINC01514	long intergenic non-protein coding RNA 1514	10q24.31	ENSG00000237579
 HGNC:51210	LINC01515	long intergenic non-protein coding RNA 1515	10q21.3	ENSG00000228065
 HGNC:51211	LINC01516	long intergenic non-protein coding RNA 1516	10p12.1	ENSG00000231422
@@ -22731,15 +22731,15 @@ HGNC:13389	NID2	nidogen 2	14q22.1	ENSG00000087303
 HGNC:13390	NIF3L1	NGG1 interacting factor 3 like 1	2q33.1	ENSG00000196290
 HGNC:17838	NIFK	nucleolar protein interacting with the FHA domain of MKI67	2q14.3	ENSG00000155438
 HGNC:27385	NIFK-AS1	NIFK antisense RNA 1	2q14.3	ENSG00000236859
-HGNC:44949	NIFKP1	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 1	10p11.23	ENSG00000214434
-HGNC:44950	NIFKP2	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 2	5q35.2	ENSG00000251122
-HGNC:44951	NIFKP3	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 3	12p13.31	ENSG00000256331
-HGNC:44952	NIFKP4	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 4	15q24.2	ENSG00000261205
-HGNC:44953	NIFKP5	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 5	15q26.1	
-HGNC:44954	NIFKP6	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 6	19q13.41	ENSG00000268144
-HGNC:44955	NIFKP7	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 7	3p22.3	ENSG00000251590
-HGNC:44956	NIFKP8	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 8	15q25.3	ENSG00000259449
-HGNC:44957	NIFKP9	nucleolar protein interacting with the FHA domain of MKI67 pseudogene 9	2q14.3	ENSG00000237630
+HGNC:44949	NIFKP1	NIFK pseudogene 1	10p11.23	ENSG00000214434
+HGNC:44950	NIFKP2	NIFK pseudogene 2	5q35.2	ENSG00000251122
+HGNC:44951	NIFKP3	NIFK pseudogene 3	12p13.31	ENSG00000256331
+HGNC:44952	NIFKP4	NIFK pseudogene 4	15q24.2	ENSG00000261205
+HGNC:44953	NIFKP5	NIFK pseudogene 5	15q26.1	
+HGNC:44954	NIFKP6	NIFK pseudogene 6	19q13.41	ENSG00000268144
+HGNC:44955	NIFKP7	NIFK pseudogene 7	3p22.3	ENSG00000251590
+HGNC:44956	NIFKP8	NIFK pseudogene 8	15q25.3	ENSG00000259449
+HGNC:44957	NIFKP9	NIFK pseudogene 9	2q14.3	ENSG00000237630
 HGNC:53024	NIHCOLE	ncRNA involved in NHEJ oncogenic ligation efficiency	5q21.2	ENSG00000251026
 HGNC:28646	NIM1K	NIM1 serine/threonine protein kinase	5p12	ENSG00000177453
 HGNC:14906	NIN	ninein	14q22.1	ENSG00000100503
@@ -22993,7 +22993,7 @@ HGNC:10668	NOXA1	NADPH oxidase activator 1	9q34.3	ENSG00000188747
 HGNC:19404	NOXO1	NADPH oxidase organizer 1	16p13.3	ENSG00000196408
 HGNC:20487	NOXRED1	NADP dependent oxidoreductase domain containing 1	14q24.3	ENSG00000165555
 HGNC:1190	NPAP1	nuclear pore associated protein 1	15q11.2	ENSG00000185823
-HGNC:53980	NPAP1L	nuclear pore associated protein 1 like	16q21	ENSG00000278499
+HGNC:53980	NPAP1L	nuclear pore associated protein 1 like (pseudogene)	16q21	ENSG00000278499
 HGNC:45018	NPAP1P1	nuclear pore associated protein 1 pseudogene 1	10q11.23	
 HGNC:45019	NPAP1P2	nuclear pore associated protein 1 pseudogene 2	10q22.3	ENSG00000214695
 HGNC:45020	NPAP1P3	nuclear pore associated protein 1 pseudogene 3	10q23.2	ENSG00000237740
@@ -24820,7 +24820,7 @@ HGNC:55087	PARD6BP1	PARD6B pseudogene 1	Xq25	ENSG00000237025
 HGNC:16076	PARD6G	par-6 family cell polarity regulator gamma	18q23	ENSG00000178184
 HGNC:44109	PARD6G-AS1	PARD6G antisense RNA 1	18q23	ENSG00000267270
 HGNC:8605	PARG	poly(ADP-ribose) glycohydrolase	10q11.23	ENSG00000227345
-HGNC:45008	PARGP1	poly(ADP-ribose) glycohydrolase pseudogene 1	10q11.22	ENSG00000239883
+HGNC:45008	PARGP1	PARG pseudogene 1	10q11.22	ENSG00000239883
 HGNC:16369	PARK7	Parkinsonism associated deglycase	1p36.23	ENSG00000116288
 HGNC:55066	PARK7P1	PARK7 pseudogene 1	12q13.12	ENSG00000257243
 HGNC:55067	PARK7P2	PARK7 pseudogene 2	9q22.32	ENSG00000237631
@@ -30136,6 +30136,7 @@ HGNC:40020	RNF223	ring finger protein 223	1p36.33	ENSG00000237330
 HGNC:41912	RNF224	ring finger protein 224	9q34.3	ENSG00000233198
 HGNC:51249	RNF225	ring finger protein 225	19q13.43	ENSG00000269855
 HGNC:27571	RNF227	ring finger protein 227	17p13.1	ENSG00000179859
+HGNC:55809	RNF228	ring finger protein 228	2q36.1	
 HGNC:30206	RNFT1	ring finger protein, transmembrane 1	17q23.1	ENSG00000189050
 HGNC:51346	RNFT1-DT	RNFT1 divergent transcript	17q23.1	ENSG00000267302
 HGNC:44387	RNFT1P1	ring finger protein, transmembrane 1 pseudogene 1	2p24.1	
@@ -36164,6 +36165,7 @@ HGNC:49847	SMIM10L1	small integral membrane protein 10 like 1	12p13.2	ENSG000002
 HGNC:34499	SMIM10L2A	small integral membrane protein 10 like 2A	Xq26.3	ENSG00000178947
 HGNC:34500	SMIM10L2B	small integral membrane protein 10 like 2B	Xq26.3	ENSG00000196972
 HGNC:53137	SMIM10L2B-AS1	SMIM10L2B antisense RNA 1	Xq26.3	ENSG00000228372
+HGNC:56768	SMIM10L3	small integral membrane protein 10 like 3	7p22.1	
 HGNC:1293	SMIM11	small integral membrane protein 11	21q22.11-q22.12	ENSG00000205670
 HGNC:21400	SMIM11P1	SMIM11 pseudogene 1	6q14.3	ENSG00000198738
 HGNC:56407	SMIM11P2	SMIM11 pseudogene 2	3p22.3	ENSG00000270377
