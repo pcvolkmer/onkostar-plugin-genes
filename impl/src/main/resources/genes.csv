@@ -2932,7 +2932,6 @@ HGNC:27017	C2orf76	chromosome 2 open reading frame 76	2q14.2	ENSG00000186132
 HGNC:34349	C2orf78	chromosome 2 open reading frame 78	2p13.1	ENSG00000187833
 HGNC:34352	C2orf80	chromosome 2 open reading frame 80	2q33.3	ENSG00000188674
 HGNC:34350	C2orf81	chromosome 2 open reading frame 81	2p13.1	ENSG00000284308
-HGNC:25344	C2orf83	chromosome 2 open reading frame 83	2q36.3	ENSG00000042304
 HGNC:28191	C2orf88	chromosome 2 open reading frame 88	2q32.2	ENSG00000187699
 HGNC:49272	C2orf92	chromosome 2 open reading frame 92	2q11.2	ENSG00000228486
 HGNC:1318	C3	complement C3	19p13.3	ENSG00000125730
@@ -6896,7 +6895,7 @@ HGNC:14353	DNALI1	dynein axonemal light intermediate chain 1	1p34.3	ENSG00000163
 HGNC:2956	DNASE1	deoxyribonuclease 1	16p13.3	ENSG00000213918
 HGNC:2957	DNASE1L1	deoxyribonuclease 1 like 1	Xq28	ENSG00000013563
 HGNC:2958	DNASE1L2	deoxyribonuclease 1 like 2	16p13.3	ENSG00000167968
-HGNC:2959	DNASE1L3	deoxyribonuclease 1 like 3	3p14.3	ENSG00000163687
+HGNC:2959	DNASE1L3	deoxyribonuclease 1L3	3p14.3	ENSG00000163687
 HGNC:2960	DNASE2	deoxyribonuclease 2, lysosomal	19p13.13	ENSG00000105612
 HGNC:28875	DNASE2B	deoxyribonuclease 2 beta	1p31.1-p22.3	ENSG00000137976
 HGNC:23799	DND1	DND microRNA-mediated repression inhibitor 1	5q31.3	ENSG00000256453
@@ -9391,10 +9390,10 @@ HGNC:42951	FNDC10	fibronectin type III domain containing 10	1p36.33	ENSG00000228
 HGNC:28764	FNDC11	fibronectin type III domain containing 11	20q13.33	ENSG00000125531
 HGNC:29418	FNIP1	folliculin interacting protein 1	5q31.1	ENSG00000217128
 HGNC:29280	FNIP2	folliculin interacting protein 2	4q32.1	ENSG00000052795
-HGNC:3782	FNTA	farnesyltransferase, CAAX box, alpha	8p11.21	ENSG00000168522
+HGNC:3782	FNTA	farnesyltransferase, CAAX box, subunit alpha	8p11.21	ENSG00000168522
 HGNC:3783	FNTAP1	farnesyltransferase, CAAX box, alpha pseudogene 1	11q14.2	ENSG00000254502
 HGNC:3784	FNTAP2	farnesyltransferase, CAAX box, alpha pseudogene 2	13q12.11	ENSG00000230022
-HGNC:3785	FNTB	farnesyltransferase, CAAX box, beta	14q23.3	ENSG00000257365
+HGNC:3785	FNTB	farnesyltransferase, CAAX box, subunit beta	14q23.3	ENSG00000257365
 HGNC:23377	FOCAD	focadhesin	9p21.3	ENSG00000188352
 HGNC:49789	FOCAD-AS1	FOCAD antisense RNA 1	9p21.3	ENSG00000227071
 HGNC:3788	FOLH1	folate hydrolase 1	11p11.12	ENSG00000086205
@@ -18451,7 +18450,7 @@ HGNC:25856	METTL8	methyltransferase 8, tRNA N3-cytidine	2q31.1	ENSG00000123600
 HGNC:49856	METTL8P1	methyltransferase like 8 pseudogene 1	12p12.3	ENSG00000256283
 HGNC:24586	METTL9	methyltransferase 9, His-X-His N1(pi)-histidine	16p12.2	ENSG00000197006
 HGNC:24248	METTL13	methyltransferase 13, eEF1A N-terminus and K55	1q24.3	ENSG00000010165
-HGNC:29330	METTL14	methyltransferase 14, N6-adenosine-methyltransferase subunit	4q26	ENSG00000145388
+HGNC:29330	METTL14	methyltransferase 14, N6-adenosine-methyltransferase non-catalytic subunit	4q26	ENSG00000145388
 HGNC:53367	METTL14-DT	METTL14 divergent transcript	4q26	ENSG00000281731
 HGNC:26606	METTL15	methyltransferase 15, mitochondrial 12S rRNA N4-cytidine	11p14.1	ENSG00000169519
 HGNC:31926	METTL15P1	methyltransferase like 15 pseudogene 1	3q25.31	ENSG00000174912
@@ -35703,6 +35702,7 @@ HGNC:21573	SLC18B1	solute carrier family 18 member B1	6q23.2	ENSG00000146409
 HGNC:10937	SLC19A1	solute carrier family 19 member 1	21q22.3	ENSG00000173638
 HGNC:10938	SLC19A2	solute carrier family 19 member 2	1q24.2	ENSG00000117479
 HGNC:16266	SLC19A3	solute carrier family 19 member 3	2q36.3	ENSG00000135917
+HGNC:25344	SLC19A4P	solute carrier family 19 member 4, pseudogene	2q36.3	ENSG00000042304
 HGNC:10946	SLC20A1	solute carrier family 20 member 1	2q14.1	ENSG00000144136
 HGNC:55651	SLC20A1-DT	SLC20A1 divergent transcript	2q14.1	ENSG00000237753
 HGNC:20051	SLC20A1P1	solute carrier family 20 member 1 pseudogene 1	14q32.33	ENSG00000223506
@@ -41447,7 +41447,7 @@ HGNC:49522	UBE2Q2P11	UBE2Q2 pseudogene 11	15q25.2	ENSG00000259538
 HGNC:49523	UBE2Q2P12	UBE2Q2 pseudogene 12	15q25.2	ENSG00000197627
 HGNC:56078	UBE2Q2P13	UBE2Q2 pseudogene 13	15q26.3	
 HGNC:44656	UBE2Q2P16	UBE2Q2 pseudogene 16	15q25.2	ENSG00000259511
-HGNC:37269	UBE2QL1	ubiquitin conjugating enzyme E2 Q family like 1	5p15.31	ENSG00000215218
+HGNC:37269	UBE2QL1	ubiquitin conjugating enzyme E2 QL1	5p15.31	ENSG00000215218
 HGNC:19907	UBE2R2	ubiquitin conjugating enzyme E2 R2	9p13.3	ENSG00000107341
 HGNC:49911	UBE2R2-AS1	UBE2R2 antisense RNA 1	9p13.3	ENSG00000235481
 HGNC:17895	UBE2S	ubiquitin conjugating enzyme E2 S	19q13.42	ENSG00000108106
