@@ -16227,7 +16227,6 @@ HGNC:52790	LINC01965	long intergenic non-protein coding RNA 1965	2q12.1	ENSG0000
 HGNC:52792	LINC01966	long intergenic non-protein coding RNA 1966	2q22.3	ENSG00000268580
 HGNC:52793	LINC01967	long intergenic non-protein coding RNA 1967	3p24.1	ENSG00000235493
 HGNC:52794	LINC01968	long intergenic non-protein coding RNA 1968	3q29	ENSG00000237222
-HGNC:52795	LINC01969	long intergenic non-protein coding RNA 1969	17q21.33	
 HGNC:52796	LINC01970	long intergenic non-protein coding RNA 1970	17q25.3	ENSG00000265692
 HGNC:52797	LINC01971	long intergenic non-protein coding RNA 1971	17q25.3	ENSG00000278200
 HGNC:52798	LINC01972	long intergenic non-protein coding RNA 1972	3q29	ENSG00000230401
@@ -20875,7 +20874,7 @@ HGNC:40108	MRAP-AS1	MRAP antisense RNA 1	21q22.11	ENSG00000232623
 HGNC:21232	MRAP2	melanocortin 2 receptor accessory protein 2	6q14.2	ENSG00000135324
 HGNC:7227	MRAS	muscle RAS oncogene homolog	3q22.3	ENSG00000158186
 HGNC:7228	MRC1	mannose receptor C-type 1	10p12.33	ENSG00000260314
-HGNC:16875	MRC2	mannose receptor C type 2	17q23.2	ENSG00000011028
+HGNC:16875	MRC2	mannose receptor C-type 2	17q23.2	ENSG00000011028
 HGNC:7230	MRE11	MRE11 homolog, double strand break repair nuclease	11q21	ENSG00000020922
 HGNC:7231	MRE11P1	MRE11 homolog, double strand break repair nuclease pseudogene 1	3q25.31	ENSG00000242537
 HGNC:25478	MREG	melanoregulin	2q35	ENSG00000118242
@@ -38882,6 +38881,7 @@ HGNC:18336	TIGD5	tigger transposable element derived 5	8q24.3	ENSG00000179886
 HGNC:18332	TIGD6	tigger transposable element derived 6	5q32	ENSG00000164296
 HGNC:18331	TIGD7	tigger transposable element derived 7	16p13.3	ENSG00000140993
 HGNC:26838	TIGIT	T cell immunoreceptor with Ig and ITIM domains	3q13.31	ENSG00000181847
+HGNC:52795	TILAM	TGF-beta induced lncRNA activating myofibroblasts	17q21.33	
 HGNC:53077	TILRLS	TCL1A interacting lncRNA, retroperitoneal liposarcoma associated	5q12.3	ENSG00000251206
 HGNC:25132	TIMD4	T cell immunoglobulin and mucin domain containing 4	5q33.3	ENSG00000145850
 HGNC:11813	TIMELESS	timeless circadian regulator	12q13.3	ENSG00000111602
