@@ -205,6 +205,7 @@ HGNC:18356	ACER1	alkaline ceramidase 1	19p13.3	ENSG00000167769
 HGNC:23675	ACER2	alkaline ceramidase 2	9p22.1	ENSG00000177076
 HGNC:54674	ACER2P1	ACER2 pseudogene 1	2q33.3	ENSG00000180105
 HGNC:16066	ACER3	alkaline ceramidase 3	11q13.5	ENSG00000078124
+HGNC:58067	ACER3-AS1	ACER antisense RNA 1	11q13.5	
 HGNC:108	ACHE	acetylcholinesterase (Yt blood group)	7q22.1	ENSG00000087085
 HGNC:17066	ACIN1	apoptotic chromatin condensation inducer 1	14q11.2	ENSG00000100813
 HGNC:4035	ACKR1	atypical chemokine receptor 1 (Duffy blood group)	1q23.2	ENSG00000213088
@@ -379,7 +380,6 @@ HGNC:30713	ADAD1	adenosine deaminase domain containing 1	4q27	ENSG00000164113
 HGNC:44550	ADAD1P1	adenosine deaminase domain containing 1 pseudogene 1	3p22.2	ENSG00000270367
 HGNC:44552	ADAD1P2	adenosine deaminase domain containing 1 pseudogene 2	18q21.1	ENSG00000267511
 HGNC:30714	ADAD2	adenosine deaminase domain containing 2	16q24.1	ENSG00000140955
-HGNC:31853	ADAL	adenosine deaminase like	15q15.3	ENSG00000168803
 HGNC:187	ADAM1A	ADAM metallopeptidase domain 1A (pseudogene)	12q24.12-q24.13	ENSG00000229186
 HGNC:44366	ADAM1B	ADAM metallopeptidase domain 1B (pseudogene)	12q24.13	ENSG00000226469
 HGNC:198	ADAM2	ADAM metallopeptidase domain 2	8p11.22	ENSG00000104755
@@ -435,6 +435,7 @@ HGNC:1366	ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif 13	9q3
 HGNC:14899	ADAMTS14	ADAM metallopeptidase with thrombospondin type 1 motif 14	10q22.1	ENSG00000138316
 HGNC:16305	ADAMTS15	ADAM metallopeptidase with thrombospondin type 1 motif 15	11q24.3	ENSG00000166106
 HGNC:17108	ADAMTS16	ADAM metallopeptidase with thrombospondin type 1 motif 16	5p15.32	ENSG00000145536
+HGNC:58093	ADAMTS16-AS1	ADAMTS16 antisense RNA 1	5p15.32	
 HGNC:55548	ADAMTS16-DT	ADAMTS16 divergent transcript	5p15.32	ENSG00000250579
 HGNC:17109	ADAMTS17	ADAM metallopeptidase with thrombospondin type 1 motif 17	15q26.3	ENSG00000140470
 HGNC:17110	ADAMTS18	ADAM metallopeptidase with thrombospondin type 1 motif 18	16q23.1	ENSG00000140873
@@ -655,7 +656,7 @@ HGNC:21869	AGK	acylglycerol kinase	7q34	ENSG00000006530
 HGNC:55356	AGK-DT	AGK divergent transcript	7q34	ENSG00000261570
 HGNC:37661	AGKP1	AGK pseudogene 1	Yq11.221	ENSG00000226555
 HGNC:55132	AGKP2	AGK pseudogene 2	Xq26.2	ENSG00000228819
-HGNC:321	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase	1p21.2	ENSG00000162688
+HGNC:321	AGL	amylo-alpha-1,6-glucosidase and 4-alpha-glucanotransferase	1p21.2	ENSG00000162688
 HGNC:18407	AGMAT	agmatinase (putative)	1p36.21	ENSG00000116771
 HGNC:33784	AGMO	alkylglycerol monooxygenase	7p21.2	ENSG00000187546
 HGNC:3262	AGO1	argonaute RISC component 1	1p34.3	ENSG00000092847
@@ -714,8 +715,8 @@ HGNC:352	AIF1	allograft inflammatory factor 1	6p21.33	ENSG00000204472
 HGNC:28904	AIF1L	allograft inflammatory factor 1 like	9q34.12-q34.13	ENSG00000126878
 HGNC:8768	AIFM1	apoptosis inducing factor mitochondria associated 1	Xq26.1	ENSG00000156709
 HGNC:44884	AIFM1P1	AIFM1 pseudogene 1	10p12.31	ENSG00000225509
-HGNC:21411	AIFM2	apoptosis inducing factor mitochondria associated 2	10q22.1	ENSG00000042286
-HGNC:26398	AIFM3	apoptosis inducing factor mitochondria associated 3	22q11.21	ENSG00000183773
+HGNC:21411	AIFM2	AIF family member 2	10q22.1	ENSG00000042286
+HGNC:26398	AIFM3	AIF family member 3	22q11.21	ENSG00000183773
 HGNC:21607	AIG1	androgen induced 1	6q24.2	ENSG00000146416
 HGNC:43926	AIG1P1	androgen induced 1 pseudogene 1	5p13.1	ENSG00000249089
 HGNC:357	AIM2	absent in melanoma 2	1q23.1-q23.2	ENSG00000163568
@@ -893,7 +894,6 @@ HGNC:19358	ALG12	ALG12 alpha-1,6-mannosyltransferase	22q13.33	ENSG00000182858
 HGNC:30881	ALG13	ALG13 UDP-N-acetylglucosaminyltransferase subunit	Xq23	ENSG00000101901
 HGNC:41277	ALG13-AS1	ALG13 antisense RNA 1	Xq23	ENSG00000229487
 HGNC:28287	ALG14	ALG14 UDP-N-acetylglucosaminyltransferase subunit	1p21.3	ENSG00000172339
-HGNC:41192	ALG14-AS1	ALG14 antisense RNA 1	1p21.3	ENSG00000230427
 HGNC:427	ALK	ALK receptor tyrosine kinase	2p23.2-p23.1	ENSG00000171094
 HGNC:33775	ALKAL1	ALK and LTK ligand 1	8q11.23	ENSG00000196711
 HGNC:27683	ALKAL2	ALK and LTK ligand 2	2p25.3	ENSG00000189292
@@ -913,7 +913,6 @@ HGNC:29586	ALMS1P1	ALMS1 pseudogene 1	2p13.1
 HGNC:435	ALOX5	arachidonate 5-lipoxygenase	10q11.21	ENSG00000012779
 HGNC:436	ALOX5AP	arachidonate 5-lipoxygenase activating protein	13q12.3	ENSG00000132965
 HGNC:429	ALOX12	arachidonate 12-lipoxygenase, 12S type	17p13.1	ENSG00000108839
-HGNC:51342	ALOX12-AS1	ALOX12 antisense RNA 1	17p13.1	ENSG00000215067
 HGNC:430	ALOX12B	arachidonate 12-lipoxygenase, 12R type	17p13.1	ENSG00000179477
 HGNC:431	ALOX12P1	arachidonate 12-lipoxygenase pseudogene 1	17q11.2	ENSG00000264958
 HGNC:432	ALOX12P2	arachidonate 12-lipoxygenase pseudogene 2	17p13.1	ENSG00000262943
@@ -921,7 +920,7 @@ HGNC:433	ALOX15	arachidonate 15-lipoxygenase	17p13.2	ENSG00000161905
 HGNC:434	ALOX15B	arachidonate 15-lipoxygenase type B	17p13.1	ENSG00000179593
 HGNC:13742	ALOX15P1	arachidonate 15-lipoxygenase pseudogene 1	17p13.1	ENSG00000274114
 HGNC:39027	ALOX15P2	arachidonate 15-lipoxygenase pseudogene 2	9q22.31	ENSG00000188101
-HGNC:13743	ALOXE3	arachidonate lipoxygenase 3	17p13.1	ENSG00000179148
+HGNC:13743	ALOXE3	arachidonate epidermal lipoxygenase 3	17p13.1	ENSG00000179148
 HGNC:44238	ALOXE3P1	arachidonate lipoxygenase 3 pseudogene 1	17p13.1	ENSG00000275011
 HGNC:441	ALPG	alkaline phosphatase, germ cell	2q37.1	ENSG00000163286
 HGNC:437	ALPI	alkaline phosphatase, intestinal	2q37.1	ENSG00000163295
@@ -1315,8 +1314,8 @@ HGNC:603	APOB	apolipoprotein B	2p24.1	ENSG00000084674
 HGNC:604	APOBEC1	apolipoprotein B mRNA editing enzyme catalytic subunit 1	12p13.31	ENSG00000111701
 HGNC:605	APOBEC2	apolipoprotein B mRNA editing enzyme catalytic subunit 2	6p21.1	ENSG00000124701
 HGNC:17343	APOBEC3A	apolipoprotein B mRNA editing enzyme catalytic subunit 3A	22q13.1	ENSG00000128383
-HGNC:44196	APOBEC3A_B	APOBEC3A and APOBEC3B deletion hybrid	22q13 alternate reference locus	
 HGNC:43835	APOBEC3AP1	apolipoprotein B mRNA editing enzyme catalytic subunit 3A pseudogene 1	4q33	ENSG00000248822
+HGNC:44196	APOBEC3A_B	APOBEC3A and APOBEC3B deletion hybrid	22q13 alternate reference locus	
 HGNC:17352	APOBEC3B	apolipoprotein B mRNA editing enzyme catalytic subunit 3B	22q13.1	ENSG00000179750
 HGNC:43836	APOBEC3B-AS1	APOBEC3B antisense RNA 1	22q13.1	ENSG00000249310
 HGNC:17353	APOBEC3C	apolipoprotein B mRNA editing enzyme catalytic subunit 3C	22q13.1	ENSG00000244509
@@ -1401,31 +1400,31 @@ HGNC:648	ARC	activity regulated cytoskeleton associated protein	8q24.3	ENSG00000
 HGNC:649	ARCN1	archain 1	11q23.3	ENSG00000095139
 HGNC:651	AREG	amphiregulin	4q13.3	ENSG00000109321
 HGNC:20363	AREL1	apoptosis resistant E3 ubiquitin protein ligase 1	14q24.3	ENSG00000119682
-HGNC:652	ARF1	ADP ribosylation factor 1	1q42.13	ENSG00000143761
-HGNC:22500	ARF1P1	ADP ribosylation factor 1 pseudogene 1	7q21.3	ENSG00000219807
-HGNC:39883	ARF1P2	ADP ribosylation factor 1 pseudogene 2	12q24.31	ENSG00000213137
-HGNC:39884	ARF1P3	ADP ribosylation factor 1 pseudogene 3	8q24.13	ENSG00000253885
-HGNC:44341	ARF2P	ADP ribosylation factor 2, pseudogene	17q21.31	
-HGNC:654	ARF3	ADP ribosylation factor 3	12q13.12	ENSG00000134287
-HGNC:655	ARF4	ADP ribosylation factor 4	3p14.3	ENSG00000168374
+HGNC:652	ARF1	ARF GTPase 1	1q42.13	ENSG00000143761
+HGNC:22500	ARF1P1	ARF GTPase 1 pseudogene 1	7q21.3	ENSG00000219807
+HGNC:39883	ARF1P2	ARF GTPase 1 pseudogene 2	12q24.31	ENSG00000213137
+HGNC:39884	ARF1P3	ARF GTPase 1 pseudogene 3	8q24.13	ENSG00000253885
+HGNC:44341	ARF2P	ARF GTPase 2, pseudogene	17q21.31	
+HGNC:654	ARF3	ARF GTPase 3	12q13.12	ENSG00000134287
+HGNC:655	ARF4	ARF GTPase 4	3p14.3	ENSG00000168374
 HGNC:51593	ARF4-AS1	ARF4 antisense RNA 1	3p14.3	ENSG00000272146
-HGNC:657	ARF4P1	ADP ribosylation factor 4 pseudogene 1	9q34.2	ENSG00000271525
-HGNC:16599	ARF4P2	ADP ribosylation factor 4 pseudogene 2	20q13.33	ENSG00000236527
-HGNC:32380	ARF4P3	ADP ribosylation factor 4 pseudogene 3	13q32.3	ENSG00000214051
-HGNC:37628	ARF4P4	ADP ribosylation factor 4 pseudogene 4	13q31.1	ENSG00000231222
-HGNC:37629	ARF4P5	ADP ribosylation factor 4 pseudogene 5	1p31.1	
-HGNC:658	ARF5	ADP ribosylation factor 5	7q32.1	ENSG00000004059
-HGNC:659	ARF6	ADP ribosylation factor 6	14q21.3	ENSG00000165527
-HGNC:15852	ARFGAP1	ADP ribosylation factor GTPase activating protein 1	20q13.33	ENSG00000101199
-HGNC:13504	ARFGAP2	ADP ribosylation factor GTPase activating protein 2	11p11.2	ENSG00000149182
-HGNC:661	ARFGAP3	ADP ribosylation factor GTPase activating protein 3	22q13.2	ENSG00000242247
-HGNC:15772	ARFGEF1	ADP ribosylation factor guanine nucleotide exchange factor 1	8q13.2	ENSG00000066777
+HGNC:657	ARF4P1	ARF GTPase 4 pseudogene 1	9q34.2	ENSG00000271525
+HGNC:16599	ARF4P2	ARF GTPase 4 pseudogene 2	20q13.33	ENSG00000236527
+HGNC:32380	ARF4P3	ARF GTPase 4 pseudogene 3	13q32.3	ENSG00000214051
+HGNC:37628	ARF4P4	ARF GTPase 4 pseudogene 4	13q31.1	ENSG00000231222
+HGNC:37629	ARF4P5	ARF GTPase 4 pseudogene 5	1p31.1	
+HGNC:658	ARF5	ARF GTPase 5	7q32.1	ENSG00000004059
+HGNC:659	ARF6	ARF GTPase 6	14q21.3	ENSG00000165527
+HGNC:15852	ARFGAP1	ARF GTPase activating protein 1	20q13.33	ENSG00000101199
+HGNC:13504	ARFGAP2	ARF GTPase activating protein 2	11p11.2	ENSG00000149182
+HGNC:661	ARFGAP3	ARF GTPase activating protein 3	22q13.2	ENSG00000242247
+HGNC:15772	ARFGEF1	ARF guanine nucleotide exchange factor 1	8q13.2	ENSG00000066777
 HGNC:55237	ARFGEF1-DT	ARFGEF1 divergent transcript	8q13.2	ENSG00000271966
-HGNC:15853	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2	20q13.13	ENSG00000124198
+HGNC:15853	ARFGEF2	ARF guanine nucleotide exchange factor 2	20q13.13	ENSG00000124198
 HGNC:21213	ARFGEF3	ARFGEF family member 3	6q23.3-q24.1	ENSG00000112379
-HGNC:21496	ARFIP1	ADP ribosylation factor interacting protein 1	4q31.3	ENSG00000164144
-HGNC:17160	ARFIP2	ADP ribosylation factor interacting protein 2	11p15.4	ENSG00000132254
-HGNC:662	ARFRP1	ADP ribosylation factor related protein 1	20q13.33	ENSG00000101246
+HGNC:21496	ARFIP1	ARF interacting protein 1	4q31.3	ENSG00000164144
+HGNC:17160	ARFIP2	ARF interacting protein 2	11p15.4	ENSG00000132254
+HGNC:662	ARFRP1	ARF related protein 1	20q13.33	ENSG00000101246
 HGNC:663	ARG1	arginase 1	6q23.2	ENSG00000118520
 HGNC:664	ARG2	arginase 2	14q24.1	ENSG00000081181
 HGNC:30146	ARGFX	arginine-fifty homeobox	3q13.33	ENSG00000186103
@@ -1553,63 +1552,64 @@ HGNC:34425	ARIH2OS	ARIH2 opposite strand lncRNA	3p21.31	ENSG00000221883
 HGNC:31732	ARIH2P1	ariadne RBR E3 ubiquitin protein ligase 2 pseudogene 1	18q12.1	ENSG00000266296
 HGNC:31696	ARK2C	arkadia (RNF111) C-terminal like ring finger ubiquitin ligase 2C	18q21.1	ENSG00000141622
 HGNC:28172	ARK2N	arkadia (RNF111) N-terminal like PKA signaling regulator 2N	18q21.1	ENSG00000152242
-HGNC:692	ARL1	ADP ribosylation factor like GTPase 1	12q23.2	ENSG00000120805
-HGNC:693	ARL2	ADP ribosylation factor like GTPase 2	11q13.1	ENSG00000213465
+HGNC:692	ARL1	ARF like GTPase 1	12q23.2	ENSG00000120805
+HGNC:693	ARL2	ARF like GTPase 2	11q13.1	ENSG00000213465
 HGNC:49197	ARL2-SNX15	ARL2-SNX15 readthrough (NMD candidate)	11q13.1	ENSG00000273003
-HGNC:17146	ARL2BP	ADP ribosylation factor like GTPase 2 binding protein	16q13	ENSG00000102931
-HGNC:17742	ARL2BPP1	ADP ribosylation factor like GTPase 2 binding protein pseudogene 1	18q23	ENSG00000265934
-HGNC:31036	ARL2BPP2	ADP ribosylation factor like GTPase 2 binding protein pseudogene 2	12q13.13	ENSG00000258071
-HGNC:39447	ARL2BPP3	ADP ribosylation factor like GTPase 2 binding protein pseudogene 3	13q13.3	ENSG00000215486
-HGNC:39448	ARL2BPP4	ADP ribosylation factor like GTPase 2 binding protein pseudogene 4	5q23.3	ENSG00000249312
-HGNC:39449	ARL2BPP5	ADP ribosylation factor like GTPase 2 binding protein pseudogene 5	5q34	ENSG00000254351
-HGNC:39450	ARL2BPP6	ADP ribosylation factor like GTPase 2 binding protein pseudogene 6	5q35.2	ENSG00000248355
-HGNC:39451	ARL2BPP7	ADP ribosylation factor like GTPase 2 binding protein pseudogene 7	9q31.1	ENSG00000230418
-HGNC:39452	ARL2BPP8	ADP ribosylation factor like GTPase 2 binding protein pseudogene 8	17q22	ENSG00000263125
-HGNC:39453	ARL2BPP9	ADP ribosylation factor like GTPase 2 binding protein pseudogene 9	17q25.3	
-HGNC:39454	ARL2BPP10	ADP ribosylation factor like GTPase 2 binding protein pseudogene 10	22q11.21	ENSG00000225225
-HGNC:694	ARL3	ADP ribosylation factor like GTPase 3	10q24.32	ENSG00000138175
-HGNC:695	ARL4A	ADP ribosylation factor like GTPase 4A	7p21.3	ENSG00000122644
-HGNC:17741	ARL4AP1	ADP ribosylation factor like GTPase 4A pseudogene 1	10q21.2	ENSG00000122872
-HGNC:32379	ARL4AP2	ADP ribosylation factor like GTPase 4A pseudogene 2	4p14	ENSG00000248780
-HGNC:52372	ARL4AP3	ADP ribosylation factor like GTPase 4A pseudogene 3	10p15.1	ENSG00000228291
-HGNC:52373	ARL4AP4	ADP ribosylation factor like GTPase 4A pseudogene 4	3p24.2	ENSG00000231395
-HGNC:52374	ARL4AP5	ADP ribosylation factor like GTPase 4A pseudogene 5	6q25.1	ENSG00000218996
-HGNC:698	ARL4C	ADP ribosylation factor like GTPase 4C	2q37.1	ENSG00000188042
-HGNC:656	ARL4D	ADP ribosylation factor like GTPase 4D	17q21.31	ENSG00000175906
-HGNC:696	ARL5A	ADP ribosylation factor like GTPase 5A	2q23.3	ENSG00000162980
+HGNC:17146	ARL2BP	ARF like GTPase 2 binding protein	16q13	ENSG00000102931
+HGNC:17742	ARL2BPP1	ARF like GTPase 2 binding protein pseudogene 1	18q23	ENSG00000265934
+HGNC:31036	ARL2BPP2	ARF like GTPase 2 binding protein pseudogene 2	12q13.13	ENSG00000258071
+HGNC:39447	ARL2BPP3	ARF like GTPase 2 binding protein pseudogene 3	13q13.3	ENSG00000215486
+HGNC:39448	ARL2BPP4	ARF like GTPase 2 binding protein pseudogene 4	5q23.3	ENSG00000249312
+HGNC:39449	ARL2BPP5	ARF like GTPase 2 binding protein pseudogene 5	5q34	ENSG00000254351
+HGNC:39450	ARL2BPP6	ARF like GTPase 2 binding protein pseudogene 6	5q35.2	ENSG00000248355
+HGNC:39451	ARL2BPP7	ARF like GTPase 2 binding protein pseudogene 7	9q31.1	ENSG00000230418
+HGNC:39452	ARL2BPP8	ARF like GTPase 2 binding protein pseudogene 8	17q22	ENSG00000263125
+HGNC:39453	ARL2BPP9	ARF like GTPase 2 binding protein pseudogene 9	17q25.3	
+HGNC:39454	ARL2BPP10	ARF like GTPase 2 binding protein pseudogene 10	22q11.21	ENSG00000225225
+HGNC:694	ARL3	ARF like GTPase 3	10q24.32	ENSG00000138175
+HGNC:695	ARL4A	ARF like GTPase 4A	7p21.3	ENSG00000122644
+HGNC:17741	ARL4AP1	ARF like GTPase 4A pseudogene 1	10q21.2	ENSG00000122872
+HGNC:32379	ARL4AP2	ARF like GTPase 4A pseudogene 2	4p14	ENSG00000248780
+HGNC:52372	ARL4AP3	ARF like GTPase 4A pseudogene 3	10p15.1	ENSG00000228291
+HGNC:52373	ARL4AP4	ARF like GTPase 4A pseudogene 4	3p24.2	ENSG00000231395
+HGNC:52374	ARL4AP5	ARF like GTPase 4A pseudogene 5	6q25.1	ENSG00000218996
+HGNC:698	ARL4C	ARF like GTPase 4C	2q37.1	ENSG00000188042
+HGNC:656	ARL4D	ARF like GTPase 4D	17q21.31	ENSG00000175906
+HGNC:696	ARL5A	ARF like GTPase 5A	2q23.3	ENSG00000162980
 HGNC:43933	ARL5AP1	ARL5A pseudogene 1	Xq24	ENSG00000227864
 HGNC:43937	ARL5AP2	ARL5A pseudogene 2	10q24.2	ENSG00000236818
 HGNC:43935	ARL5AP3	ARL5A pseudogene 3	1p31.3	ENSG00000228431
 HGNC:43936	ARL5AP4	ARL5A pseudogene 4	22q11.23	ENSG00000224806
 HGNC:55001	ARL5AP5	ARL5A pseudogene 5	Xq13.3	ENSG00000232332
-HGNC:23052	ARL5B	ADP ribosylation factor like GTPase 5B	10p12.31	ENSG00000165997
-HGNC:31111	ARL5C	ADP ribosylation factor like GTPase 5C	17q12	ENSG00000141748
-HGNC:13210	ARL6	ADP ribosylation factor like GTPase 6	3q11.2	ENSG00000113966
-HGNC:697	ARL6IP1	ADP ribosylation factor like GTPase 6 interacting protein 1	16p12.3	ENSG00000170540
-HGNC:23178	ARL6IP1P1	ADP ribosylation factor like GTPase 6 interacting protein 1 pseudogene 1	14q11.2	ENSG00000255664
-HGNC:44971	ARL6IP1P2	ADP ribosylation factor like GTPase 6 interacting protein 1 pseudogene 2	10p11.21	ENSG00000225355
-HGNC:44972	ARL6IP1P3	ADP ribosylation factor like GTPase 6 interacting protein 1 pseudogene 3	11q14.1	ENSG00000255014
-HGNC:18076	ARL6IP4	ADP ribosylation factor like GTPase 6 interacting protein 4	12q24.31	ENSG00000182196
-HGNC:16937	ARL6IP5	ADP ribosylation factor like GTPase 6 interacting protein 5	3p14.1	ENSG00000144746
-HGNC:24048	ARL6IP6	ADP ribosylation factor like GTPase 6 interacting protein 6	2q23.3	ENSG00000177917
-HGNC:25192	ARL8A	ADP ribosylation factor like GTPase 8A	1q32.1	ENSG00000143862
-HGNC:25564	ARL8B	ADP ribosylation factor like GTPase 8B	3p26.1	ENSG00000134108
+HGNC:23052	ARL5B	ARF like GTPase 5B	10p12.31	ENSG00000165997
+HGNC:31111	ARL5C	ARF like GTPase 5C	17q12	ENSG00000141748
+HGNC:13210	ARL6	ARF like GTPase 6	3q11.2	ENSG00000113966
+HGNC:697	ARL6IP1	ARL6 interacting reticulophagy regulator 1	16p12.3	ENSG00000170540
+HGNC:23178	ARL6IP1P1	ARF like GTPase 6 interacting protein 1 pseudogene 1	14q11.2	ENSG00000255664
+HGNC:44971	ARL6IP1P2	ARF like GTPase 6 interacting protein 1 pseudogene 2	10p11.21	ENSG00000225355
+HGNC:44972	ARL6IP1P3	ARF like GTPase 6 interacting protein 1 pseudogene 3	11q14.1	ENSG00000255014
+HGNC:18076	ARL6IP4	ARF like GTPase 6 interacting protein 4	12q24.31	ENSG00000182196
+HGNC:16937	ARL6IP5	ARF like GTPase 6 interacting protein 5	3p14.1	ENSG00000144746
+HGNC:24048	ARL6IP6	ARF like GTPase 6 interacting protein 6	2q23.3	ENSG00000177917
+HGNC:25192	ARL8A	ARF like GTPase 8A	1q32.1	ENSG00000143862
+HGNC:25564	ARL8B	ARF like GTPase 8B	3p26.1	ENSG00000134108
 HGNC:56628	ARL8BP1	ARL8B pseudogene 1	3q29	ENSG00000228413
 HGNC:56629	ARL8BP2	ARL8B pseudogene 2	1p35.3	ENSG00000214812
-HGNC:23592	ARL9	ADP ribosylation factor like GTPase 9	4q12	ENSG00000196503
-HGNC:22042	ARL10	ADP ribosylation factor like GTPase 10	5q35.2	ENSG00000175414
-HGNC:24046	ARL11	ADP ribosylation factor like GTPase 11	13q14.2	ENSG00000152213
-HGNC:31709	ARL13A	ADP ribosylation factor like GTPase 13A	Xq22.1	ENSG00000174225
-HGNC:25419	ARL13B	ADP ribosylation factor like GTPase 13B	3q11.1-q11.2	ENSG00000169379
-HGNC:22974	ARL14	ADP ribosylation factor like GTPase 14	3q25.33	ENSG00000179674
-HGNC:26798	ARL14EP	ADP ribosylation factor like GTPase 14 effector protein	11p14.1	ENSG00000152219
+HGNC:23592	ARL9	ARF like GTPase 9	4q12	ENSG00000196503
+HGNC:22042	ARL10	ARF like GTPase 10	5q35.2	ENSG00000175414
+HGNC:24046	ARL11	ARF like GTPase 11	13q14.2	ENSG00000152213
+HGNC:31709	ARL13A	ARF like GTPase 13A	Xq22.1	ENSG00000174225
+HGNC:25419	ARL13B	ARF like GTPase 13B	3q11.1-q11.2	ENSG00000169379
+HGNC:22974	ARL14	ARF like GTPase 14	3q25.33	ENSG00000179674
+HGNC:26798	ARL14EP	ARF like GTPase 14 effector protein	11p14.1	ENSG00000152219
 HGNC:55517	ARL14EP-DT	ARL14EP divergent transcript	11p14.1	ENSG00000254532
-HGNC:44201	ARL14EPL	ADP ribosylation factor like GTPase 14 effector protein like	5q23.1	ENSG00000268223
+HGNC:44201	ARL14EPL	ARF like GTPase 14 effector protein like	5q23.1	ENSG00000268223
 HGNC:54676	ARL14EPP1	ARL14EP pseudogene 1	2p22.2	ENSG00000224891
-HGNC:25945	ARL15	ADP ribosylation factor like GTPase 15	5q11.2	ENSG00000185305
-HGNC:27902	ARL16	ADP ribosylation factor like GTPase 16	17q25.3	ENSG00000214087
-HGNC:24096	ARL17A	ADP ribosylation factor like GTPase 17A	17q21.31	ENSG00000185829
-HGNC:32387	ARL17B	ADP ribosylation factor like GTPase 17B	17q21.31	ENSG00000228696
+HGNC:25945	ARL15	ARF like GTPase 15	5q11.2	ENSG00000185305
+HGNC:27902	ARL16	ARF like GTPase 16	17q25.3	ENSG00000214087
+HGNC:24096	ARL17A	ARF like GTPase 17A	17q21.31	ENSG00000185829
+HGNC:32387	ARL17B	ARF like GTPase 17B	17q21.31	ENSG00000228696
+HGNC:19225	ARLN	allregulin	4q26	ENSG00000164096
 HGNC:53032	ARLNC1	androgen receptor regulated long noncoding RNA 1	16q23.2	ENSG00000260896
 HGNC:17684	ARMC1	armadillo repeat containing 1	8q13.1	ENSG00000104442
 HGNC:23045	ARMC2	armadillo repeat containing 2	6q21	ENSG00000118690
@@ -1713,6 +1713,14 @@ HGNC:24998	ASAP1-IT1	ASAP1 intronic transcript 1	8q24.21
 HGNC:48917	ASAP1-IT2	ASAP1 intronic transcript 2	8q24.21	ENSG00000280543
 HGNC:2721	ASAP2	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2	2p25.1	ENSG00000151693
 HGNC:14987	ASAP3	ArfGAP with SH3 domain, ankyrin repeat and PH domain 3	1p36.12	ENSG00000088280
+HGNC:57016	ASAR1-1	asynchronous replication autosomal RNA 1-1	1q31.1	
+HGNC:38875	ASAR6-1	asynchronous replication autosomal RNA 6-1	6q16.1	
+HGNC:57017	ASAR6-2	asynchronous replication autosomal RNA 6-2	6q24.1	
+HGNC:57018	ASAR8-1	asynchronous replication autosomal RNA 8-1	8p23.2	
+HGNC:57019	ASAR9-1	asynchronous replication autosomal RNA 9-1	9p21.3	
+HGNC:57020	ASAR9-2	asynchronous replication autosomal RNA 9-2	9p21.3	
+HGNC:57021	ASAR9-3	asynchronous replication autosomal RNA 9-3	9p21.1	
+HGNC:54861	ASAR15-1	asynchronous replication autosomal RNA 15-1	15q24.3	
 HGNC:16011	ASB1	ankyrin repeat and SOCS box containing 1	2q37.3	ENSG00000065802
 HGNC:16012	ASB2	ankyrin repeat and SOCS box containing 2	14q32.12	ENSG00000100628
 HGNC:16013	ASB3	ankyrin repeat and SOCS box containing 3	2p16.2	ENSG00000115239
@@ -2191,6 +2199,7 @@ HGNC:932	BAAT	bile acid-CoA:amino acid N-acyltransferase	9q31.1	ENSG00000136881
 HGNC:25008	BABAM1	BRISC and BRCA1 A complex member 1	19p13.11	ENSG00000105393
 HGNC:1106	BABAM2	BRISC and BRCA1 A complex member 2	2p23.2	ENSG00000158019
 HGNC:44171	BABAM2-AS1	BABAM2 antisense RNA 1	2p23.2	
+HGNC:28737	BACC1	BPTF associated chromatin complex component 1	17p13.1	ENSG00000258315
 HGNC:933	BACE1	beta-secretase 1	11q23.3	ENSG00000186318
 HGNC:37125	BACE1-AS	BACE1 antisense RNA	11q23.3	ENSG00000278768
 HGNC:934	BACE2	beta-secretase 2	21q22.2-q22.3	ENSG00000182240
@@ -2227,7 +2236,7 @@ HGNC:997	BAK1P2	BCL2 antagonist/killer 1 pseudogene 2	11q24.3	ENSG00000236616
 HGNC:27946	BALR6	B-cell acute lymphoblastic leukemia associated long RNA 6	3p24.3	ENSG00000274840
 HGNC:30251	BAMBI	BMP and activin membrane bound inhibitor	10p12.1	ENSG00000095739
 HGNC:43877	BANCR	BRAF-activated non-protein coding RNA	9q21.11-q21.12	ENSG00000278910
-HGNC:17397	BANF1	BAF nuclear assembly factor 1	11q13.1	ENSG00000175334
+HGNC:17397	BANF1	barrier to autointegration nuclear assembly factor 1	11q13.1	ENSG00000175334
 HGNC:20252	BANF1P1	BANF1 pseudogene 1	14q24.1	ENSG00000258531
 HGNC:23426	BANF1P2	BANF1 pseudogene 2	10q26.3	ENSG00000230306
 HGNC:43883	BANF1P3	BANF1 pseudogene 3	2q37.1	ENSG00000237758
@@ -2236,7 +2245,7 @@ HGNC:43885	BANF1P5	BANF1 pseudogene 5	7q22.3	ENSG00000225935
 HGNC:16172	BANF2	BANF family member 2	20p12.1	ENSG00000125888
 HGNC:18233	BANK1	B cell scaffold protein with ankyrin repeats 1	4q24	ENSG00000153064
 HGNC:13450	BANP	BTG3 associated nuclear protein	16q24.2	ENSG00000172530
-HGNC:950	BAP1	BRCA1 associated protein 1	3p21.1	ENSG00000163930
+HGNC:950	BAP1	BRCA1 associated deubiquitinase 1	3p21.1	ENSG00000163930
 HGNC:952	BARD1	BRCA1 associated RING domain 1	2q35	ENSG00000138376
 HGNC:953	BARHL1	BarH like homeobox 1	9q34.13	ENSG00000125492
 HGNC:954	BARHL2	BarH like homeobox 2	1p22.2	ENSG00000143032
@@ -2364,7 +2373,7 @@ HGNC:1029	BDKRB1	bradykinin receptor B1	14q32.2	ENSG00000100739
 HGNC:1030	BDKRB2	bradykinin receptor B2	14q32.2	ENSG00000168398
 HGNC:1033	BDNF	brain derived neurotrophic factor	11p14.1	ENSG00000176697
 HGNC:20608	BDNF-AS	BDNF antisense RNA	11p14.1	ENSG00000245573
-HGNC:13652	BDP1	B double prime 1, subunit of RNA polymerase III transcription initiation factor IIIB	5q13.2	ENSG00000145734
+HGNC:13652	BDP1	BDP1 general transcription factor IIIB subunit	5q13.2	ENSG00000145734
 HGNC:31044	BDP1P	B double prime 1 pseudogene	18q23	ENSG00000264736
 HGNC:24160	BEAN1	brain expressed associated with NEDD4 1	16q21	ENSG00000166546
 HGNC:51114	BEAN1-AS1	BEAN1 antisense RNA 1	16q21	ENSG00000261656
@@ -2528,7 +2537,6 @@ HGNC:49153	BMS1P20	BMS1 pseudogene 20	22q11.22	ENSG00000272779
 HGNC:51604	BMS1P21	BMS1 pseudogene 21	10q22.3	ENSG00000283101
 HGNC:51603	BMS1P22	BMS1 pseudogene 22	22q11.1	ENSG00000232775
 HGNC:55088	BMS1P23	BMS1 pseudogene 23	2q11.1	ENSG00000286156
-HGNC:26475	BMT2	base methyltransferase of 25S rRNA 2 homolog	7q31.1	ENSG00000164603
 HGNC:1079	BMX	BMX non-receptor tyrosine kinase	Xp22.2	ENSG00000102010
 HGNC:56666	BNAT1	breast cancer associated ESR1 regulating natural antisense transcript 1	21q22.3	ENSG00000273796
 HGNC:1081	BNC1	basonuclin zinc finger protein 1	15q25.2	ENSG00000169594
@@ -2672,8 +2680,8 @@ HGNC:51446	BRD9P2	bromodomain containing 9 pseudogene 2	5p15.33	ENSG00000249908
 HGNC:23378	BRD10	bromodomain containing 10	9p24.1	ENSG00000183354
 HGNC:1105	BRDT	bromodomain testis associated	1p22.1	ENSG00000137948
 HGNC:51447	BRDTP1	bromodomain testis associated pseudogene 1	Xq21.33	ENSG00000271209
-HGNC:11551	BRF1	BRF1 RNA polymerase III transcription initiation factor subunit	14q32.33	ENSG00000185024
-HGNC:17298	BRF2	BRF2 RNA polymerase III transcription initiation factor subunit	8p11.23	ENSG00000104221
+HGNC:11551	BRF1	BRF1 general transcription factor IIIB subunit	14q32.33	ENSG00000185024
+HGNC:17298	BRF2	BRF2 general transcription factor IIIB subunit	8p11.23	ENSG00000104221
 HGNC:1109	BRI3	brain protein I3	7q21.3	ENSG00000164713
 HGNC:14251	BRI3BP	BRI3 binding protein	12q24.31	ENSG00000184992
 HGNC:51482	BRI3BPP1	BRI3 binding protein pseudogene 1	19p12	ENSG00000269136
@@ -2685,7 +2693,7 @@ HGNC:2687	BRINP1	BMP/retinoic acid inducible neural specific 1	9q33.1	ENSG000000
 HGNC:13746	BRINP2	BMP/retinoic acid inducible neural specific 2	1q25.2	ENSG00000198797
 HGNC:22393	BRINP3	BMP/retinoic acid inducible neural specific 3	1q31.1	ENSG00000162670
 HGNC:50577	BRINP3-DT	BRINP3 divergent transcript	1q31.1	ENSG00000237457
-HGNC:20473	BRIP1	BRCA1 interacting helicase 1	17q23.2	ENSG00000136492
+HGNC:20473	BRIP1	BRCA1 interacting DNA helicase 1	17q23.2	ENSG00000136492
 HGNC:24170	BRIX1	biogenesis of ribosomes BRX1	5p13.2	ENSG00000113460
 HGNC:51527	BRIX1P1	BRIX1 pseudogene 1	8q11.22	ENSG00000254025
 HGNC:23057	BRK1	BRICK1 subunit of SCAR/WAVE actin nucleating complex	3p25.3	ENSG00000254999
@@ -2703,7 +2711,6 @@ HGNC:18994	BRSK1	BR serine/threonine kinase 1	19q13.42	ENSG00000160469
 HGNC:11405	BRSK2	BR serine/threonine kinase 2	11p15.5	ENSG00000174672
 HGNC:12760	BRWD1	bromodomain and WD repeat domain containing 1	21q22.2	ENSG00000185658
 HGNC:40614	BRWD1-AS1	BRWD1 antisense RNA 1	21q22.2	ENSG00000238141
-HGNC:16423	BRWD1-AS2	BRWD1 antisense RNA 2	21q22.2	ENSG00000255568
 HGNC:41920	BRWD1-IT1	BRWD1 intronic transcript 1	21q22.2	ENSG00000237373
 HGNC:51528	BRWD1P1	bromodomain and WD repeat domain containing 1 pseudogene 1	1p36.21	ENSG00000215909
 HGNC:51529	BRWD1P2	bromodomain and WD repeat domain containing 1 pseudogene 2	12q21.33	ENSG00000258290
@@ -2812,8 +2819,6 @@ HGNC:16405	BUD23	BUD23 rRNA methyltransferase and ribosome maturation factor	7q1
 HGNC:29629	BUD31	BUD31 homolog	7q22.1	ENSG00000106245
 HGNC:51561	BUD31P1	BUD31 homolog pseudogene 1	8p12	ENSG00000253684
 HGNC:51562	BUD31P2	BUD31 homolog pseudogene 2	Xq13.3	ENSG00000229661
-HGNC:1152	BVES	blood vessel epicardial substance	6q21	ENSG00000112276
-HGNC:21223	BVES-AS1	BVES antisense RNA 1	6q21	ENSG00000203808
 HGNC:1153	BVR1	Burkitt lymphoma variant rearranging region 1	8q24	
 HGNC:1157	BYSL	bystin like	6p21.1	ENSG00000112578
 HGNC:18380	BZW1	basic leucine zipper and W2 domains 1	2q33.1	ENSG00000082153
@@ -2833,39 +2838,6 @@ HGNC:51617	C1GALT1C1L	C1GALT1 specific chaperone 1 like	2p21	ENSG00000223658
 HGNC:51614	C1GALT1P1	C1GALT1 pseudogene 1	12q15	ENSG00000257818
 HGNC:51615	C1GALT1P2	C1GALT1 pseudogene 2	5q11.2	ENSG00000251435
 HGNC:51616	C1GALT1P3	C1GALT1 pseudogene 3	8q12.3	ENSG00000253544
-HGNC:15494	C1orf21	chromosome 1 open reading frame 21	1q25.3	ENSG00000116667
-HGNC:55249	C1orf21-DT	C1orf21 divergent transcript	1q25.3	ENSG00000271387
-HGNC:19032	C1orf35	chromosome 1 open reading frame 35	1q42.13	ENSG00000143793
-HGNC:29876	C1orf43	chromosome 1 open reading frame 43	1q21.3	ENSG00000143612
-HGNC:28795	C1orf50	chromosome 1 open reading frame 50	1p34.2	ENSG00000164008
-HGNC:24871	C1orf52	chromosome 1 open reading frame 52	1p22.3	ENSG00000162642
-HGNC:30003	C1orf53	chromosome 1 open reading frame 53	1q31.3	ENSG00000203724
-HGNC:26258	C1orf54	chromosome 1 open reading frame 54	1q21.2	ENSG00000118292
-HGNC:26045	C1orf56	chromosome 1 open reading frame 56	1q21.3	ENSG00000143443
-HGNC:26319	C1orf74	chromosome 1 open reading frame 74	1q32.2	ENSG00000162757
-HGNC:28547	C1orf87	chromosome 1 open reading frame 87	1p32.1	ENSG00000162598
-HGNC:28250	C1orf94	chromosome 1 open reading frame 94	1p35.1	ENSG00000142698
-HGNC:29591	C1orf105	chromosome 1 open reading frame 105	1q24.3	ENSG00000180999
-HGNC:25873	C1orf115	chromosome 1 open reading frame 115	1q41	ENSG00000162817
-HGNC:28667	C1orf116	chromosome 1 open reading frame 116	1q32.1	ENSG00000182795
-HGNC:24789	C1orf122	chromosome 1 open reading frame 122	1p34.3	ENSG00000197982
-HGNC:26730	C1orf127	chromosome 1 open reading frame 127	1p36.22	ENSG00000175262
-HGNC:25332	C1orf131	chromosome 1 open reading frame 131	1q42.2	ENSG00000143633
-HGNC:32044	C1orf141	chromosome 1 open reading frame 141	1p31.3	ENSG00000203963
-HGNC:24032	C1orf146	chromosome 1 open reading frame 146	1p22.1	ENSG00000203910
-HGNC:26062	C1orf159	chromosome 1 open reading frame 159	1p36.33	ENSG00000131591
-HGNC:28344	C1orf162	chromosome 1 open reading frame 162	1p13.2	ENSG00000143110
-HGNC:25262	C1orf167	chromosome 1 open reading frame 167	1p36.22	ENSG00000215910
-HGNC:41091	C1orf167-AS1	C1orf167 antisense RNA 1	1p36.22	ENSG00000177553
-HGNC:27915	C1orf174	chromosome 1 open reading frame 174	1p36.32	ENSG00000198912
-HGNC:28096	C1orf185	chromosome 1 open reading frame 185	1p32.3	ENSG00000204006
-HGNC:25900	C1orf198	chromosome 1 open reading frame 198	1q42.2	ENSG00000119280
-HGNC:56760	C1orf202	chromosome 1 open reading frame 202	1q44	ENSG00000284188
-HGNC:28755	C1orf210	chromosome 1 open reading frame 210	1p34.2	ENSG00000253313
-HGNC:26800	C1orf216	chromosome 1 open reading frame 216	1p34.3	ENSG00000142686
-HGNC:33805	C1orf220	chromosome 1 putative open reading frame 220	1q25.2	ENSG00000213057
-HGNC:34351	C1orf226	chromosome 1 open reading frame 226	1q23.3	ENSG00000239887
-HGNC:53426	C1orf232	chromosome 1 open reading frame 230	1p36.11	ENSG00000282872
 HGNC:1241	C1QA	complement C1q A chain	1p36.12	ENSG00000173372
 HGNC:1242	C1QB	complement C1q B chain	1p36.12	ENSG00000173369
 HGNC:1243	C1QBP	complement C1q binding protein	17p13.2	ENSG00000108561
@@ -2897,6 +2869,38 @@ HGNC:1246	C1R	complement C1r	12p13.31	ENSG00000159403
 HGNC:21265	C1RL	complement C1r subcomponent like	12p13.31	ENSG00000139178
 HGNC:27461	C1RL-AS1	C1RL antisense RNA 1	12p13.31	ENSG00000205885
 HGNC:1247	C1S	complement C1s	12p13.31	ENSG00000182326
+HGNC:15494	C1orf21	chromosome 1 open reading frame 21	1q25.3	ENSG00000116667
+HGNC:55249	C1orf21-DT	C1orf21 divergent transcript	1q25.3	ENSG00000271387
+HGNC:19032	C1orf35	chromosome 1 open reading frame 35	1q42.13	ENSG00000143793
+HGNC:29876	C1orf43	chromosome 1 open reading frame 43	1q21.3	ENSG00000143612
+HGNC:28795	C1orf50	chromosome 1 open reading frame 50	1p34.2	ENSG00000164008
+HGNC:24871	C1orf52	chromosome 1 open reading frame 52	1p22.3	ENSG00000162642
+HGNC:30003	C1orf53	chromosome 1 open reading frame 53	1q31.3	ENSG00000203724
+HGNC:26258	C1orf54	chromosome 1 open reading frame 54	1q21.2	ENSG00000118292
+HGNC:26045	C1orf56	chromosome 1 open reading frame 56	1q21.3	ENSG00000143443
+HGNC:26319	C1orf74	chromosome 1 open reading frame 74	1q32.2	ENSG00000162757
+HGNC:28547	C1orf87	chromosome 1 open reading frame 87	1p32.1	ENSG00000162598
+HGNC:28250	C1orf94	chromosome 1 open reading frame 94	1p35.1	ENSG00000142698
+HGNC:29591	C1orf105	chromosome 1 open reading frame 105	1q24.3	ENSG00000180999
+HGNC:25873	C1orf115	chromosome 1 open reading frame 115	1q41	ENSG00000162817
+HGNC:28667	C1orf116	chromosome 1 open reading frame 116	1q32.1	ENSG00000182795
+HGNC:24789	C1orf122	chromosome 1 open reading frame 122	1p34.3	ENSG00000197982
+HGNC:26730	C1orf127	chromosome 1 open reading frame 127	1p36.22	ENSG00000175262
+HGNC:32044	C1orf141	chromosome 1 open reading frame 141	1p31.3	ENSG00000203963
+HGNC:24032	C1orf146	chromosome 1 open reading frame 146	1p22.1	ENSG00000203910
+HGNC:26062	C1orf159	chromosome 1 open reading frame 159	1p36.33	ENSG00000131591
+HGNC:28344	C1orf162	chromosome 1 open reading frame 162	1p13.2	ENSG00000143110
+HGNC:25262	C1orf167	chromosome 1 open reading frame 167	1p36.22	ENSG00000215910
+HGNC:41091	C1orf167-AS1	C1orf167 antisense RNA 1	1p36.22	ENSG00000177553
+HGNC:27915	C1orf174	chromosome 1 open reading frame 174	1p36.32	ENSG00000198912
+HGNC:28096	C1orf185	chromosome 1 open reading frame 185	1p32.3	ENSG00000204006
+HGNC:25900	C1orf198	chromosome 1 open reading frame 198	1q42.2	ENSG00000119280
+HGNC:56760	C1orf202	chromosome 1 open reading frame 202	1q44	ENSG00000284188
+HGNC:28755	C1orf210	chromosome 1 open reading frame 210	1p34.2	ENSG00000253313
+HGNC:26800	C1orf216	chromosome 1 open reading frame 216	1p34.3	ENSG00000142686
+HGNC:33805	C1orf220	chromosome 1 putative open reading frame 220	1q25.2	ENSG00000213057
+HGNC:34351	C1orf226	chromosome 1 open reading frame 226	1q23.3	ENSG00000239887
+HGNC:53426	C1orf232	chromosome 1 open reading frame 230	1p36.11	ENSG00000282872
 HGNC:1248	C2	complement C2	6p21.33	ENSG00000166278
 HGNC:49464	C2-AS1	C2 antisense RNA 1	6p21.33	ENSG00000281756
 HGNC:1266	C2CD2	C2 calcium dependent domain containing 2	21q22.3	ENSG00000157617
@@ -2914,7 +2918,6 @@ HGNC:28436	C2orf15	chromosome 2 open reading frame 15	2q11.2	ENSG00000273045
 HGNC:26056	C2orf42	chromosome 2 open reading frame 42	2p13.3	ENSG00000115998
 HGNC:28772	C2orf49	chromosome 2 open reading frame 49	2q12.2	ENSG00000135974
 HGNC:55178	C2orf49-DT	C2orf49 divergent transcript	2q12.2	ENSG00000272994
-HGNC:26324	C2orf50	chromosome 2 open reading frame 50	2p25.1	ENSG00000150873
 HGNC:33809	C2orf66	chromosome 2 open reading frame 66	2q33.1	ENSG00000187944
 HGNC:34353	C2orf68	chromosome 2 open reading frame 68	2p11.2	ENSG00000168887
 HGNC:26799	C2orf69	chromosome 2 open reading frame 69	2q33.1	ENSG00000178074
@@ -2923,11 +2926,9 @@ HGNC:51801	C2orf69P2	chromosome 2 open reading frame 69 pseudogene 2	16p11.1	ENS
 HGNC:51802	C2orf69P3	chromosome 2 open reading frame 69 pseudogene 3	16p11.1	ENSG00000261299
 HGNC:51803	C2orf69P4	chromosome 2 open reading frame 69 pseudogene 4	16p11.1	ENSG00000260480
 HGNC:51804	C2orf69P5	chromosome 2 open reading frame 69 pseudogene 5	16p11.2	
-HGNC:27418	C2orf72	chromosome 2 open reading frame 72	2q37.1	ENSG00000204128
-HGNC:26861	C2orf73	chromosome 2 open reading frame 73	2p16.2	ENSG00000177994
+HGNC:27418	C2orf72	 chromosome 2 open reading frame 72 	2q37.1	ENSG00000204128
 HGNC:34439	C2orf74	chromosome 2 open reading frame 74	2p15	ENSG00000237651
 HGNC:56377	C2orf74-AS1	C2orf74 antisense RNA 1	2p15	ENSG00000271889
-HGNC:27941	C2orf74-DT	C2orf74 divergent transcript	2p15	ENSG00000212978
 HGNC:27017	C2orf76	chromosome 2 open reading frame 76	2q14.2	ENSG00000186132
 HGNC:34349	C2orf78	chromosome 2 open reading frame 78	2p13.1	ENSG00000187833
 HGNC:34352	C2orf80	chromosome 2 open reading frame 80	2q33.3	ENSG00000188674
@@ -2937,6 +2938,7 @@ HGNC:49272	C2orf92	chromosome 2 open reading frame 92	2q11.2	ENSG00000228486
 HGNC:1318	C3	complement C3	19p13.3	ENSG00000125730
 HGNC:1319	C3AR1	complement C3a receptor 1	12p13.31	ENSG00000171860
 HGNC:1320	C3CER1	chromosome 3 common eliminated region 1	3p22-p21.2	
+HGNC:34414	C3P1	complement component 3 precursor pseudogene	19p13.2	
 HGNC:24837	C3orf18	chromosome 3 open reading frame 18	3p21.31	ENSG00000088543
 HGNC:25320	C3orf20	chromosome 3 open reading frame 20	3p25.1	ENSG00000131379
 HGNC:28534	C3orf22	chromosome 3 open reading frame 22	3q21.3	ENSG00000180697
@@ -2949,21 +2951,18 @@ HGNC:26255	C3orf52	chromosome 3 open reading frame 52	3q13.2	ENSG00000114529
 HGNC:24771	C3orf62	chromosome 3 open reading frame 62	3p21.31	ENSG00000188315
 HGNC:33731	C3orf70	chromosome 3 open reading frame 70	3q27.2	ENSG00000187068
 HGNC:40048	C3orf80	chromosome 3 open reading frame 80	3q25.33	ENSG00000180044
-HGNC:44666	C3orf84	chromosome 3 open reading frame 84	3p21.31	ENSG00000236980
 HGNC:53432	C3orf85	chromosome 3 open reading frame 85	3q13.13	ENSG00000241224
 HGNC:44570	C3orf86P	chromosome 3 open reading frame 86, pseudogene	3p21.31	ENSG00000225873
-HGNC:34414	C3P1	complement component 3 precursor pseudogene	19p13.2	
 HGNC:1323	C4A	complement C4A (Chido/Rodgers blood group)	6p21.33	ENSG00000244731
 HGNC:39753	C4A-AS1	C4A antisense RNA 1	6p21.33	ENSG00000233627
 HGNC:1324	C4B	complement C4B (Chido/Rodgers blood group)	6p21.33	ENSG00000224389
-HGNC:42398	C4B_2	complement component 4B (Chido/Rodgers blood group), copy 2	6p21.3 alternate reference locus	
 HGNC:39752	C4B-AS1	C4B antisense RNA 1	6p21.33	ENSG00000229776
 HGNC:1325	C4BPA	complement component 4 binding protein alpha	1q32.2	ENSG00000123838
 HGNC:1326	C4BPAP1	C4BPA pseudogene 1	1q32.2	ENSG00000224462
 HGNC:1327	C4BPAP2	C4BPA pseudogene 2	1q32.2	ENSG00000232621
 HGNC:51640	C4BPAP3	C4BPA pseudogene 3	1q32.2	
 HGNC:1328	C4BPB	complement component 4 binding protein beta	1q32.1	ENSG00000123843
-HGNC:19225	C4orf3	chromosome 4 open reading frame 3	4q26	ENSG00000164096
+HGNC:42398	C4B_2	complement component 4B (Chido/Rodgers blood group), copy 2	6p21.3 alternate reference locus	
 HGNC:25274	C4orf17	chromosome 4 open reading frame 17	4q23	ENSG00000138813
 HGNC:25618	C4orf19	chromosome 4 open reading frame 19	4p14	ENSG00000154274
 HGNC:27025	C4orf33	chromosome 4 open reading frame 33	4q28.2	ENSG00000151470
@@ -2989,7 +2988,6 @@ HGNC:33768	C5orf46	chromosome 5 open reading frame 46	5q32	ENSG00000178776
 HGNC:27026	C5orf47	chromosome 5 open reading frame 47	5q35.2	ENSG00000185056
 HGNC:35121	C5orf52	chromosome 5 open reading frame 52	5q33.3	ENSG00000187658
 HGNC:37272	C5orf58	chromosome 5 open reading frame 58	5q35.1	ENSG00000234511
-HGNC:27753	C5orf60	chromosome 5 open reading frame 60	5q35.3	ENSG00000204661
 HGNC:40051	C5orf63	chromosome 5 open reading frame 63	5q23.2	ENSG00000164241
 HGNC:51252	C5orf67	chromosome 5 putative open reading frame 67	5q11.2	ENSG00000225940
 HGNC:1339	C6	complement C6	5p13.1	ENSG00000039537
@@ -3006,7 +3004,6 @@ HGNC:21288	C6orf132	chromosome 6 open reading frame 132	6p21.1	ENSG00000188112
 HGNC:21301	C6orf136	chromosome 6 open reading frame 136	6p21.33	ENSG00000204564
 HGNC:21351	C6orf141	chromosome 6 open reading frame 141	6p12.3	ENSG00000197261
 HGNC:21403	C6orf163	chromosome 6 open reading frame 163	6q15	ENSG00000203872
-HGNC:34431	C6orf226	chromosome 6 open reading frame 226	6p21.1	ENSG00000221821
 HGNC:1346	C7	complement C7	5p13.1	ENSG00000112936
 HGNC:21703	C7orf25	chromosome 7 open reading frame 25	7p14.1	ENSG00000136197
 HGNC:21724	C7orf33	chromosome 7 open reading frame 33	7q36.1	ENSG00000170279
@@ -3100,8 +3097,8 @@ HGNC:19834	C14orf28	chromosome 14 open reading frame 28	14q21.2	ENSG00000179476
 HGNC:19849	C14orf39	chromosome 14 open reading frame 39	14q23.1	ENSG00000179008
 HGNC:20162	C14orf93	chromosome 14 open reading frame 93	14q11.2	ENSG00000100802
 HGNC:20270	C14orf119	chromosome 14 open reading frame 119	14q11.2	ENSG00000179933
+HGNC:57043	C14orf119P1	C14orf119 pseudogene 1	9q32	
 HGNC:20346	C14orf132	chromosome 14 open reading frame 132	14q32.2	ENSG00000227051
-HGNC:26385	C14orf178	chromosome 14 open reading frame 178	14q24.3	ENSG00000197734
 HGNC:33795	C14orf180	chromosome 14 open reading frame 180	14q32.33	ENSG00000184601
 HGNC:26549	C15orf32	chromosome 15 putative open reading frame 32	15q26.1	ENSG00000183643
 HGNC:24497	C15orf39	chromosome 15 open reading frame 39	15q24.2	ENSG00000167173
@@ -3123,7 +3120,6 @@ HGNC:26346	C16orf92	chromosome 16 open reading frame 92	16p11.2	ENSG00000167194
 HGNC:40033	C16orf95	chromosome 16 open reading frame 95	16q24.2	ENSG00000260456
 HGNC:55269	C16orf95-DT	C16orf95 divergent transcript	16q24.2	ENSG00000270006
 HGNC:40031	C16orf96	chromosome 16 open reading frame 96	16p13.3	ENSG00000205832
-HGNC:28737	C17orf49	chromosome 17 open reading frame 49	17p13.1	ENSG00000258315
 HGNC:29581	C17orf50	chromosome 17 open reading frame 50	17q12	ENSG00000270806
 HGNC:27568	C17orf58	chromosome 17 open reading frame 58	17q24.2	ENSG00000186665
 HGNC:27900	C17orf67	chromosome 17 open reading frame 67	17q22	ENSG00000214226
@@ -3136,6 +3132,7 @@ HGNC:53437	C17orf113	chromosome 17 open reading frame 113	17q21.2	ENSG0000026722
 HGNC:55343	C17orf114	chromosome 17 open reading frame 114	17p13.2	ENSG00000262165
 HGNC:26447	C18orf15	chromosome 18 putative open reading frame 15	18p11.21	ENSG00000279020
 HGNC:28802	C18orf21	chromosome 18 open reading frame 21	18q12.2	ENSG00000141428
+HGNC:57042	C18orf21P1	C18orf21 pseudogene 1	4q21.23	
 HGNC:31690	C18orf32	chromosome 18 open reading frame 32	18q21.1	ENSG00000177576
 HGNC:13796	C18orf54	chromosome 18 open reading frame 54	18q21.2	ENSG00000166845
 HGNC:40037	C18orf63	chromosome 18 open reading frame 63	18q22.3	ENSG00000206043
@@ -3216,8 +3213,6 @@ HGNC:1388	CACNA1A	calcium voltage-gated channel subunit alpha1 A	19p13.13	ENSG00
 HGNC:1389	CACNA1B	calcium voltage-gated channel subunit alpha1 B	9q34.3	ENSG00000148408
 HGNC:56165	CACNA1B-AS1	CACNA1B antisense RNA 1	9q34.3	
 HGNC:1390	CACNA1C	calcium voltage-gated channel subunit alpha1 C	12p13.33	ENSG00000151067
-HGNC:40119	CACNA1C-AS1	CACNA1C antisense RNA 1	12p13.33	ENSG00000246627
-HGNC:40118	CACNA1C-AS2	CACNA1C antisense RNA 2	12p13.33	ENSG00000256271
 HGNC:40117	CACNA1C-AS3	CACNA1C antisense RNA 3	12p13.33	ENSG00000256769
 HGNC:40116	CACNA1C-AS4	CACNA1C antisense RNA 4	12p13.33	ENSG00000256025
 HGNC:41312	CACNA1C-IT1	CACNA1C intronic transcript 1	12p13.33	ENSG00000256837
@@ -3635,7 +3630,6 @@ HGNC:25611	CCDC93	coiled-coil domain containing 93	2q14.1	ENSG00000125633
 HGNC:28289	CCDC97	coiled-coil domain containing 97	19q13.2	ENSG00000142039
 HGNC:28097	CCDC102A	coiled-coil domain containing 102A	16q21	ENSG00000135736
 HGNC:26295	CCDC102B	coiled-coil domain containing 102B	18q22.1	ENSG00000150636
-HGNC:32700	CCDC103	coiled-coil domain containing 103	17q21.31	ENSG00000167131
 HGNC:30181	CCDC106	coiled-coil domain containing 106	19q13.42	ENSG00000173581
 HGNC:28465	CCDC107	coiled-coil domain containing 107	9p13.3	ENSG00000159884
 HGNC:28504	CCDC110	coiled-coil domain containing 110	4q35.1	ENSG00000168491
@@ -4323,7 +4317,6 @@ HGNC:1857	CENPF	centromere protein F	1q41	ENSG00000117724
 HGNC:17268	CENPH	centromere protein H	5q13.2	ENSG00000153044
 HGNC:3968	CENPI	centromere protein I	Xq22.1	ENSG00000102384
 HGNC:39575	CENPIP1	centromere protein I pseudogene 1	13q12.11	ENSG00000224778
-HGNC:17272	CENPJ	centromere protein J	13q12.12-q12.13	ENSG00000151849
 HGNC:29479	CENPK	centromere protein K	5q12.3	ENSG00000123219
 HGNC:17879	CENPL	centromere protein L	1q25.1	ENSG00000120334
 HGNC:18352	CENPM	centromere protein M	22q13.2	ENSG00000100162
@@ -4399,7 +4392,7 @@ HGNC:24289	CEPT1	choline/ethanolamine phosphotransferase 1	1p13.3	ENSG0000013425
 HGNC:1862	CER1	cerberus 1, DAN family BMP antagonist	9p22.3	ENSG00000147869
 HGNC:23723	CERCAM	cerebral endothelial cell adhesion molecule	9q34.11	ENSG00000167123
 HGNC:19256	CERK	ceramide kinase	22q13.31	ENSG00000100422
-HGNC:21699	CERKL	ceramide kinase like	2q31.3	ENSG00000188452
+HGNC:21699	CERKL	CERK like autophagy regulator	2q31.3	ENSG00000188452
 HGNC:52664	CERNA1	competing endogenous lncRNA 1 for miR-4707-5p and miR-4767	15q21.2	ENSG00000259577
 HGNC:51354	CERNA2	competing endogenous lncRNA 2 for microRNA let-7b	10q23.1	ENSG00000285972
 HGNC:53469	CERNA3	competing endogenous lncRNA 3 for miR-645	8q12.1	ENSG00000253603
@@ -4782,6 +4775,9 @@ HGNC:34242	CIMIP2B	ciliary microtubule inner protein 2B	9p13.3	ENSG00000215187
 HGNC:27938	CIMIP2C	ciliary microtubule inner protein 2C	2p23.3	ENSG00000173557
 HGNC:55126	CIMIP3	ciliary microtubule inner protein 3	6p21.1	ENSG00000287363
 HGNC:28568	CIMIP4	ciliary microtubule inner protein 4	22q12.3	ENSG00000185264
+HGNC:26324	CIMIP5	ciliary microtubule inner protein 5	2p25.1	ENSG00000150873
+HGNC:26861	CIMIP6	ciliary microtubule inner protein 6	2p16.2	ENSG00000177994
+HGNC:44666	CIMIP7	ciliary microtubule inner protein 7	3p21.31	ENSG00000236980
 HGNC:23789	CINP	cyclin dependent kinase 2 interacting protein	14q32.31	ENSG00000100865
 HGNC:29302	CIP2A	cellular inhibitor of PP2A	3q13.13	ENSG00000163507
 HGNC:20365	CIPC	CLOCK interacting pacemaker	14q24.3	ENSG00000198894
@@ -4869,7 +4865,6 @@ HGNC:39907	CLDN10-AS1	CLDN10 antisense RNA 1	13q32.1	ENSG00000223392
 HGNC:8514	CLDN11	claudin 11	3q26.2	ENSG00000013297
 HGNC:2034	CLDN12	claudin 12	7q21.13	ENSG00000157224
 HGNC:2035	CLDN14	claudin 14	21q22.13	ENSG00000159261
-HGNC:55953	CLDN14-AS1	CLDN14 antisense RNA 1	21q22.13	ENSG00000233818
 HGNC:2036	CLDN15	claudin 15	7q22.1	ENSG00000106404
 HGNC:2037	CLDN16	claudin 16	3q28	ENSG00000113946
 HGNC:2038	CLDN17	claudin 17	21q21.3	ENSG00000156282
@@ -4968,7 +4963,6 @@ HGNC:24308	CLPTM1L	CLPTM1 like	5p15.33	ENSG00000049656
 HGNC:49023	CLPTM1LP1	CLPTM1L pseudogene 1	1q31.1	ENSG00000271036
 HGNC:2088	CLPX	caseinolytic mitochondrial matrix peptidase chaperone subunit X	15q22.31	ENSG00000166855
 HGNC:12605	CLRN1	clarin 1	3q25.1	ENSG00000163646
-HGNC:30895	CLRN1-AS1	CLRN1 antisense RNA 1	3q25.1	ENSG00000239265
 HGNC:33939	CLRN2	clarin 2	4p15.32	ENSG00000249581
 HGNC:20795	CLRN3	clarin 3	10q26.2	ENSG00000180745
 HGNC:19715	CLSPN	claspin	1p34.3	ENSG00000092853
@@ -5400,6 +5394,8 @@ HGNC:15740	CPA4	carboxypeptidase A4	7q32.2	ENSG00000128510
 HGNC:15722	CPA5	carboxypeptidase A5	7q32.2	ENSG00000158525
 HGNC:17245	CPA6	carboxypeptidase A6	8q13.2	ENSG00000165078
 HGNC:23228	CPAMD8	C3 and PZP like alpha-2-macroglobulin domain containing 8	19p13.11	ENSG00000160111
+HGNC:58113	CPAMD8P1	CPAMD8 pseudogene 1	7p21.3	
+HGNC:17272	CPAP	centrosome assembly and centriole elongation protein	13q12.12-q12.13	ENSG00000151849
 HGNC:2299	CPB1	carboxypeptidase B1	3q24	ENSG00000153002
 HGNC:2300	CPB2	carboxypeptidase B2	13q14.13	ENSG00000080618
 HGNC:39898	CPB2-AS1	CPB2 antisense RNA 1	13q14.13	ENSG00000235903
@@ -5535,6 +5531,7 @@ HGNC:16904	CRISP3	cysteine rich secretory protein 3	6p12.3	ENSG00000096006
 HGNC:18206	CRISPLD1	cysteine rich secretory protein LCCL domain containing 1	8q21.13	ENSG00000121005
 HGNC:25248	CRISPLD2	cysteine rich secretory protein LCCL domain containing 2	16q24.1	ENSG00000103196
 HGNC:2362	CRK	CRK proto-oncogene, adaptor protein	17p13.3	ENSG00000167193
+HGNC:58106	CRK-AS1	CRK antisense RNA 1	17p13.3	
 HGNC:2363	CRKL	CRK like proto-oncogene, adaptor protein	22q11.21	ENSG00000099942
 HGNC:2364	CRLF1	cytokine receptor like factor 1	19p12	ENSG00000006016
 HGNC:14281	CRLF2	cytokine receptor like factor 2	Xp22.3 and Yp11.3	
@@ -5652,9 +5649,9 @@ HGNC:49739	CSNK1G2P1	casein kinase 1 gamma 2 pseudogene 1	9p24.1	ENSG00000234534
 HGNC:2456	CSNK1G3	casein kinase 1 gamma 3	5q23.2	ENSG00000151292
 HGNC:2457	CSNK2A1	casein kinase 2 alpha 1	20p13	ENSG00000101266
 HGNC:2459	CSNK2A2	casein kinase 2 alpha 2	16q21	ENSG00000070770
+HGNC:53637	CSNK2A2IP	casein kinase 2 subunit alpha' interacting protein	3p11.1	ENSG00000283434
 HGNC:2458	CSNK2A3	casein kinase 2 alpha 3	11p15.4	ENSG00000254598
 HGNC:2460	CSNK2B	casein kinase 2 beta	6p21.33	ENSG00000204435
-HGNC:53637	CSNKA2IP	casein kinase 2 subunit alpha' interacting protein	3p11.1	ENSG00000283434
 HGNC:54777	CSP1	CS pseudogene 1	2p15	ENSG00000228872
 HGNC:54779	CSP2	CS pseudogene 2	3q13.12	ENSG00000241218
 HGNC:54780	CSP3	CS pseudogene 3	19p13.11	
@@ -5914,6 +5911,12 @@ HGNC:4540	CXCR3	C-X-C motif chemokine receptor 3	Xq13.1	ENSG00000186810
 HGNC:2561	CXCR4	C-X-C motif chemokine receptor 4	2q22.1	ENSG00000121966
 HGNC:1060	CXCR5	C-X-C motif chemokine receptor 5	11q23.3	ENSG00000160683
 HGNC:16647	CXCR6	C-X-C motif chemokine receptor 6	3p21.31	ENSG00000172215
+HGNC:24343	CXXC1	CXXC finger protein 1	18q21.1	ENSG00000154832
+HGNC:27864	CXXC1P1	CXXC finger protein 1 pseudogene 1	Xp11.23	ENSG00000187893
+HGNC:24593	CXXC4	CXXC finger protein 4	4q24	ENSG00000168772
+HGNC:41054	CXXC4-AS1	CXXC4 antisense RNA 1	4q24	ENSG00000245384
+HGNC:26943	CXXC5	CXXC finger protein 5	5q31.2	ENSG00000171604
+HGNC:53009	CXXC5-AS1	CXXC5 antisense RNA 1	5q31.2	ENSG00000250635
 HGNC:28589	CXorf38	chromosome X open reading frame 38	Xp11.4	ENSG00000185753
 HGNC:30891	CXorf49	chromosome X open reading frame 49	Xq13.1	ENSG00000215115
 HGNC:34229	CXorf49B	chromosome X open reading frame 49B	Xq13.1	ENSG00000215113
@@ -5922,12 +5925,6 @@ HGNC:42787	CXorf51B	chromosome X open reading frame 51B	Xq27.3	ENSG00000235699
 HGNC:26356	CXorf58	chromosome X open reading frame 58	Xp22.11	ENSG00000165182
 HGNC:33713	CXorf65	chromosome X open reading frame 65	Xq13.1	ENSG00000204165
 HGNC:33743	CXorf66	chromosome X open reading frame 66	Xq27.1	ENSG00000203933
-HGNC:24343	CXXC1	CXXC finger protein 1	18q21.1	ENSG00000154832
-HGNC:27864	CXXC1P1	CXXC finger protein 1 pseudogene 1	Xp11.23	ENSG00000187893
-HGNC:24593	CXXC4	CXXC finger protein 4	4q24	ENSG00000168772
-HGNC:41054	CXXC4-AS1	CXXC4 antisense RNA 1	4q24	ENSG00000245384
-HGNC:26943	CXXC5	CXXC finger protein 5	5q31.2	ENSG00000171604
-HGNC:53009	CXXC5-AS1	CXXC5 antisense RNA 1	5q31.2	ENSG00000250635
 HGNC:2570	CYB5A	cytochrome b5 type A	18q22.3	ENSG00000166347
 HGNC:2573	CYB5AP2	cytochrome b5 type A pseudogene 2	2q31.1	ENSG00000214369
 HGNC:2574	CYB5AP3	cytochrome b5 type A pseudogene 3	14q32.12	ENSG00000258595
@@ -6035,7 +6032,7 @@ HGNC:39972	CYP2C61P	cytochrome P450 family 2 subfamily C member 61, pseudogene	1
 HGNC:42411	CYP2C63P	cytochrome P450 family 2 subfamily C member 63, pseudogene	21q21.3	
 HGNC:39974	CYP2C64P	cytochrome P450 family 2 subfamily C member 64, pseudogene	Xq28	
 HGNC:42405	CYP2C115P	cytochrome P450 family 2 subfamily C member 115, pseudogene	10q23.33	
-HGNC:2625	CYP2D6	cytochrome P450 family 2 subfamily D member 6	22q13.2	ENSG00000100197
+HGNC:2625	CYP2D6	cytochrome P450 family 2 subfamily D member 6 (gene/pseudogene)	22q13.2	ENSG00000100197
 HGNC:2624	CYP2D7	cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene)	22q13.2	ENSG00000205702
 HGNC:2628	CYP2D8P	ccytochrome P450 family 2 subfamily D member 8, pseudogene	22q13.2	ENSG00000226450
 HGNC:2631	CYP2E1	cytochrome P450 family 2 subfamily E member 1	10q26.3	ENSG00000130649
@@ -6052,6 +6049,7 @@ HGNC:20582	CYP2U1	cytochrome P450 family 2 subfamily U member 1	4q25	ENSG0000015
 HGNC:54817	CYP2U1-AS1	CYP2U1 and SGMS2 antisense RNA 1	4q25	ENSG00000245293
 HGNC:20243	CYP2W1	cytochrome P450 family 2 subfamily W member 1	7p22.3	ENSG00000073067
 HGNC:2637	CYP3A4	cytochrome P450 family 3 subfamily A member 4	7q22.1	ENSG00000160868
+HGNC:58107	CYP3A4-AS1	CYP3A4 antisense RNA 1	7q22.1	
 HGNC:2638	CYP3A5	cytochrome P450 family 3 subfamily A member 5	7q22.1	ENSG00000106258
 HGNC:2640	CYP3A7	cytochrome P450 family 3 subfamily A member 7	7q22.1	ENSG00000160870
 HGNC:51504	CYP3A7-CYP3A51P	CYP3A7-CYP3A51P readthrough	7q22.1	ENSG00000282301
@@ -6239,6 +6237,7 @@ HGNC:31811	DCAF8L2	DDB1 and CUL4 associated factor 8 like 2	Xp21.3	ENSG000001891
 HGNC:23686	DCAF10	DDB1 and CUL4 associated factor 10	9p13.2	ENSG00000122741
 HGNC:20258	DCAF11	DDB1 and CUL4 associated factor 11	14q12	ENSG00000100897
 HGNC:19911	DCAF12	DDB1 and CUL4 associated factor 12	9p13.3	ENSG00000198876
+HGNC:58097	DCAF12-AS1	DCAF12 antisense RNA 1	9p13.3	
 HGNC:29395	DCAF12L1	DDB1 and CUL4 associated factor 12 like 1	Xq25	ENSG00000198889
 HGNC:32950	DCAF12L2	DDB1 and CUL4 associated factor 12 like 2	Xq25	ENSG00000198354
 HGNC:24535	DCAF13	DDB1 and CUL4 associated factor 13	8q22.3	ENSG00000164934
@@ -6327,7 +6326,7 @@ HGNC:2731	DDR2	discoidin domain receptor tyrosine kinase 2	1q23.3	ENSG0000016273
 HGNC:16110	DDRGK1	DDRGK domain containing 1	20p13	ENSG00000198171
 HGNC:2732	DDT	D-dopachrome tautomerase	22q11.23	ENSG00000099977
 HGNC:33446	DDTL	D-dopachrome tautomerase like	22q11.23	ENSG00000099974
-HGNC:44546	DDTP1	D-dopachrome tautomerase pseudogene 1	3p22.2	ENSG00000230683
+HGNC:44546	DDTP1	DDT pseudogene 1	3p22.2	ENSG00000230683
 HGNC:2734	DDX1	DEAD-box helicase 1	2p24.3	ENSG00000079785
 HGNC:55358	DDX3ILA1	DDX3 interacting lncRNA 1	7q21.11	ENSG00000232756
 HGNC:42171	DDX3P1	DEAD-box helicase 3 pseudogene 1	Xq13.2	ENSG00000232928
@@ -6348,16 +6347,17 @@ HGNC:2736	DDX11	DEAD/H-box helicase 11	12p11.21	ENSG00000013573
 HGNC:44176	DDX11-AS1	DDX11 antisense RNA 1	12p11.21	ENSG00000245614
 HGNC:37102	DDX11L1	DEAD/H-box helicase 11 like 1 (pseudogene)	1p36.33	ENSG00000223972
 HGNC:37103	DDX11L2	DEAD/H-box helicase 11 like 2 (pseudogene)	2q14.1	ENSG00000236397
-HGNC:37104	DDX11L3	DEAD/H-box helicase 11 like 3 (pseudogene)	3q29	
+HGNC:37104	DDX11L3	DEAD/H-box helicase 11 like 3 (pseudogene)	3q29 not on reference assembly	
 HGNC:37105	DDX11L4	DEAD/H-box helicase 11 like 4 (pseudogene)	6p25.3	
 HGNC:37106	DDX11L5	DEAD/H-box helicase 11 like 5 (pseudogene)	9p24.3	ENSG00000236875
 HGNC:37107	DDX11L6	DEAD/H-box helicase 11 like 6 (pseudogene)	9q34.3	
-HGNC:37108	DDX11L7	DEAD/H-box helicase 11 like 7 (pseudogene)	11p15.5	
+HGNC:37108	DDX11L7	DEAD/H-box helicase 11 like 7 (pseudogene)	11p15.5 not on reference assembly	
 HGNC:37101	DDX11L8	DEAD/H-box helicase 11 like 8 (pseudogene)	12p13.33	ENSG00000256263
 HGNC:37109	DDX11L9	DEAD/H-box helicase 11 like 9 (pseudogene)	15q26.3	ENSG00000248472
 HGNC:14125	DDX11L10	DEAD/H-box helicase 11 like 10 (pseudogene)	16p13.3	ENSG00000233614
 HGNC:37110	DDX11L11	DEAD/H-box helicase 11 like 11 (pseudogene)	17p13.3	
-HGNC:37112	DDX11L13	DEAD/H-box helicase 11 like 13 (pseudogene)	20p13	
+HGNC:37111	DDX11L12	DEAD/H-box helicase 11 like 12	19p13.3 not on reference assembly	
+HGNC:37112	DDX11L13	DEAD/H-box helicase 11 like 13	20p13 not on reference assembly	
 HGNC:37114	DDX11L15	DEAD/H-box helicase 11 like 15 (pseudogene)	Xp11.32	
 HGNC:37115	DDX11L16	DEAD/H-box helicase 11 like 16 (pseudogene)	Xq28 and Yq12	
 HGNC:55080	DDX11L17	DEAD/H-box helicase 11 like 17 (pseudogene)	1p36.33	ENSG00000279928
@@ -6452,8 +6452,8 @@ HGNC:30174	DEFB108E	defensin beta 108E (pseudogene)	8p23.1	ENSG00000254623
 HGNC:38062	DEFB108F	defensin beta 108F (pseudogene)	4p16.1	ENSG00000188438
 HGNC:18090	DEFB109A	defensin beta 109A (pseudogene)	8p23.1	ENSG00000242296
 HGNC:33469	DEFB109B	defensin beta 109B	8p23.1	ENSG00000206034
-HGNC:43844	DEFB109C	defensin beta 109C	8p23.1	ENSG00000205989
-HGNC:30838	DEFB109D	defensin beta 109D (pseudogene)	8p23.1	ENSG00000254866
+HGNC:43844	DEFB109C	defensin beta 109C (gene/pseudogene)	8p23.1	ENSG00000205989
+HGNC:30838	DEFB109D	defensin beta 109D (gene/pseudogene)	8p23.1	ENSG00000254866
 HGNC:30592	DEFB109E	defensin beta 109E (pseudogene)	8p23.1	
 HGNC:38066	DEFB109F	defensin beta 109F (pseudogene)	12p13.31	ENSG00000244050
 HGNC:18091	DEFB110	defensin beta 110	6p12.3	ENSG00000203970
@@ -6663,7 +6663,6 @@ HGNC:19323	DIRAS2	DIRAS family GTPase 2	9q22.2	ENSG00000165023
 HGNC:687	DIRAS3	DIRAS family GTPase 3	1p31.3	ENSG00000162595
 HGNC:15760	DIRC1	disrupted in renal carcinoma 1	2q32.2	ENSG00000174325
 HGNC:17805	DIRC3	disrupted in renal carcinoma 3	2q35	ENSG00000231672
-HGNC:50636	DIRC3-AS1	DIRC3 antisense RNA 1	2q35	ENSG00000233143
 HGNC:20604	DIS3	DIS3 homolog, exosome endoribonuclease and 3'-5' exoribonuclease	13q21.33	ENSG00000083520
 HGNC:28698	DIS3L	DIS3 like exosome 3'-5' exoribonuclease	15q22.31	ENSG00000166938
 HGNC:55369	DIS3L-AS1	DIS3L antisense RNA 1	15q22.31	ENSG00000261318
@@ -6711,6 +6710,7 @@ HGNC:28146	DLGAP1-AS2	DLGAP1 antisense RNA 2	18p11.31	ENSG00000262001
 HGNC:27317	DLGAP1-AS3	DLGAP1 antisense RNA 3	18p11.31	ENSG00000263724
 HGNC:44333	DLGAP1-AS4	DLGAP1 antisense RNA 4	18p11.31	ENSG00000263878
 HGNC:27586	DLGAP1-AS5	DLGAP1 antisense RNA 5	18p11.31	ENSG00000261520
+HGNC:58109	DLGAP1-AS6	DLGAP1 antisense RNA 6	18p11.31	
 HGNC:2906	DLGAP2	DLG associated protein 2	8p23.3	ENSG00000198010
 HGNC:50467	DLGAP2-AS1	DLGAP2 antisense RNA 1	8p23.3	ENSG00000253267
 HGNC:30368	DLGAP3	DLG associated protein 3	1p34.3	ENSG00000116544
@@ -6780,6 +6780,7 @@ HGNC:17721	DNAAF9	dynein axonemal assembly factor 9	20p13	ENSG00000088854
 HGNC:25176	DNAAF10	dynein axonemal assembly factor 10	2p14	ENSG00000243667
 HGNC:16725	DNAAF11	dynein axonemal assembly factor 11	8q24.22	ENSG00000129295
 HGNC:51151	DNAAF11P1	DNAAF11 pseudogene 1	11p12	ENSG00000254784
+HGNC:32700	DNAAF19	dynein axonemal assembly factor 19	17q21.31	ENSG00000167131
 HGNC:2940	DNAH1	dynein axonemal heavy chain 1	3p21.1	ENSG00000114841
 HGNC:2948	DNAH2	dynein axonemal heavy chain 2	17p13.1	ENSG00000183914
 HGNC:2949	DNAH3	dynein axonemal heavy chain 3	16p12.3	ENSG00000158486
@@ -6851,6 +6852,7 @@ HGNC:16235	DNAJC5	DnaJ heat shock protein family (Hsp40) member C5	20q13.33	ENSG
 HGNC:24138	DNAJC5B	DnaJ heat shock protein family (Hsp40) member C5 beta	8q13.1	ENSG00000147570
 HGNC:24844	DNAJC5G	DnaJ heat shock protein family (Hsp40) member C5 gamma	2p23.3	ENSG00000163793
 HGNC:15469	DNAJC6	DnaJ heat shock protein family (Hsp40) member C6	1p31.3	ENSG00000116675
+HGNC:58071	DNAJC6-AS1	DNAJC6 antisense RNA 1	1p31.3	
 HGNC:12392	DNAJC7	DnaJ heat shock protein family (Hsp40) member C7	17q21.2	ENSG00000168259
 HGNC:15470	DNAJC8	DnaJ heat shock protein family (Hsp40) member C8	1p35.3	ENSG00000126698
 HGNC:19928	DNAJC8P1	DNAJC8 pseudogene 1	14q13.2	ENSG00000259022
@@ -7163,6 +7165,7 @@ HGNC:3057	DTNA	dystrobrevin alpha	18q12.1	ENSG00000134769
 HGNC:3058	DTNB	dystrobrevin beta	2p23.3	ENSG00000138101
 HGNC:40198	DTNB-AS1	DTNB antisense RNA 1	2p23.3	ENSG00000224220
 HGNC:17328	DTNBP1	dystrobrevin binding protein 1	6p22.3	ENSG00000047579
+HGNC:58090	DTNBP1-AS1	DTNBP1 antisense RNA 1	6p22.3	
 HGNC:30926	DTWD1	DTW domain containing 1	15q21.2	ENSG00000104047
 HGNC:56550	DTWD1P1	DTWD1 pseudogene 1	3q23	ENSG00000214280
 HGNC:56551	DTWD1P2	DTWD1 pseudogene 2	3q25.31	ENSG00000243518
@@ -7545,6 +7548,7 @@ HGNC:31419	EEIG1	estrogen-induced osteoclastogenesis regulator 1	9q34.11	ENSG000
 HGNC:27637	EEIG2	EEIG family member 2	1p13.3	ENSG00000162636
 HGNC:22223	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1	7p14.2	ENSG00000122547
 HGNC:28166	EFCAB2	EF-hand calcium binding domain 2	1q44	ENSG00000203666
+HGNC:58101	EFCAB2-AS1	EFCAB2 antisense RNA 1	1q44	
 HGNC:26379	EFCAB3	EF-hand calcium binding domain 3	17q23.2	ENSG00000172421
 HGNC:56232	EFCAB3P1	EFCAB3 pseudogene 1	7q32.1	ENSG00000272601
 HGNC:24801	EFCAB5	EF-hand calcium binding domain 5	17q11.2	ENSG00000176927
@@ -7645,7 +7649,6 @@ HGNC:19900	EIF1AXP1	EIF1AX pseudogene 1	1p36.13	ENSG00000236698
 HGNC:44295	EIF1AXP2	EIF1AX pseudogene 2	14q23.3	ENSG00000258980
 HGNC:3252	EIF1AY	eukaryotic translation initiation factor 1A Y-linked	Yq11.223	ENSG00000198692
 HGNC:30792	EIF1B	eukaryotic translation initiation factor 1B	3p22.1	ENSG00000114784
-HGNC:44555	EIF1B-AS1	EIF1B antisense RNA 1	3p22.1	ENSG00000280739
 HGNC:49614	EIF1P1	eukaryotic translation initiation factor 1 pseudogene 1	9p24.3	ENSG00000229875
 HGNC:49615	EIF1P2	eukaryotic translation initiation factor 1 pseudogene 2	1p34.3	ENSG00000235549
 HGNC:49616	EIF1P3	eukaryotic translation initiation factor 1 pseudogene 3	1q25.3	ENSG00000231684
@@ -8007,7 +8010,7 @@ HGNC:3363	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1	10q24.1	ENSG00
 HGNC:45203	ENTPD1-AS1	ENTPD1 antisense RNA 1	10q24.1	ENSG00000226688
 HGNC:3364	ENTPD2	ectonucleoside triphosphate diphosphohydrolase 2	9q34.3	ENSG00000054179
 HGNC:3365	ENTPD3	ectonucleoside triphosphate diphosphohydrolase 3	3p22.1	ENSG00000168032
-HGNC:26710	ENTPD3-AS1	ENTPD3 antisense RNA 1	3p22.1	ENSG00000223797
+HGNC:26710	ENTPD3-AS1	ENTPD3, EIF1B and MYRIP antisense RNA 1	3p22.1	ENSG00000223797
 HGNC:14573	ENTPD4	ectonucleoside triphosphate diphosphohydrolase 4	8p21.3	ENSG00000197217
 HGNC:55536	ENTPD4-DT	ENTPD4 divergent transcript	8p21.3	ENSG00000253390
 HGNC:3367	ENTPD5	ectonucleoside triphosphate diphosphohydrolase 5 (inactive)	14q24.3	ENSG00000187097
@@ -8161,6 +8164,7 @@ HGNC:25222	ERLEC1	endoplasmic reticulum lectin 1	2p16.2	ENSG00000068912
 HGNC:38012	ERLEC1P1	endoplasmic reticulum lectin 1 pseudogene 1	21q11.2	ENSG00000240755
 HGNC:16947	ERLIN1	ER lipid raft associated 1	10q24.31	ENSG00000107566
 HGNC:1356	ERLIN2	ER lipid raft associated 2	8p11.23	ENSG00000147475
+HGNC:40032	ERLN	endoregulin	17q25.1	ENSG00000259120
 HGNC:41109	ERLNC1	estrogen receptor responsive lncRNA 1	1q32.1	ENSG00000230550
 HGNC:15743	ERMAP	erythroblast membrane associated protein (Scianna blood group)	1p34.2	ENSG00000164010
 HGNC:21056	ERMARD	ER membrane associated RNA degradation	6q27	ENSG00000130023
@@ -8184,6 +8188,7 @@ HGNC:14602	ERVE-1	endogenous retrovirus group E member 1	17q11.2	ENSG00000267259
 HGNC:39048	ERVE-2	endogenous retrovirus group E member 2	11q13.2	
 HGNC:39049	ERVE-3	endogenous retrovirus group E member 3	8p23.1	
 HGNC:39050	ERVE-4	endogenous retrovirus group E member 4	6q15	
+HGNC:58089	ERVE-5	endogenous retrovirus group E member 5	19q12	
 HGNC:38137	ERVFC1-1	endogenous retrovirus group FC1 member 1, envelope	7q36.2	
 HGNC:39047	ERVFH21-1	endogenous retrovirus group FH21 member 1	7p21.3	
 HGNC:33823	ERVFRD-1	endogenous retrovirus group FRD member 1, envelope	6p24.2	ENSG00000244476
@@ -8446,7 +8451,6 @@ HGNC:3540	F2RL3	F2R like thrombin or trypsin receptor 3	19p13.11	ENSG00000127533
 HGNC:3541	F3	coagulation factor III, tissue factor	1p21.3	ENSG00000117525
 HGNC:3542	F5	coagulation factor V	1q24.2	ENSG00000198734
 HGNC:3544	F7	coagulation factor VII	13q34	ENSG00000057593
-HGNC:3545	F7R	coagulation factor VII regulator	8p23.2-p23.1	
 HGNC:3546	F8	coagulation factor VIII	Xq28	ENSG00000185010
 HGNC:3547	F8A1	coagulation factor VIII associated 1	Xq28	ENSG00000288722
 HGNC:31849	F8A2	coagulation factor VIII associated 2	Xq28	ENSG00000288709
@@ -8619,7 +8623,7 @@ HGNC:32554	FAM83G	family with sequence similarity 83 member G	17p11.2	ENSG000001
 HGNC:24797	FAM83H	family with sequence similarity 83 member H	8q24.3	ENSG00000180921
 HGNC:17606	FAM85A	family with sequence similarity 85 member A	8p23.1	
 HGNC:32160	FAM85B	family with sequence similarity 85 member B	8p23.1	ENSG00000253893
-HGNC:28268	FAM86B1	family with sequence similarity 86 member B1	8p23.1	ENSG00000186523
+HGNC:28268	FAM86B1	family with sequence similarity 86 member B1 (gene/pseudogene)	8p23.1	ENSG00000186523
 HGNC:32222	FAM86B2	family with sequence similarity 86 member B2	8p23.1	ENSG00000145002
 HGNC:48726	FAM86B2-DT	FAM86B2 divergent transcript	8p23.1	
 HGNC:44371	FAM86B3P	family with sequence similarity 86 member B3, pseudogene	8p23.1	ENSG00000173295
@@ -9667,6 +9671,7 @@ HGNC:20367	FRY	FRY microtubule binding protein	13q13.1	ENSG00000073910
 HGNC:39725	FRY-AS1	FRY antisense RNA 1	13q13.1	ENSG00000237637
 HGNC:29127	FRYL	FRY like transcription coactivator	4p11	ENSG00000075539
 HGNC:3959	FRZB	frizzled related protein	2q32.1	ENSG00000162998
+HGNC:25332	FSAF1	40S small subunit processome assembly factor 1	1q42.2	ENSG00000143633
 HGNC:43653	FSBP	fibrinogen silencer binding protein	8q22.1	ENSG00000265817
 HGNC:20494	FSCB	fibrous sheath CABYR binding protein	14q21.2	ENSG00000189139
 HGNC:11148	FSCN1	fascin actin-bundling protein 1	7p22.1	ENSG00000075618
@@ -9681,7 +9686,6 @@ HGNC:3969	FSHR	follicle stimulating hormone receptor	2p16.3	ENSG00000170820
 HGNC:21674	FSIP1	fibrous sheath interacting protein 1	15q14	ENSG00000150667
 HGNC:21675	FSIP2	fibrous sheath interacting protein 2	2q32.1	ENSG00000188738
 HGNC:40978	FSIP2-AS1	FSIP2 antisense RNA 1	2q32.1	ENSG00000231646
-HGNC:54061	FSIP2-AS2	FSIP2 antisense RNA 2	2q32.1	ENSG00000226747
 HGNC:55625	FSIP2LP	fibrous sheath interacting protein 2 like, pseudogene	Xq26.1	ENSG00000274775
 HGNC:3971	FST	follistatin	5q11.2	ENSG00000134363
 HGNC:3972	FSTL1	follistatin like 1	3q13.33	ENSG00000163430
@@ -9866,6 +9870,7 @@ HGNC:48336	GACAT1	gastric cancer associated transcript 1	2q12.3	ENSG00000232991
 HGNC:50516	GACAT2	gastric cancer associated transcript 2	18p11.22	ENSG00000265962
 HGNC:50847	GACAT3	gastric cancer associated transcript 3	2p24.3	ENSG00000236289
 HGNC:4092	GAD1	glutamate decarboxylase 1	2q31.1	ENSG00000128683
+HGNC:40250	GAD1-AS1	GAD1 antisense RNA 1	2q31.1	
 HGNC:4093	GAD2	glutamate decarboxylase 2	10p12.1	ENSG00000136750
 HGNC:55684	GAD3P	glutamate decarboxylase family member 3, pseudogene	18q21.32	ENSG00000267382
 HGNC:4095	GADD45A	growth arrest and DNA damage inducible alpha	1p31.3	ENSG00000116717
@@ -10396,6 +10401,7 @@ HGNC:37989	GLULP5	glutamate-ammonia ligase pseudogene 5	12q24.21	ENSG00000257915
 HGNC:37990	GLULP6	glutamate-ammonia ligase pseudogene 6	2q32.3	ENSG00000215043
 HGNC:13734	GLYAT	glycine-N-acyltransferase	11q12.1	ENSG00000149124
 HGNC:30519	GLYATL1	glycine-N-acyltransferase like 1	11q12.1	ENSG00000166840
+HGNC:58086	GLYATL1-AS1	GLYATL1 antisense RNA 1	11q12.1	
 HGNC:37865	GLYATL1B	glycine-N-acyltransferase like 1B	11q12.1	ENSG00000255151
 HGNC:37866	GLYATL1P1	glycine-N-acyltransferase like 1 pseudogene 1	11q12.1	ENSG00000255189
 HGNC:37863	GLYATL1P2	glycine-N-acyltransferase like 1 pseudogene 2	11q12.1	ENSG00000254717
@@ -10445,7 +10451,6 @@ HGNC:45110	GNAI2P2	G protein subunit alpha i2 pseudogene 2	10q22.3	ENSG000002319
 HGNC:4387	GNAI3	G protein subunit alpha i3	1p13.3	ENSG00000065135
 HGNC:4388	GNAL	G protein subunit alpha L	18p11.21	ENSG00000141404
 HGNC:4389	GNAO1	G protein subunit alpha o1	16q13	ENSG00000087258
-HGNC:24498	GNAO1-AS1	GNAO1 antisense RNA 1	16q13	ENSG00000261439
 HGNC:27543	GNAO1-DT	GNAO1 divergent transcript	16q13	ENSG00000246379
 HGNC:4390	GNAQ	G protein subunit alpha q	9q21.2	ENSG00000156052
 HGNC:4391	GNAQP1	G protein subunit alpha q pseudogene 1	2q21.1	ENSG00000214077
@@ -10537,7 +10542,7 @@ HGNC:26695	GOLGA6L2	golgin A6 family like 2	15q11.2	ENSG00000174450
 HGNC:37441	GOLGA6L3P	golgin A6 family like 3, pseudogene	15q25.3	ENSG00000188388
 HGNC:27256	GOLGA6L4	golgin A6 family like 4	15q25.2	ENSG00000184206
 HGNC:30472	GOLGA6L5P	golgin A6 family like 5, pseudogene	15q25.2	ENSG00000230373
-HGNC:37225	GOLGA6L6	golgin A6 family like 6	15q11.2	ENSG00000277322
+HGNC:37225	GOLGA6L6	golgin A6 family like 6 (gene/pseudogene)	15q11.2	ENSG00000277322
 HGNC:37442	GOLGA6L7	golgin A6 family like 7	15q13.1	ENSG00000261649
 HGNC:37229	GOLGA6L9	golgin A6 family like 9	15q25.2	ENSG00000197978
 HGNC:56873	GOLGA6L9-AS1	GOLGA6L9 antisense RNA 1	15q25.2	
@@ -10761,7 +10766,7 @@ HGNC:54683	GPR160P2	GPR160 pseudogene 2	17q11.2	ENSG00000265863
 HGNC:23694	GPR161	G protein-coupled receptor 161	1q24.2	ENSG00000143147
 HGNC:16693	GPR162	G protein-coupled receptor 162	12p13	ENSG00000250510
 HGNC:21462	GPR165P	G protein-coupled receptor 165, pseudogene	Xq12	
-HGNC:23626	GPR166P	G protein-coupled receptor 166 pseudogene	6p21.2	
+HGNC:23626	GPR166P	G protein-coupled receptor 166, pseudogene	6p21.2	
 HGNC:30057	GPR171	G protein-coupled receptor 171	3q25.1	ENSG00000174946
 HGNC:18186	GPR173	G protein-coupled receptor 173	Xp11.22	ENSG00000184194
 HGNC:30245	GPR174	G protein-coupled receptor 174	Xq21.1	ENSG00000147138
@@ -11046,7 +11051,7 @@ HGNC:4670	GTPBP2	GTP binding protein 2	6p21.1	ENSG00000172432
 HGNC:14880	GTPBP3	GTP binding protein 3, mitochondrial	19p13.11	ENSG00000130299
 HGNC:21535	GTPBP4	GTP binding protein 4	10p15.3	ENSG00000107937
 HGNC:30189	GTPBP6	GTP binding protein 6 (putative)	Xp22.33 and Yp11.32	
-HGNC:25007	GTPBP8	GTP binding protein 8 (putative)	3q13.2	ENSG00000163607
+HGNC:25007	GTPBP8	GTP binding protein 8	3q13.2	ENSG00000163607
 HGNC:25106	GTPBP10	GTP binding protein 10	7q21.13	ENSG00000105793
 HGNC:18406	GTSCR1	Gilles de la Tourette syndrome chromosome region, candidate 1	18q22.2	ENSG00000263417
 HGNC:13698	GTSE1	G2 and S-phase expressed 1	22q13.31	ENSG00000075218
@@ -11434,7 +11439,6 @@ HGNC:17707	HCG11	HLA complex group 11	6p22.2	ENSG00000228223
 HGNC:17724	HCG13P	HLA complex group 13 pseudogene	6p21	
 HGNC:18323	HCG14	HLA complex group 14	6p22.1	ENSG00000224157
 HGNC:18361	HCG15	HLA complex group 15	6p21	ENSG00000227214
-HGNC:31339	HCG17	HLA complex group 17	6p22.1	ENSG00000270604
 HGNC:31337	HCG18	HLA complex group 18	6p22.1	ENSG00000231074
 HGNC:31336	HCG19P	HLA complex group 19 pseudogene	6p21.3	
 HGNC:31334	HCG20	HLA complex group 20	6p21	ENSG00000228022
@@ -11600,7 +11604,6 @@ HGNC:51181	HID1-AS1	HID1 antisense RNA 1	17q25.1	ENSG00000263586
 HGNC:4910	HIF1A	hypoxia inducible factor 1 subunit alpha	14q23.2	ENSG00000100644
 HGNC:43014	HIF1A-AS1	HIF1A antisense RNA 1	14q23.2	ENSG00000258777
 HGNC:43015	HIF1A-AS2	HIF1A antisense RNA 2	14q23.2	
-HGNC:54284	HIF1A-AS3	HIF1A antisense RNA 3	14q23.2	ENSG00000258667
 HGNC:17113	HIF1AN	hypoxia inducible factor 1 subunit alpha inhibitor	10q24.31	ENSG00000166135
 HGNC:43016	HIF1AP1	HIF1AP pseudogene 1	14q24.3	ENSG00000258978
 HGNC:15825	HIF3A	hypoxia inducible factor 3 subunit alpha	19q13.32	ENSG00000124440
@@ -12126,7 +12129,6 @@ HGNC:37117	HOTAIRM1	HOXA transcript antisense RNA, myeloid-specific 1	7p15.2	ENS
 HGNC:37461	HOTTIP	HOXA distal transcript antisense RNA	7p15.2	ENSG00000243766
 HGNC:43745	HOXA-AS2	HOXA cluster antisense RNA 2	7p15.2	ENSG00000253552
 HGNC:43748	HOXA-AS3	HOXA cluster antisense RNA 3	7p15.2	ENSG00000254369
-HGNC:5098	HOXA@	homeobox A cluster	7p15.2	
 HGNC:5099	HOXA1	homeobox A1	7p15.2	ENSG00000105991
 HGNC:5103	HOXA2	homeobox A2	7p15.2	ENSG00000105996
 HGNC:5104	HOXA3	homeobox A3	7p15.2	ENSG00000105997
@@ -12137,14 +12139,15 @@ HGNC:5108	HOXA7	homeobox A7	7p15.2	ENSG00000122592
 HGNC:5109	HOXA9	homeobox A9	7p15.2	ENSG00000078399
 HGNC:5100	HOXA10	homeobox A10	7p15.2	ENSG00000253293
 HGNC:40281	HOXA10-AS	HOXA10 antisense RNA	7p15.2	ENSG00000253187
+HGNC:51908	HOXA10-HOXA9	HOXA10-HOXA9 readthrough	7p15.2	
 HGNC:5101	HOXA11	homeobox A11	7p15.2	ENSG00000005073
 HGNC:24957	HOXA11-AS	HOXA11 antisense RNA	7p15.2	ENSG00000240990
 HGNC:5102	HOXA13	homeobox A13	7p15.2	ENSG00000106031
+HGNC:5098	HOXA@	homeobox A cluster	7p15.2	
 HGNC:43744	HOXB-AS1	HOXB cluster antisense RNA 1	17q21.32	ENSG00000230148
 HGNC:40284	HOXB-AS2	HOXB cluster antisense RNA 2	17q21.32	ENSG00000239552
 HGNC:40283	HOXB-AS3	HOXB cluster antisense RNA 3	17q21.32	ENSG00000233101
 HGNC:40285	HOXB-AS4	HOXB cluster antisense RNA 4	17q21.32	ENSG00000242207
-HGNC:5110	HOXB@	homeobox B cluster	17q21.32	
 HGNC:5111	HOXB1	homeobox B1	17q21.32	ENSG00000120094
 HGNC:5113	HOXB2	homeobox B2	17q21.32	ENSG00000173917
 HGNC:5114	HOXB3	homeobox B3	17q21.32	ENSG00000120093
@@ -12155,10 +12158,10 @@ HGNC:5118	HOXB7	homeobox B7	17q21.32	ENSG00000260027
 HGNC:5119	HOXB8	homeobox B8	17q21.32	ENSG00000120068
 HGNC:5120	HOXB9	homeobox B9	17q21.32	ENSG00000170689
 HGNC:5112	HOXB13	homeobox B13	17q21.32	ENSG00000159184
+HGNC:5110	HOXB@	homeobox B cluster	17q21.32	
 HGNC:43749	HOXC-AS1	HOXC cluster antisense RNA 1	12q13.13	ENSG00000250451
 HGNC:43750	HOXC-AS2	HOXC cluster antisense RNA 2	12q13.13	ENSG00000250133
 HGNC:43751	HOXC-AS3	HOXC cluster antisense RNA 3	12q13.13	ENSG00000251151
-HGNC:5121	HOXC@	homeobox C cluster	12q12-q13	
 HGNC:5126	HOXC4	homeobox C4	12q13.13	ENSG00000198353
 HGNC:5127	HOXC5	homeobox C5	12q13.13	ENSG00000172789
 HGNC:5128	HOXC6	homeobox C6	12q13.13	ENSG00000197757
@@ -12169,8 +12172,8 @@ HGNC:5123	HOXC11	homeobox C11	12q13.13	ENSG00000123388
 HGNC:5124	HOXC12	homeobox C12	12q13.13	ENSG00000123407
 HGNC:5125	HOXC13	homeobox C13	12q13.13	ENSG00000123364
 HGNC:43753	HOXC13-AS	HOXC13 antisense RNA	12q13.13	ENSG00000249641
+HGNC:5121	HOXC@	homeobox C cluster	12q12-q13	
 HGNC:43756	HOXD-AS2	HOXD cluster antisense RNA 2	2q31.1	ENSG00000237380
-HGNC:5131	HOXD@	homeobox D cluster	2q31.1	
 HGNC:5132	HOXD1	homeobox D1	2q31.1	ENSG00000128645
 HGNC:5137	HOXD3	homeobox D3	2q31.1	ENSG00000128652
 HGNC:5138	HOXD4	homeobox D4	2q31.1	ENSG00000170166
@@ -12180,6 +12183,7 @@ HGNC:5133	HOXD10	homeobox D10	2q31.1	ENSG00000128710
 HGNC:5134	HOXD11	homeobox D11	2q31.1	ENSG00000128713
 HGNC:5135	HOXD12	homeobox D12	2q31.1	ENSG00000170178
 HGNC:5136	HOXD13	homeobox D13	2q31.1	ENSG00000128714
+HGNC:5131	HOXD@	homeobox D cluster	2q31.1	
 HGNC:5141	HP	haptoglobin	16q22.2	ENSG00000257017
 HGNC:24973	HP1BP3	heterochromatin protein 1 binding protein 3	1p36.12	ENSG00000127483
 HGNC:5144	HPCA	hippocalcin	1p35.1	ENSG00000121905
@@ -12458,6 +12462,7 @@ HGNC:5301	HTR6	5-hydroxytryptamine receptor 6	1p36.13	ENSG00000158748
 HGNC:5302	HTR7	5-hydroxytryptamine receptor 7	10q23.31	ENSG00000148680
 HGNC:30411	HTR7P1	5-hydroxytryptamine receptor 7 pseudogene 1	12p13.1	
 HGNC:9476	HTRA1	HtrA serine peptidase 1	10q26.13	ENSG00000166033
+HGNC:58122	HTRA1-AS1	HTRA1 and ARMS2 antisense RNA 1	10q26.13	
 HGNC:14348	HTRA2	HtrA serine peptidase 2	2p13.1	ENSG00000115317
 HGNC:30406	HTRA3	HtrA serine peptidase 3	4p16.1	ENSG00000170801
 HGNC:26909	HTRA4	HtrA serine peptidase 4	8p11.22	ENSG00000169495
@@ -13562,7 +13567,7 @@ HGNC:6139	ITGA3	integrin subunit alpha 3	17q21.33	ENSG00000005884
 HGNC:6140	ITGA4	integrin subunit alpha 4	2q31.3	ENSG00000115232
 HGNC:6141	ITGA5	integrin subunit alpha 5	12q13.13	ENSG00000161638
 HGNC:6142	ITGA6	integrin subunit alpha 6	2q31.1	ENSG00000091409
-HGNC:40308	ITGA6-AS1	ITGA6 antisense RNA 1	2q31.1	ENSG00000232788
+HGNC:40308	ITGA6-AS1	ITGA6 and PDK1 antisense RNA 1	2q31.1	ENSG00000232788
 HGNC:6143	ITGA7	integrin subunit alpha 7	12q13.2	ENSG00000135424
 HGNC:6144	ITGA8	integrin subunit alpha 8	10p13	ENSG00000077943
 HGNC:6145	ITGA9	integrin subunit alpha 9	3p22.2	ENSG00000144668
@@ -13847,6 +13852,7 @@ HGNC:6281	KCNK6	potassium two pore domain channel subfamily K member 6	19q13.2	E
 HGNC:6282	KCNK7	potassium two pore domain channel subfamily K member 7	11q13.1	ENSG00000173338
 HGNC:6283	KCNK9	potassium two pore domain channel subfamily K member 9	8q24.3	ENSG00000169427
 HGNC:6273	KCNK10	potassium two pore domain channel subfamily K member 10	14q31.3	ENSG00000100433
+HGNC:58074	KCNK10-AS1	KCNK10 antisense RNA 1	14q31.3	
 HGNC:6274	KCNK12	potassium two pore domain channel subfamily K member 12	2p16.3	ENSG00000184261
 HGNC:6275	KCNK13	potassium two pore domain channel subfamily K member 13	14q32.11	ENSG00000152315
 HGNC:13814	KCNK15	potassium two pore domain channel subfamily K member 15	20q13.12	ENSG00000124249
@@ -14078,7 +14084,7 @@ HGNC:16344	KIR2DP1	killer cell immunoglobulin like receptor, two Ig domains pseu
 HGNC:6333	KIR2DS1	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 1	19q13.4 alternate reference locus	
 HGNC:6334	KIR2DS2	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 2	19q13.4 alternate reference locus	
 HGNC:6335	KIR2DS3	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 3	19q13.4 alternate reference locus	
-HGNC:6336	KIR2DS4	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4	19q13.42	ENSG00000221957
+HGNC:6336	KIR2DS4	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 (gene/pseudogene)	19q13.42	ENSG00000221957
 HGNC:6337	KIR2DS5	killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 5	19q13.4 alternate reference locus	
 HGNC:6338	KIR3DL1	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1	19q13.42	ENSG00000167633
 HGNC:6339	KIR3DL2	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2	19q13.42	ENSG00000240403
@@ -14835,6 +14841,7 @@ HGNC:32071	LDLRAD2	low density lipoprotein receptor class A domain containing 2	
 HGNC:27046	LDLRAD3	low density lipoprotein receptor class A domain containing 3	11p13	ENSG00000179241
 HGNC:1224	LDLRAD4	low density lipoprotein receptor class A domain containing 4	18p11.21	ENSG00000168675
 HGNC:48592	LDLRAD4-AS1	LDLRAD4 antisense RNA 1	18p11.21	ENSG00000267690
+HGNC:58069	LDLRAD4-AS2	LDLRAD4 antisense RNA 2	18p11.21	
 HGNC:18640	LDLRAP1	low density lipoprotein receptor adaptor protein 1	1p36.11	ENSG00000157978
 HGNC:6548	LDOC1	LDOC1 regulator of NFKB signaling	Xq27.1	ENSG00000182195
 HGNC:29571	LEAP2	liver enriched antimicrobial peptide 2	5q31.1	ENSG00000164406
@@ -14909,7 +14916,6 @@ HGNC:6587	LHFPL1	LHFPL tetraspan subfamily member 1	Xq23	ENSG00000182508
 HGNC:6588	LHFPL2	LHFPL tetraspan subfamily member 2	5q14.1	ENSG00000145685
 HGNC:6589	LHFPL3	LHFPL tetraspan subfamily member 3	7q22.2-q22.3	ENSG00000187416
 HGNC:40341	LHFPL3-AS1	LHFPL3 antisense RNA 1	7q22.2	ENSG00000226869
-HGNC:44106	LHFPL3-AS2	LHFPL3 antisense RNA 2	7q22.3	ENSG00000225329
 HGNC:29568	LHFPL4	LHFPL tetraspan subfamily member 4	3p25.3	ENSG00000156959
 HGNC:21253	LHFPL5	LHFPL tetraspan subfamily member 5	6p21.31	ENSG00000197753
 HGNC:6586	LHFPL6	LHFPL tetraspan subfamily member 6	13q13.3-q14.11	ENSG00000183722
@@ -14983,6 +14989,7 @@ HGNC:21553	LIN28B-AS1	LIN28B antisense RNA 1	6q16.3	ENSG00000203809
 HGNC:33234	LIN37	lin-37 DREAM MuvB core complex component	19q13.12	ENSG00000267796
 HGNC:19856	LIN52	lin-52 DREAM MuvB core complex component	14q24.3	ENSG00000205659
 HGNC:25397	LIN54	lin-54 DREAM MuvB core complex component	4q21.22	ENSG00000189308
+HGNC:49686	LINC-ADAIN	long intergenic non-coding adipose anti-inflammatory	9p24.3	ENSG00000281769
 HGNC:26885	LINC-PINT	long intergenic non-protein coding RNA, p53 induced transcript	7q32.3	ENSG00000231721
 HGNC:43773	LINC-ROR	long intergenic non-protein coding RNA, regulator of reprogramming	18q21.31	ENSG00000258609
 HGNC:16224	LINC00028	long intergenic non-protein coding RNA 28	20q11.21	ENSG00000233354
@@ -15043,7 +15050,6 @@ HGNC:38515	LINC00290	long intergenic non-protein coding RNA 290	4q34.3	ENSG00000
 HGNC:39078	LINC00293	long intergenic non-protein coding RNA 293	8q11.1	ENSG00000253314
 HGNC:27456	LINC00294	long intergenic non-protein coding RNA 294	11p13	ENSG00000280798
 HGNC:39210	LINC00297	long intergenic non-protein coding RNA 297	13q12.3	ENSG00000224329
-HGNC:49257	LINC00298	long intergenic non-protein coding RNA 298	2p25.1	ENSG00000235665
 HGNC:27940	LINC00299	long intergenic non-protein coding RNA 299	2p25.1	ENSG00000236790
 HGNC:28603	LINC00301	long intergenic non-protein coding RNA 301	11q12.2	
 HGNC:31825	LINC00302	long intergenic non-protein coding RNA 302	1q21.3	
@@ -15106,7 +15112,6 @@ HGNC:42703	LINC00377	long intergenic non-protein coding RNA 377	13q31.1	ENSG0000
 HGNC:42704	LINC00378	long intergenic non-protein coding RNA 378	13q21.2	ENSG00000225249
 HGNC:42705	LINC00379	long intergenic non-protein coding RNA 379	13q31.3	ENSG00000229557
 HGNC:42706	LINC00380	long intergenic non-protein coding RNA 380	13q31.3	ENSG00000234625
-HGNC:42708	LINC00381	long intergenic non-protein coding RNA 381	13q22.1	ENSG00000226240
 HGNC:42709	LINC00382	long intergenic non-protein coding RNA 382	13q31.1	ENSG00000229175
 HGNC:42710	LINC00383	long intergenic non-protein coding RNA 383	13q21.33	ENSG00000235221
 HGNC:42711	LINC00384	long intergenic non-protein coding RNA 384	13q12.3	ENSG00000232117
@@ -15125,7 +15130,6 @@ HGNC:42728	LINC00399	long intergenic non-protein coding RNA 399	13q33.3	ENSG0000
 HGNC:42729	LINC00400	long intergenic non-protein coding RNA 400	13q14.11	ENSG00000229928
 HGNC:42732	LINC00402	long intergenic non-protein coding RNA 402	13q22.1	ENSG00000235532
 HGNC:42734	LINC00404	long intergenic non-protein coding RNA 404	13q34	ENSG00000229520
-HGNC:42739	LINC00407	long intergenic non-protein coding RNA 407	13q14.12	ENSG00000237585
 HGNC:42740	LINC00408	long intergenic non-protein coding RNA 408	13q12.11	ENSG00000226250
 HGNC:42742	LINC00410	long intergenic non-protein coding RNA 410	13q31.3	ENSG00000231674
 HGNC:42744	LINC00411	long intergenic non-protein coding RNA 411	13q32.3	ENSG00000229599
@@ -15144,11 +15148,9 @@ HGNC:42769	LINC00434	long intergenic non-protein coding RNA 434	13q21.2	ENSG0000
 HGNC:42772	LINC00437	long intergenic non-protein coding RNA 437	13q13.3	ENSG00000236354
 HGNC:42777	LINC00440	long intergenic non-protein coding RNA 440	13q31.2	ENSG00000234660
 HGNC:42779	LINC00442	long intergenic non-protein coding RNA 442	13q12.11	ENSG00000232685
-HGNC:42780	LINC00443	long intergenic non-protein coding RNA 443	13q33.3	ENSG00000230156
 HGNC:42782	LINC00445	long intergenic non-protein coding RNA 445	13q13.3	ENSG00000236036
 HGNC:42783	LINC00446	long intergenic non-protein coding RNA 446	13q22.3	ENSG00000229249
 HGNC:42785	LINC00448	long intergenic non-protein coding RNA 448	13q21.31	ENSG00000228669
-HGNC:42786	LINC00449	long intergenic non-protein coding RNA 449	13q32.3	ENSG00000203441
 HGNC:42800	LINC00452	long intergenic non-protein coding RNA 452	13q34	ENSG00000229373
 HGNC:42802	LINC00454	long intergenic non-protein coding RNA 454	13q34	ENSG00000226921
 HGNC:42804	LINC00456	long intergenic non-protein coding RNA 456	13q32.1	ENSG00000233124
@@ -15209,7 +15211,6 @@ HGNC:43672	LINC00539	long intergenic non-protein coding RNA 539	13q12.11	ENSG000
 HGNC:43673	LINC00540	long intergenic non-protein coding RNA 540	13q12.11	
 HGNC:43678	LINC00543	long intergenic non-protein coding RNA 543	13q12.2	ENSG00000260704
 HGNC:43679	LINC00544	long intergenic non-protein coding RNA 544	13q12.3	ENSG00000122043
-HGNC:43680	LINC00545	long intergenic non-protein coding RNA 545	13q12.3	ENSG00000236094
 HGNC:43682	LINC00547	long intergenic non-protein coding RNA 547	13q13.3	ENSG00000275226
 HGNC:43683	LINC00548	long intergenic non-protein coding RNA 548	13q14.11	
 HGNC:43688	LINC00550	long intergenic non-protein coding RNA 550	13q21.33	ENSG00000281778
@@ -15220,7 +15221,6 @@ HGNC:43700	LINC00556	long intergenic non-protein coding RNA 556	13q12.11	ENSG000
 HGNC:43701	LINC00557	long intergenic non-protein coding RNA 557	13q32.1	ENSG00000260962
 HGNC:43702	LINC00558	long intergenic non-protein coding RNA 558	13q14.3	ENSG00000261517
 HGNC:43703	LINC00559	long intergenic non-protein coding RNA 559	13q31.3	ENSG00000261446
-HGNC:43704	LINC00560	long intergenic non-protein coding RNA 560	13q31.2	ENSG00000261666
 HGNC:43705	LINC00561	long intergenic non-protein coding RNA 561	13q22.2	ENSG00000261206
 HGNC:43706	LINC00562	long intergenic non-protein coding RNA 562	13q14.2	ENSG00000260388
 HGNC:43707	LINC00563	long intergenic non-protein coding RNA 563	13q14.13	ENSG00000261097
@@ -15303,7 +15303,6 @@ HGNC:44417	LINC00680	long intergenic non-protein coding RNA 680	6p11.2
 HGNC:56755	LINC00680-GUSBP4	LINC00680-GUSBP4 readthrough, transcribed pseudogene	6p11.2	ENSG00000283352
 HGNC:44423	LINC00681	long intergenic non-protein coding RNA 681	8p23.1	ENSG00000255494
 HGNC:44466	LINC00682	long intergenic non-protein coding RNA 682	4p13	ENSG00000245870
-HGNC:44467	LINC00683	long intergenic non-protein coding RNA 683	18q23	ENSG00000266256
 HGNC:27560	LINC00685	long intergenic non-protein coding RNA 685	Xp22.33 and Yp11.32	
 HGNC:16221	LINC00686	long intergenic non-protein coding RNA 686	20q13.33	ENSG00000237687
 HGNC:16194	LINC00687	long intergenic non-protein coding RNA 687	20p12.2	ENSG00000228422
@@ -15320,7 +15319,6 @@ HGNC:44676	LINC00702	long intergenic non-protein coding RNA 702	10p15.1	ENSG0000
 HGNC:44677	LINC00703	long intergenic non-protein coding RNA 703	10p15.1	ENSG00000224382
 HGNC:27874	LINC00705	long intergenic non-protein coding RNA 705	10p15.1	ENSG00000225269
 HGNC:44690	LINC00706	long intergenic non-protein coding RNA 706	10p14	ENSG00000281186
-HGNC:44691	LINC00707	long intergenic non-protein coding RNA 707	10p14	ENSG00000238266
 HGNC:44694	LINC00708	long intergenic non-protein coding RNA 708	10p14	ENSG00000232170
 HGNC:44700	LINC00709	long intergenic non-protein coding RNA 709	10p14	ENSG00000230014
 HGNC:27386	LINC00710	long intergenic non-protein coding RNA 710	10p14	ENSG00000229240
@@ -15428,7 +15426,6 @@ HGNC:38541	LINC01000	long intergenic non-protein coding RNA 1000	7q32.1
 HGNC:38540	LINC01001	long intergenic non-protein coding RNA 1001	11p15.5	ENSG00000230724
 HGNC:38538	LINC01002	long intergenic non-protein coding RNA 1002	19p13.3	ENSG00000282508
 HGNC:48957	LINC01003	long intergenic non-protein coding RNA 1003	7q36.1	ENSG00000261455
-HGNC:48961	LINC01004	long intergenic non-protein coding RNA 1004	7q22.3	ENSG00000228393
 HGNC:48963	LINC01005	long intergenic non-protein coding RNA 1005	7q11.21	ENSG00000228564
 HGNC:48973	LINC01007	long intergenic non-protein coding RNA 1007	7q22.1	ENSG00000233123
 HGNC:48978	LINC01010	long intergenic non-protein coding RNA 1010	6q23.2	ENSG00000236700
@@ -15438,7 +15435,6 @@ HGNC:48987	LINC01013	long intergenic non-protein coding RNA 1013	6q23.2	ENSG0000
 HGNC:41353	LINC01014	long intergenic non-protein coding RNA 1014	3q26.32	ENSG00000223941
 HGNC:48988	LINC01015	long intergenic non-protein coding RNA 1015	6p22.1	ENSG00000224582
 HGNC:48991	LINC01016	long intergenic non-protein coding RNA 1016	6p21.31	ENSG00000249346
-HGNC:50641	LINC01017	long intergenic non-protein coding RNA 1017	5p15.33	ENSG00000250716
 HGNC:27394	LINC01018	long intergenic non-protein coding RNA 1018	5p15.31	ENSG00000250056
 HGNC:27742	LINC01019	long intergenic non-protein coding RNA 1019	5p15.33	ENSG00000248118
 HGNC:27968	LINC01020	long intergenic non-protein coding RNA 1020	5p15.32	ENSG00000215231
@@ -15511,7 +15507,6 @@ HGNC:49229	LINC01107	long intergenic non-protein coding RNA 1107	2q37.3	ENSG0000
 HGNC:49234	LINC01108	long intergenic non-protein coding RNA 1108	6p23	ENSG00000226673
 HGNC:49235	LINC01109	long intergenic non-protein coding RNA 1109	8q21.11	ENSG00000271167
 HGNC:49237	LINC01111	long intergenic non-protein coding RNA 1111	8q21.13	ENSG00000254300
-HGNC:49245	LINC01114	long intergenic non-protein coding RNA 1114	2q12.1	ENSG00000234177
 HGNC:49258	LINC01115	long intergenic non-protein coding RNA 1115	2p25.3	ENSG00000237667
 HGNC:49259	LINC01116	long intergenic non-protein coding RNA 1116	2q31.1	ENSG00000163364
 HGNC:49260	LINC01117	long intergenic non-protein coding RNA 1117	2q31.1	ENSG00000224577
@@ -15543,7 +15538,6 @@ HGNC:49469	LINC01150	long intergenic non-protein coding RNA 1150	11p15.5	ENSG000
 HGNC:49471	LINC01151	long intergenic non-protein coding RNA 1151	8q24.13	ENSG00000253819
 HGNC:16752	LINC01152	long intergenic non-protein coding RNA 1152	17q24.3	ENSG00000256124
 HGNC:49495	LINC01153	long intergenic non-protein coding RNA 1153	10q26.12	ENSG00000227143
-HGNC:49504	LINC01154	long intergenic non-protein coding RNA 1154	12q13.13	ENSG00000257477
 HGNC:49512	LINC01157	long intergenic non-protein coding RNA 1157	5q13.3	
 HGNC:49514	LINC01159	long intergenic non-protein coding RNA 1159	2q12.1	ENSG00000229743
 HGNC:49525	LINC01160	long intergenic non-protein coding RNA 1160	1p13.2	ENSG00000231346
@@ -15552,7 +15546,6 @@ HGNC:49530	LINC01163	long intergenic non-protein coding RNA 1163	10q26.2	ENSG000
 HGNC:49533	LINC01164	long intergenic non-protein coding RNA 1164	10q26.3	ENSG00000189275
 HGNC:49534	LINC01165	long intergenic non-protein coding RNA 1165	10q26.3	ENSG00000229081
 HGNC:49535	LINC01166	long intergenic non-protein coding RNA 1166	10q26.3	ENSG00000232903
-HGNC:49536	LINC01167	long intergenic non-protein coding RNA 1167	10q26.3	ENSG00000224758
 HGNC:49537	LINC01168	long intergenic non-protein coding RNA 1168	10q26.3	ENSG00000240707
 HGNC:49541	LINC01169	long intergenic non-protein coding RNA 1169	15q22.31	ENSG00000259471
 HGNC:49542	LINC01170	long intergenic non-protein coding RNA 1170	5q23.2	ENSG00000253807
@@ -15596,14 +15589,12 @@ HGNC:49678	LINC01226	long intergenic non-protein coding RNA 1226	1p35.2	ENSG0000
 HGNC:49680	LINC01227	long intergenic non-protein coding RNA 1227	16q23.2	ENSG00000260737
 HGNC:49681	LINC01228	long intergenic non-protein coding RNA 1228	16q23.2	ENSG00000261082
 HGNC:49682	LINC01229	long intergenic non-protein coding RNA 1229	16q23.2	ENSG00000260876
-HGNC:49686	LINC01230	long intergenic non-protein coding RNA 1230	9p24.3	ENSG00000281769
 HGNC:49688	LINC01231	long intergenic non-protein coding RNA 1231	9p24.2	ENSG00000236511
 HGNC:49755	LINC01232	long intergenic non-protein coding RNA 1232	13q32.3	ENSG00000280734
 HGNC:49756	LINC01233	long intergenic non-protein coding RNA 1233	19p12	ENSG00000269364
 HGNC:49757	LINC01234	long intergenic non-protein coding RNA 1234	12q24.13	ENSG00000249550
 HGNC:49769	LINC01235	long intergenic non-protein coding RNA 1235	9p23	ENSG00000270547
 HGNC:49793	LINC01237	long intergenic non-protein coding RNA 1237	2q37.3	ENSG00000233806
-HGNC:49795	LINC01238	long intergenic non-protein coding RNA 1238	2q37.3	ENSG00000237940
 HGNC:49796	LINC01239	long intergenic non-protein coding RNA 1239	9p21.3	ENSG00000234840
 HGNC:49804	LINC01241	long intergenic non-protein coding RNA 1241	9p21.2	ENSG00000236306
 HGNC:49810	LINC01242	long intergenic non-protein coding RNA 1242	9p21.1	ENSG00000280683
@@ -15620,7 +15611,6 @@ HGNC:49895	LINC01256	long intergenic non-protein coding RNA 1256	4q28.3	ENSG0000
 HGNC:26972	LINC01257	long intergenic non-protein coding RNA 1257	12q24.33	ENSG00000204603
 HGNC:49898	LINC01258	long intergenic non-protein coding RNA 1258	4p14	ENSG00000249534
 HGNC:49899	LINC01259	long intergenic non-protein coding RNA 1259	4p14	ENSG00000249667
-HGNC:49900	LINC01260	long intergenic non-protein coding RNA 1260	20q13.12	ENSG00000283440
 HGNC:50275	LINC01262	long intergenic non-protein coding RNA 1262	4q35.2	ENSG00000250739
 HGNC:50282	LINC01264	long intergenic non-protein coding RNA 1264	10q11.21	ENSG00000229630
 HGNC:50297	LINC01265	long intergenic non-protein coding RNA 1265	5p13.1	
@@ -15663,14 +15653,11 @@ HGNC:50523	LINC01317	long intergenic non-protein coding RNA 1317	2p22.3
 HGNC:50524	LINC01318	long intergenic non-protein coding RNA 1318	2p22.3	ENSG00000237790
 HGNC:50526	LINC01320	long intergenic non-protein coding RNA 1320	2p22.3	ENSG00000228262
 HGNC:50528	LINC01322	long intergenic non-protein coding RNA 1322	3q26.1	ENSG00000244128
-HGNC:50529	LINC01323	long intergenic non-protein coding RNA 1323	3q26.1	ENSG00000241636
 HGNC:50530	LINC01324	long intergenic non-protein coding RNA 1324	3q26.1	ENSG00000241767
 HGNC:50532	LINC01326	long intergenic non-protein coding RNA 1326	3q26.1	ENSG00000244321
 HGNC:50533	LINC01327	long intergenic non-protein coding RNA 1327	3q26.1	ENSG00000241669
 HGNC:50538	LINC01331	long intergenic non-protein coding RNA 1331	5q13.3	ENSG00000248673
-HGNC:50540	LINC01332	long intergenic non-protein coding RNA 1332	5q13.3	ENSG00000250446
 HGNC:50539	LINC01333	long intergenic non-protein coding RNA 1333	5q13.3	ENSG00000249343
-HGNC:50542	LINC01335	long intergenic non-protein coding RNA 1335	5q13.3	ENSG00000248942
 HGNC:50546	LINC01337	long intergenic non-protein coding RNA 1337	5q14.1	ENSG00000251221
 HGNC:50547	LINC01338	long intergenic non-protein coding RNA 1338	5q14.2	ENSG00000281327
 HGNC:50549	LINC01339	long intergenic non-protein coding RNA 1339	5q14.3	ENSG00000248555
@@ -15690,8 +15677,6 @@ HGNC:50580	LINC01353	long intergenic non-protein coding RNA 1353	1q32.1	ENSG0000
 HGNC:50581	LINC01354	long intergenic non-protein coding RNA 1354	1q42.2	ENSG00000231768
 HGNC:50584	LINC01355	long intergenic non-protein coding RNA 1355	1p36.12	ENSG00000261326
 HGNC:50587	LINC01356	long intergenic non-protein coding RNA 1356	1p13.2	ENSG00000215866
-HGNC:50588	LINC01357	long intergenic non-protein coding RNA 1357	1p13.2	ENSG00000224167
-HGNC:50589	LINC01358	long intergenic non-protein coding RNA 1358	1p32.1	ENSG00000237352
 HGNC:50591	LINC01359	long intergenic non-protein coding RNA 1359	1p31.3	ENSG00000226891
 HGNC:50593	LINC01360	long intergenic non-protein coding RNA 1360	1p31.1	ENSG00000233973
 HGNC:50595	LINC01361	long intergenic non-protein coding RNA 1361	1p31.1	ENSG00000236268
@@ -15702,7 +15687,6 @@ HGNC:50603	LINC01365	long intergenic non-protein coding RNA 1365	4q26	ENSG000002
 HGNC:27416	LINC01366	long intergenic non-protein coding RNA 1366	5q35.1	ENSG00000235172
 HGNC:50608	LINC01370	long intergenic non-protein coding RNA 1370	20q12	ENSG00000237767
 HGNC:50623	LINC01372	long intergenic non-protein coding RNA 1372	7q11.21	
-HGNC:50631	LINC01374	long intergenic non-protein coding RNA 1374	10q23.31	ENSG00000280560
 HGNC:50632	LINC01375	long intergenic non-protein coding RNA 1375	10q23.31	ENSG00000226159
 HGNC:50637	LINC01376	long intergenic non-protein coding RNA 1376	2p24.2-p24.1	ENSG00000236204
 HGNC:50642	LINC01377	long intergenic non-protein coding RNA 1377	5p15.33	
@@ -15792,7 +15776,6 @@ HGNC:51146	LINC01490	long intergenic non-protein coding RNA 1490	12q21.31	ENSG00
 HGNC:51148	LINC01491	long intergenic non-protein coding RNA 1491	15q21.1	ENSG00000259572
 HGNC:51149	LINC01492	long intergenic non-protein coding RNA 1492	9q31.1	ENSG00000225564
 HGNC:51150	LINC01493	long intergenic non-protein coding RNA 1493	11p12	ENSG00000254562
-HGNC:51152	LINC01494	long intergenic non-protein coding RNA 1494	2q35	ENSG00000228135
 HGNC:51161	LINC01495	long intergenic non-protein coding RNA 1495	11p14.3	ENSG00000255323
 HGNC:51162	LINC01496	long intergenic non-protein coding RNA 1496	Xp11.22	ENSG00000234766
 HGNC:51163	LINC01497	long intergenic non-protein coding RNA 1497	17q24.3	ENSG00000237560
@@ -15846,7 +15829,6 @@ HGNC:23524	LINC01553	long intergenic non-protein coding RNA 1553	10q21.2	ENSG000
 HGNC:24687	LINC01554	long intergenic non-protein coding RNA 1554	5q15	ENSG00000236882
 HGNC:26647	LINC01555	long intergenic non-protein coding RNA 1555	1p22.3	ENSG00000180869
 HGNC:21195	LINC01556	long intergenic non-protein coding RNA 1556	6p22.1	ENSG00000204709
-HGNC:21235	LINC01558	long intergenic non-protein coding RNA 1558	6q27	ENSG00000146521
 HGNC:26598	LINC01559	long intergenic non-protein coding RNA 1559	12p13.1	ENSG00000180861
 HGNC:27333	LINC01560	long intergenic non-protein coding RNA 1560	Xp11.3	ENSG00000196741
 HGNC:31365	LINC01561	long intergenic non-protein coding RNA 1561	10q26.12	ENSG00000177234
@@ -15931,7 +15913,6 @@ HGNC:52437	LINC01650	long intergenic non-protein coding RNA 1650	1p21.3	ENSG0000
 HGNC:52439	LINC01651	long intergenic non-protein coding RNA 1651	22q11.21	ENSG00000279920
 HGNC:52441	LINC01653	long intergenic non-protein coding RNA 1653	1q41	ENSG00000232100
 HGNC:52442	LINC01654	long intergenic non-protein coding RNA 1654	1p36.13	ENSG00000261781
-HGNC:52443	LINC01655	long intergenic non-protein coding RNA 1655	1q41	ENSG00000227925
 HGNC:52444	LINC01656	long intergenic non-protein coding RNA 1656	22q13.31	ENSG00000232655
 HGNC:52445	LINC01657	long intergenic non-protein coding RNA 1657	1q25.1	ENSG00000224718
 HGNC:52447	LINC01659	long intergenic non-protein coding RNA 1659	22q11.23	ENSG00000234928
@@ -15998,9 +15979,7 @@ HGNC:52513	LINC01725	long intergenic non-protein coding RNA 1725	1p31.1	ENSG0000
 HGNC:52514	LINC01726	long intergenic non-protein coding RNA 1726	20p11.22	ENSG00000280350
 HGNC:52515	LINC01727	long intergenic non-protein coding RNA 1727	20p11.22	ENSG00000279082
 HGNC:52516	LINC01728	long intergenic non-protein coding RNA 1728	20q13.12	ENSG00000233277
-HGNC:52517	LINC01729	long intergenic non-protein coding RNA 1729	20p12.3	ENSG00000225640
 HGNC:52518	LINC01730	long intergenic non-protein coding RNA 1730	20p13	ENSG00000275491
-HGNC:52519	LINC01731	long intergenic non-protein coding RNA 1731	1q21.2	ENSG00000234283
 HGNC:52520	LINC01732	long intergenic non-protein coding RNA 1732	1q25.3	ENSG00000237292
 HGNC:52521	LINC01733	long intergenic non-protein coding RNA 1733	20p11.1	ENSG00000226203
 HGNC:52522	LINC01734	long intergenic non-protein coding RNA 1734	20q12	ENSG00000230324
@@ -16058,13 +16037,11 @@ HGNC:52578	LINC01789	long intergenic non-protein coding RNA 1789	2q12.3	ENSG0000
 HGNC:52579	LINC01790	long intergenic non-protein coding RNA 1790	2q32.3	ENSG00000230173
 HGNC:52581	LINC01791	long intergenic non-protein coding RNA 1791	19q12	ENSG00000267777
 HGNC:52582	LINC01792	long intergenic non-protein coding RNA 1792	2q33.1	ENSG00000237166
-HGNC:52583	LINC01793	long intergenic non-protein coding RNA 1793	2p16.1	ENSG00000222030
 HGNC:52584	LINC01794	long intergenic non-protein coding RNA 1794	2p22.1	ENSG00000233128
 HGNC:52585	LINC01795	long intergenic non-protein coding RNA 1795	2p16.1	ENSG00000225226
 HGNC:52586	LINC01796	long intergenic non-protein coding RNA 1796	2q12.1	ENSG00000277527
 HGNC:52587	LINC01797	long intergenic non-protein coding RNA 1797	2p14	ENSG00000237179
 HGNC:52588	LINC01798	long intergenic non-protein coding RNA 1798	2p14	ENSG00000232046
-HGNC:52589	LINC01799	long intergenic non-protein coding RNA 1799	2p14	ENSG00000230525
 HGNC:52590	LINC01800	long intergenic non-protein coding RNA 1800	2p14	ENSG00000234572
 HGNC:52592	LINC01801	long intergenic non-protein coding RNA 1801	19q13.11	ENSG00000267767
 HGNC:52591	LINC01802	long intergenic non-protein coding RNA 1802	2q33.3	ENSG00000225064
@@ -16079,7 +16056,6 @@ HGNC:52613	LINC01810	long intergenic non-protein coding RNA 1810	2p25.2	ENSG0000
 HGNC:52615	LINC01811	long intergenic non-protein coding RNA 1811	3p22.3	ENSG00000226320
 HGNC:52616	LINC01812	long intergenic non-protein coding RNA 1812	2p14	ENSG00000237013
 HGNC:52617	LINC01813	long intergenic non-protein coding RNA 1813	2p16.1	ENSG00000229805
-HGNC:52618	LINC01814	long intergenic non-protein coding RNA 1814	2p25.1	ENSG00000236008
 HGNC:52619	LINC01815	long intergenic non-protein coding RNA 1815	2p12	ENSG00000235519
 HGNC:52621	LINC01816	long intergenic non-protein coding RNA 1816	2p13.3	ENSG00000231327
 HGNC:52622	LINC01817	long intergenic non-protein coding RNA 1817	2q23.3	ENSG00000231420
@@ -16108,7 +16084,6 @@ HGNC:40209	LINC01840	long intergenic non-protein coding RNA 1840	3q27.1	ENSG0000
 HGNC:52655	LINC01841	long intergenic non-protein coding RNA 1841	19p13.12	ENSG00000266913
 HGNC:52656	LINC01842	long intergenic non-protein coding RNA 1842	19p13.12	ENSG00000267147
 HGNC:52659	LINC01843	long intergenic non-protein coding RNA 1843	5q31.1	ENSG00000251169
-HGNC:52660	LINC01844	long intergenic non-protein coding RNA 1844	5q31.3	ENSG00000236714
 HGNC:27747	LINC01845	long intergenic non-protein coding RNA 1845	5q33.3	ENSG00000253298
 HGNC:52661	LINC01846	long intergenic non-protein coding RNA 1846	5q15	ENSG00000248901
 HGNC:52662	LINC01847	long intergenic non-protein coding RNA 1847	5q33.3	ENSG00000253311
@@ -16119,7 +16094,6 @@ HGNC:52667	LINC01851	long intergenic non-protein coding RNA 1851	2p12	ENSG000002
 HGNC:52668	LINC01852	long intergenic non-protein coding RNA 1852	15q14	ENSG00000236914
 HGNC:52669	LINC01853	long intergenic non-protein coding RNA 1853	2q22.1	ENSG00000224028
 HGNC:52670	LINC01854	long intergenic non-protein coding RNA 1854	2q21.1	ENSG00000204460
-HGNC:52675	LINC01855	long intergenic non-protein coding RNA 1855	19p13.12	ENSG00000267517
 HGNC:52672	LINC01856	long intergenic non-protein coding RNA 1856	2q21.1	ENSG00000237574
 HGNC:52673	LINC01857	long intergenic non-protein coding RNA 1857	2q33.3	ENSG00000224137
 HGNC:52676	LINC01858	long intergenic non-protein coding RNA 1858	19p12	ENSG00000261615
@@ -16140,7 +16114,6 @@ HGNC:52694	LINC01875	long intergenic non-protein coding RNA 1875	2p25.3	ENSG0000
 HGNC:52695	LINC01876	long intergenic non-protein coding RNA 1876	2q24.1	ENSG00000226383
 HGNC:52696	LINC01877	long intergenic non-protein coding RNA 1877	2q33.1	ENSG00000238217
 HGNC:52697	LINC01878	long intergenic non-protein coding RNA 1878	2q34	ENSG00000234308
-HGNC:52698	LINC01879	long intergenic non-protein coding RNA 1879	18q23	ENSG00000276397
 HGNC:52699	LINC01880	long intergenic non-protein coding RNA 1880	2q37.3	ENSG00000232002
 HGNC:52700	LINC01881	long intergenic non-protein coding RNA 1881	2q37.3	ENSG00000220804
 HGNC:52701	LINC01882	long intergenic non-protein coding RNA 1882	18p11.21	ENSG00000260302
@@ -16231,7 +16204,6 @@ HGNC:52796	LINC01970	long intergenic non-protein coding RNA 1970	17q25.3	ENSG000
 HGNC:52797	LINC01971	long intergenic non-protein coding RNA 1971	17q25.3	ENSG00000278200
 HGNC:52798	LINC01972	long intergenic non-protein coding RNA 1972	3q29	ENSG00000230401
 HGNC:52800	LINC01973	long intergenic non-protein coding RNA 1973	17q25.3	ENSG00000204283
-HGNC:52801	LINC01974	long intergenic non-protein coding RNA 1974	17q21.32	ENSG00000262031
 HGNC:52802	LINC01975	long intergenic non-protein coding RNA 1975	17p13.2	ENSG00000263312
 HGNC:52803	LINC01976	long intergenic non-protein coding RNA 1976	17q21.31	ENSG00000261514
 HGNC:52804	LINC01977	long intergenic non-protein coding RNA 1977	17q25.3	ENSG00000262772
@@ -16290,7 +16262,6 @@ HGNC:52866	LINC02032	long intergenic non-protein coding RNA 2032	3q24	ENSG000002
 HGNC:52867	LINC02033	long intergenic non-protein coding RNA 2033	3p22.2	ENSG00000279727
 HGNC:52868	LINC02034	long intergenic non-protein coding RNA 2034	3q21.3	ENSG00000282975
 HGNC:52875	LINC02035	long intergenic non-protein coding RNA 2035	3q21.1	ENSG00000273033
-HGNC:52876	LINC02036	long intergenic non-protein coding RNA 2036	3q29	ENSG00000225742
 HGNC:52877	LINC02037	long intergenic non-protein coding RNA 2037	3q29	ENSG00000238097
 HGNC:52878	LINC02038	long intergenic non-protein coding RNA 2038	3q29	ENSG00000229155
 HGNC:52879	LINC02039	long intergenic non-protein coding RNA 2039	5q23.2	ENSG00000248107
@@ -16313,7 +16284,6 @@ HGNC:52895	LINC02055	long intergenic non-protein coding RNA 2055	8q24.23	ENSG000
 HGNC:52900	LINC02057	long intergenic non-protein coding RNA 2057	5q12.1	ENSG00000249279
 HGNC:52901	LINC02058	long intergenic non-protein coding RNA 2058	5q14.3	ENSG00000248528
 HGNC:52902	LINC02059	long intergenic non-protein coding RNA 2059	5q14.3	ENSG00000250544
-HGNC:52904	LINC02060	long intergenic non-protein coding RNA 2060	5q14.3	ENSG00000250156
 HGNC:52906	LINC02061	long intergenic non-protein coding RNA 2061	5p13.3	ENSG00000250885
 HGNC:52908	LINC02063	long intergenic non-protein coding RNA 2063	5p15.33	ENSG00000250921
 HGNC:52909	LINC02064	long intergenic non-protein coding RNA 2064	5p13.3	ENSG00000248391
@@ -16359,7 +16329,6 @@ HGNC:52961	LINC02106	long intergenic non-protein coding RNA 2106	5q11.1	ENSG0000
 HGNC:52962	LINC02107	long intergenic non-protein coding RNA 2107	5p13.2	
 HGNC:52963	LINC02108	long intergenic non-protein coding RNA 2108	5q11.2	ENSG00000250127
 HGNC:52964	LINC02109	long intergenic non-protein coding RNA 2109	5p13.3	ENSG00000259786
-HGNC:52965	LINC02110	long intergenic non-protein coding RNA 2110	5p13.2	ENSG00000251518
 HGNC:52966	LINC02111	long intergenic non-protein coding RNA 2111	5p15.1	ENSG00000250822
 HGNC:27756	LINC02112	long intergenic non-protein coding RNA 2112	5p15.31-p15.2	ENSG00000249781
 HGNC:52967	LINC02113	long intergenic non-protein coding RNA 2113	5q21.1	ENSG00000249515
@@ -16404,7 +16373,6 @@ HGNC:53013	LINC02151	long intergenic non-protein coding RNA 2151	11q23.3	ENSG000
 HGNC:53014	LINC02152	long intergenic non-protein coding RNA 2152	16p13.2	ENSG00000261319
 HGNC:27823	LINC02153	long intergenic non-protein coding RNA 2153	8p21.3	ENSG00000253199
 HGNC:53015	LINC02154	long intergenic non-protein coding RNA 2154	Xp22.2	ENSG00000235385
-HGNC:53016	LINC02155	long intergenic non-protein coding RNA 2155	8q12.3	ENSG00000254120
 HGNC:53017	LINC02156	long intergenic non-protein coding RNA 2156	12q13.11	ENSG00000257906
 HGNC:53018	LINC02157	long intergenic non-protein coding RNA 2157	15q26.2	ENSG00000259763
 HGNC:27749	LINC02159	long intergenic non-protein coding RNA 2159	5q34	ENSG00000253417
@@ -16438,7 +16406,6 @@ HGNC:53051	LINC02189	long intergenic non-protein coding RNA 2189	16q24.1	ENSG000
 HGNC:53052	LINC02190	long intergenic non-protein coding RNA 2190	16p11.2	ENSG00000261475
 HGNC:53053	LINC02191	long intergenic non-protein coding RNA 2191	16p12.1	ENSG00000261636
 HGNC:53054	LINC02192	long intergenic non-protein coding RNA 2192	16q12.1	ENSG00000261325
-HGNC:53055	LINC02193	long intergenic non-protein coding RNA 2193	16q24.3	ENSG00000260923
 HGNC:53057	LINC02194	long intergenic non-protein coding RNA 2194	16p12.1	ENSG00000260264
 HGNC:53058	LINC02195	long intergenic non-protein coding RNA 2195	16p12.1	ENSG00000236481
 HGNC:53062	LINC02196	long intergenic non-protein coding RNA 2196	5p15.31	ENSG00000250974
@@ -16469,7 +16436,6 @@ HGNC:53087	LINC02220	long intergenic non-protein coding RNA 2220	5p15.2	ENSG0000
 HGNC:53090	LINC02221	long intergenic non-protein coding RNA 2221	5p15.31	ENSG00000250814
 HGNC:53091	LINC02222	long intergenic non-protein coding RNA 2222	5q35.3	ENSG00000248717
 HGNC:53092	LINC02223	long intergenic non-protein coding RNA 2223	5p15.1	ENSG00000249937
-HGNC:53093	LINC02224	long intergenic non-protein coding RNA 2224	5p12	ENSG00000249203
 HGNC:53094	LINC02225	long intergenic non-protein coding RNA 2225	5q11.2	ENSG00000249584
 HGNC:53095	LINC02226	long intergenic non-protein coding RNA 2226	5p15.31	ENSG00000245729
 HGNC:53096	LINC02227	long intergenic non-protein coding RNA 2227	5q33.3	ENSG00000276778
@@ -16479,7 +16445,6 @@ HGNC:53099	LINC02230	long intergenic non-protein coding RNA 2230	5q13.2	ENSG0000
 HGNC:53100	LINC02231	long intergenic non-protein coding RNA 2231	12q14.3	ENSG00000248995
 HGNC:53103	LINC02232	long intergenic non-protein coding RNA 2232	4q13.1	ENSG00000250125
 HGNC:53104	LINC02233	long intergenic non-protein coding RNA 2233	4q32.1	ENSG00000250488
-HGNC:53105	LINC02234	long intergenic non-protein coding RNA 2234	5q15	ENSG00000248202
 HGNC:53106	LINC02235	long intergenic non-protein coding RNA 2235	8q21.13	ENSG00000254689
 HGNC:53107	LINC02236	long intergenic non-protein coding RNA 2236	5p15.31	ENSG00000251365
 HGNC:53108	LINC02237	long intergenic non-protein coding RNA 2237	8q23.3	ENSG00000253434
@@ -16498,10 +16463,8 @@ HGNC:53148	LINC02250	long intergenic non-protein coding RNA 2250	15q11.2-q12	ENS
 HGNC:53149	LINC02251	long intergenic non-protein coding RNA 2251	15q26.3	ENSG00000258483
 HGNC:53150	LINC02252	long intergenic non-protein coding RNA 2252	15q14	ENSG00000261304
 HGNC:53151	LINC02253	long intergenic non-protein coding RNA 2253	15q26.2	ENSG00000259485
-HGNC:53152	LINC02254	long intergenic non-protein coding RNA 2254	15q26.2	ENSG00000259664
 HGNC:53153	LINC02255	long intergenic non-protein coding RNA 2255	15q24.1	ENSG00000277718
 HGNC:53157	LINC02256	long intergenic non-protein coding RNA 2256	15q13.3	ENSG00000261064
-HGNC:53159	LINC02257	long intergenic non-protein coding RNA 2257	1q41	ENSG00000238042
 HGNC:53165	LINC02258	long intergenic non-protein coding RNA 2258	12q21.32	ENSG00000257912
 HGNC:53172	LINC02259	long intergenic non-protein coding RNA 2259	15q24.1	ENSG00000259783
 HGNC:27956	LINC02260	long intergenic non-protein coding RNA 2260	4q12	ENSG00000250456
@@ -16546,7 +16509,6 @@ HGNC:53216	LINC02298	long intergenic non-protein coding RNA 2298	14q32.33	ENSG00
 HGNC:53218	LINC02299	long intergenic non-protein coding RNA 2299	14q32.2	ENSG00000258979
 HGNC:53219	LINC02300	long intergenic non-protein coding RNA 2300	14q12	ENSG00000258175
 HGNC:53220	LINC02301	long intergenic non-protein coding RNA 2301	14q31.1	ENSG00000258743
-HGNC:53221	LINC02302	long intergenic non-protein coding RNA 2302	14q21.2	ENSG00000258998
 HGNC:53222	LINC02303	long intergenic non-protein coding RNA 2303	14q21.2	ENSG00000258616
 HGNC:53223	LINC02304	long intergenic non-protein coding RNA 2304	14q32.2	ENSG00000259110
 HGNC:53224	LINC02305	long intergenic non-protein coding RNA 2305	14q31.2	ENSG00000258532
@@ -16584,7 +16546,6 @@ HGNC:53256	LINC02336	long intergenic non-protein coding RNA 2336	13q31.3	ENSG000
 HGNC:53257	LINC02337	long intergenic non-protein coding RNA 2337	13q34	ENSG00000215881
 HGNC:53258	LINC02338	long intergenic non-protein coding RNA 2338	13q21.1	ENSG00000277448
 HGNC:53259	LINC02339	long intergenic non-protein coding RNA 2339	13q21.2	ENSG00000279797
-HGNC:53260	LINC02340	long intergenic non-protein coding RNA 2340	13q12.13-q12.2	ENSG00000275294
 HGNC:53261	LINC02341	long intergenic non-protein coding RNA 2341	13q14.11	ENSG00000283554
 HGNC:53262	LINC02342	long intergenic non-protein coding RNA 2342	13q21.33	ENSG00000280580
 HGNC:53263	LINC02343	long intergenic non-protein coding RNA 2343	13q13.2	ENSG00000271850
@@ -16694,7 +16655,6 @@ HGNC:53379	LINC02447	long intergenic non-protein coding RNA 2447	4p16.1	ENSG0000
 HGNC:53380	LINC02448	long intergenic non-protein coding RNA 2448	12q14.1	ENSG00000257230
 HGNC:53381	LINC02449	long intergenic non-protein coding RNA 2449	12p13.31	ENSG00000215241
 HGNC:53382	LINC02450	long intergenic non-protein coding RNA 2450	12q12	ENSG00000257114
-HGNC:53383	LINC02451	long intergenic non-protein coding RNA 2451	12q12	ENSG00000257164
 HGNC:53384	LINC02452	long intergenic non-protein coding RNA 2452	12q23.1	ENSG00000283422
 HGNC:53392	LINC02453	long intergenic non-protein coding RNA 2453	12q23.1	ENSG00000245017
 HGNC:53387	LINC02454	long intergenic non-protein coding RNA 2454	12q14.3	ENSG00000256268
@@ -16783,7 +16743,6 @@ HGNC:53573	LINC02540	long intergenic non-protein coding RNA 2540	6q14.1	ENSG0000
 HGNC:53574	LINC02541	long intergenic non-protein coding RNA 2541	6q21	ENSG00000230943
 HGNC:53576	LINC02542	long intergenic non-protein coding RNA 2542	6q14.1	ENSG00000226453
 HGNC:53577	LINC02543	long intergenic non-protein coding RNA 2543	6p22.3	ENSG00000232947
-HGNC:53578	LINC02544	long intergenic non-protein coding RNA 2544	6q27	ENSG00000261039
 HGNC:53580	LINC02545	long intergenic non-protein coding RNA 2545	11p15.2	ENSG00000254930
 HGNC:53581	LINC02546	long intergenic non-protein coding RNA 2546	11p14.1	ENSG00000255117
 HGNC:53582	LINC02547	long intergenic non-protein coding RNA 2547	11p15.3	ENSG00000254486
@@ -16829,7 +16788,6 @@ HGNC:53859	LINC02589	long intergenic non-protein coding RNA 2589	Xq22.2
 HGNC:53901	LINC02591	long intergenic non-protein coding RNA 2591	1q21.1	ENSG00000263590
 HGNC:53933	LINC02593	long intergenic non-protein coding RNA 2593	1p36.33	ENSG00000223764
 HGNC:53935	LINC02594	long intergenic non-protein coding RNA 2594	17q21.31	ENSG00000267440
-HGNC:53946	LINC02595	long intergenic non-protein coding RNA 2595	Xp11.3	ENSG00000231566
 HGNC:53948	LINC02596	long intergenic non-protein coding RNA 2596	1p36.12	ENSG00000233431
 HGNC:53950	LINC02597	long intergenic non-protein coding RNA 2597	20q13.12	
 HGNC:53954	LINC02598	long intergenic non-protein coding RNA 2598	12p13.2	ENSG00000256155
@@ -16867,7 +16825,6 @@ HGNC:54110	LINC02630	long intergenic non-protein coding RNA 2630	10p11.21	ENSG00
 HGNC:54112	LINC02631	long intergenic non-protein coding RNA 2631	2q22.1	ENSG00000237772
 HGNC:54114	LINC02632	long intergenic non-protein coding RNA 2632	10q11.21	ENSG00000234864
 HGNC:54116	LINC02633	long intergenic non-protein coding RNA 2633	10q11.21	ENSG00000224265
-HGNC:54117	LINC02634	long intergenic non-protein coding RNA 2634	10p11.21	ENSG00000233200
 HGNC:54118	LINC02635	long intergenic non-protein coding RNA 2635	10p11.21	ENSG00000283000
 HGNC:54119	LINC02636	long intergenic non-protein coding RNA 2636	10q22.1	ENSG00000224222
 HGNC:54120	LINC02637	long intergenic non-protein coding RNA 2637	10q11.22	ENSG00000272430
@@ -16927,7 +16884,6 @@ HGNC:18147	LINC02692	long intergenic non-protein coding RNA 2692	9q34.3	ENSG0000
 HGNC:27904	LINC02693	long intergenic non-protein coding RNA 2693	17p11.2	ENSG00000212719
 HGNC:33796	LINC02694	long intergenic non-protein coding RNA 2694	15q14	ENSG00000175779
 HGNC:54209	LINC02695	long intergenic non-protein coding RNA 2695	11q14.2	ENSG00000254699
-HGNC:54210	LINC02696	long intergenic non-protein coding RNA 2696	11p11.2	ENSG00000254427
 HGNC:54211	LINC02697	long intergenic non-protein coding RNA 2697	11q25	ENSG00000255327
 HGNC:54212	LINC02698	long intergenic non-protein coding RNA 2698	11q23.3	ENSG00000256717
 HGNC:54213	LINC02699	long intergenic non-protein coding RNA 2699	11p14.3	ENSG00000254456
@@ -17014,7 +16970,6 @@ HGNC:54301	LINC02781	long intergenic non-protein coding RNA 2781	1p36.32	ENSG000
 HGNC:54302	LINC02782	long intergenic non-protein coding RNA 2782	1p36.32	ENSG00000231510
 HGNC:54303	LINC02783	long intergenic non-protein coding RNA 2783	1p36.13	ENSG00000204362
 HGNC:54304	LINC02784	long intergenic non-protein coding RNA 2784	1p32.3	ENSG00000235741
-HGNC:54305	LINC02785	long intergenic non-protein coding RNA 2785	1p13.3	ENSG00000226822
 HGNC:54307	LINC02786	long intergenic non-protein coding RNA 2786	1p34.3	ENSG00000284623
 HGNC:54308	LINC02787	long intergenic non-protein coding RNA 2787	1p22.2	ENSG00000229201
 HGNC:54309	LINC02788	long intergenic non-protein coding RNA 2788	1p22.2	ENSG00000285532
@@ -17026,7 +16981,6 @@ HGNC:54317	LINC02793	long intergenic non-protein coding RNA 2793	1p36.11	ENSG000
 HGNC:54318	LINC02794	long intergenic non-protein coding RNA 2794	1p33	ENSG00000226133
 HGNC:54319	LINC02795	long intergenic non-protein coding RNA 2795	1p22.3	ENSG00000285210
 HGNC:27918	LINC02796	long intergenic non-protein coding RNA 2796	1p31.1	ENSG00000227016
-HGNC:54320	LINC02797	long intergenic non-protein coding RNA 2797	1p31.1	ENSG00000285808
 HGNC:54323	LINC02798	long intergenic non-protein coding RNA 2798	1p11.2	ENSG00000227082
 HGNC:54324	LINC02799	long intergenic non-protein coding RNA 2799	1q21.1	ENSG00000235887
 HGNC:27642	LINC02800	long intergenic non-protein coding RNA 2800	1p36.11	ENSG00000230023
@@ -17101,7 +17055,6 @@ HGNC:33817	LINC02872	long intergenic non-protein coding RNA 2872	9q21.33	ENSG000
 HGNC:26805	LINC02873	long intergenic non-protein coding RNA 2873	11q24.3	ENSG00000175728
 HGNC:27473	LINC02874	long intergenic non-protein coding RNA 2874	12q13.13	ENSG00000257137
 HGNC:32699	LINC02875	long intergenic non-protein coding RNA 2875	17q23.2	ENSG00000187013
-HGNC:42963	LINC02876	long intergenic non-protein coding RNA 2876	17q22	ENSG00000227011
 HGNC:37259	LINC02877	long intergenic non-protein coding RNA 2877	3q25.2	ENSG00000237787
 HGNC:54524	LINC02878	long intergenic non-protein coding RNA 2878	8q24.3	ENSG00000181097
 HGNC:54551	LINC02879	long intergenic non-protein coding RNA 2879	18q12.1	
@@ -17133,7 +17086,6 @@ HGNC:42974	LINC02906	long intergenic non-protein coding RNA 2906	8q22.1	ENSG0000
 HGNC:28581	LINC02907	long intergenic non-protein coding RNA 2907	9q34.3	ENSG00000178243
 HGNC:31426	LINC02908	long intergenic non-protein coding RNA 2908	9q34.3	ENSG00000180539
 HGNC:27282	LINC02909	long intergenic non-protein coding RNA 2909	12p12.1	ENSG00000226397
-HGNC:26601	LINC02910	long intergenic non-protein coding RNA 2910	20q13.33	ENSG00000176659
 HGNC:44658	LINC02911	long intergenic non-protein coding RNA 2911	16q12.1	ENSG00000261190
 HGNC:32295	LINC02912	long intergenic non-protein coding RNA 2912	8q24.21	ENSG00000280055
 HGNC:31370	LINC02913	long intergenic non-protein coding RNA 2913	9q34.11	ENSG00000179082
@@ -17210,7 +17162,6 @@ HGNC:56083	LINC02986	long intergenic non-protein coding RNA 2986	8q21.13	ENSG000
 HGNC:56093	LINC02987	long intergenic non-protein coding RNA 2987	19q11	ENSG00000267575
 HGNC:56098	LINC02988	long intergenic non-protein coding RNA 2988	1q21.2	ENSG00000285554
 HGNC:56100	LINC02989	long intergenic non-protein coding RNA 2989	11p15.3	ENSG00000255400
-HGNC:56101	LINC02990	long intergenic non-protein coding RNA 2990	8q24.3	ENSG00000253931
 HGNC:33810	LINC02991	long intergenic non-protein coding RNA 2991	2q37.3	ENSG00000196758
 HGNC:49287	LINC02992	long intergenic non-protein coding RNA 2992	2q14.1	
 HGNC:56105	LINC02993	long intergenic non-protein coding RNA 2993	2q22.3	ENSG00000287115
@@ -17267,7 +17218,6 @@ HGNC:56250	LINC03044	long intergenic non-protein coding RNA 3044	8q22.3	ENSG0000
 HGNC:56262	LINC03046	long intergenic non-protein coding RNA 3046	10q24.32	ENSG00000224817
 HGNC:56265	LINC03047	long intergenic non-protein coding RNA 3047	8q22.3	ENSG00000253633
 HGNC:56272	LINC03048	long intergenic non-protein coding RNA 3048	17q25.3	ENSG00000262223
-HGNC:56282	LINC03049	long intergenic non-protein coding RNA 3049	19q13.11	ENSG00000271109
 HGNC:56283	LINC03050	long intergenic non-protein coding RNA 3050	2p14	ENSG00000235725
 HGNC:56330	LINC03051	long intergenic non-protein coding RNA 3051	3q13.32	ENSG00000239268
 HGNC:56335	LINC03052	long intergenic non-protein coding RNA 3052	2q11.1	ENSG00000272913
@@ -17279,15 +17229,12 @@ HGNC:56359	LINC03057	long intergenic non-protein coding RNA 3057	17q21.32	ENSG00
 HGNC:56363	LINC03058	long intergenic non-protein coding RNA 3058	14q11.2	ENSG00000258810
 HGNC:56366	LINC03059	long intergenic non-protein coding RNA 3059	14q22.3	ENSG00000258592
 HGNC:56367	LINC03060	long intergenic non-protein coding RNA 3060	7q33	ENSG00000273297
-HGNC:56368	LINC03061	long intergenic non-protein coding RNA 3061	13q33.3	ENSG00000275216
 HGNC:56369	LINC03062	long intergenic non-protein coding RNA 3062	9q22.2	ENSG00000237372
-HGNC:56371	LINC03063	long intergenic non-protein coding RNA 3063	2p22.2	ENSG00000289545
 HGNC:56372	LINC03064	long intergenic non-protein coding RNA 3064	16q12.2	ENSG00000260963
 HGNC:56373	LINC03065	long intergenic non-protein coding RNA 3065	15q21.3	ENSG00000276524
 HGNC:27767	LINC03066	long intergenic non-protein coding RNA 3066	6p25.3	ENSG00000263667
 HGNC:56639	LINC03067	long intergenic non-protein coding RNA 3067	5p15.33	ENSG00000271119
 HGNC:56640	LINC03068	long intergenic non-protein coding RNA 3068	10q26.3	ENSG00000234311
-HGNC:56641	LINC03069	long intergenic non-protein coding RNA 3069	18q21.2	ENSG00000206129
 HGNC:56642	LINC03070	long intergenic non-protein coding RNA 3070	Xp22.32	ENSG00000236120
 HGNC:56645	LINC03071	long intergenic non-protein coding RNA 3071	8q21.12	ENSG00000254080
 HGNC:56650	LINC03072	long intergenic non-protein coding RNA 3072	7q32.1	ENSG00000273270
@@ -17299,7 +17246,6 @@ HGNC:56657	LINC03077	long intergenic non-protein coding RNA 3077	Xq21.33	ENSG000
 HGNC:56665	LINC03078	long intergenic non-protein coding RNA 3078	19q13.31	ENSG00000231412
 HGNC:56669	LINC03079	long intergenic non-protein coding RNA 3079	20q13.13	ENSG00000276923
 HGNC:56670	LINC03080	long intergenic non-protein coding RNA 3080	15q26.3	ENSG00000259341
-HGNC:56674	LINC03081	long intergenic non-protein coding RNA 3081	1q42.3	ENSG00000237845
 HGNC:56676	LINC03082	long intergenic non-protein coding RNA 3082	13q34	ENSG00000275830
 HGNC:56677	LINC03083	long intergenic non-protein coding RNA 3083	20p11.23	ENSG00000234104
 HGNC:56686	LINC03084	long intergenic non-protein coding RNA 3084	8q23.1	ENSG00000254041
@@ -17340,6 +17286,15 @@ HGNC:52969	LINC03123	long intergenic non-protein coding RNA 3123	5q12.1	ENSG0000
 HGNC:25077	LINC03124	long intergenic non-protein coding RNA 3124	2q21.2	ENSG00000287151
 HGNC:57012	LINC03125	long intergenic non-protein coding RNA 3125	20p11.21	
 HGNC:57013	LINC03126	long intergenic non-protein coding RNA 3126	1p36.13	
+HGNC:57044	LINC03129	long intergenic non-protein coding RNA 3129	7q11.21	
+HGNC:58087	LINC03130	long intergenic non-protein coding RNA 3130	12q21.33	
+HGNC:58088	LINC03131	long intergenic non-protein coding RNA 3131	9p23	
+HGNC:58095	LINC03133	long intergenic non-protein coding RNA 3133	8q12.1	
+HGNC:58100	LINC03135	long intergenic non-protein coding RNA 3135	6p21.31	
+HGNC:58102	LINC03136	long intergenic non-protein coding RNA 3136	11q24.2	
+HGNC:58103	LINC03137	long intergenic non-protein coding RNA 3137	15q23	
+HGNC:58104	LINC03138	long intergenic non-protein coding RNA 3138	21q21.3	
+HGNC:58111	LINC03139	long intergenic non-protein coding RNA 3139	10q22.1	
 HGNC:53956	LINCADL	lincRNA adipogenesis and lipogenesis associated	5q23.1	ENSG00000287148
 HGNC:49089	LINCMD1	long intergenic non-protein coding RNA, muscle differentiation 1	6p12.2	ENSG00000225613
 HGNC:21205	LINGO1	leucine rich repeat and Ig domain containing 1	15q24.3	ENSG00000169783
@@ -17368,6 +17323,7 @@ HGNC:29569	LIPT1	lipoyltransferase 1	2q11.2	ENSG00000144182
 HGNC:39278	LIPT1P1	lipoyltransferase 1 pseudogene 1	13q33.1	ENSG00000229975
 HGNC:37216	LIPT2	lipoyl(octanoyl) transferase 2	11q13.4	ENSG00000175536
 HGNC:56172	LIPT2-AS1	LIPT2 antisense RNA 1	11q13.4	ENSG00000254837
+HGNC:56638	LIRIL2R	lincRNA regulator of IL2RA	6p25.3	
 HGNC:16841	LITAF	lipopolysaccharide induced TNF factor	16p13.13	ENSG00000189067
 HGNC:53927	LITAFD	LITAF domain containing	16p13.2	ENSG00000283516
 HGNC:49453	LITATS1	lncRNA induced by TGF-beta and antagonizes TGF-beta signaling 1	1p34.3	ENSG00000233621
@@ -17414,7 +17370,6 @@ HGNC:6644	LMO4	LIM domain only 4	1p22.3	ENSG00000143013
 HGNC:6646	LMO7	LIM domain 7	13q22.2	ENSG00000136153
 HGNC:50277	LMO7-AS1	LMO7 antisense RNA 1	13q22.2	ENSG00000261105
 HGNC:44370	LMO7DN	LMO7 downstream neighbor	13q22.2	ENSG00000178734
-HGNC:49790	LMO7DN-IT1	LMO7DN intronic transcript 1	13q22.2	ENSG00000223458
 HGNC:6647	LMOD1	leiomodin 1	1q32.1	ENSG00000163431
 HGNC:6648	LMOD2	leiomodin 2	7q31.32	ENSG00000170807
 HGNC:6649	LMOD3	leiomodin 3	3p14.1	ENSG00000163380
@@ -17433,6 +17388,7 @@ HGNC:53864	LNCARSR	lncRNA regulator of Akt signaling associated with HCC and RCC
 HGNC:54478	LNCATV	lncRNA negative regulator of antiviral signaling	1q42.3	ENSG00000238005
 HGNC:52752	LNCBRM	lncRNA SMARCA2 (BRM) associated	5q11.2	ENSG00000249436
 HGNC:54855	LNCDAT	lncRNA divergent activator of TBXT	6q27	ENSG00000288638
+HGNC:58066	LNCEGFL7OS	lncRNA EGFL7 opposite strand	9q34.3	
 HGNC:56254	LNCHR1	lncRNA induced by HCV, regulator of SREBF1	12q22	ENSG00000257400
 HGNC:50656	LNCNEF	lncRNA neighboring enhancer of FOXA2	20p11.21	ENSG00000237396
 HGNC:53947	LNCOC1	lncRNA associated with ovarian cancer 1	8q24.3	ENSG00000253741
@@ -17539,7 +17495,6 @@ HGNC:51694	LRP1-AS	LRP1 antisense RNA	12q13.3	ENSG00000259125
 HGNC:6693	LRP1B	LDL receptor related protein 1B	2q22.1-q22.2	ENSG00000168702
 HGNC:6694	LRP2	LDL receptor related protein 2	2q31.1	ENSG00000081479
 HGNC:25434	LRP2BP	LRP2 binding protein	4q35.1	ENSG00000109771
-HGNC:55998	LRP2BP-AS1	LRP2BP antisense RNA 1	4q35.1	ENSG00000250410
 HGNC:6695	LRP3	LDL receptor related protein 3	19q13.11	ENSG00000130881
 HGNC:6696	LRP4	LDL receptor related protein 4	11p11.2	ENSG00000134569
 HGNC:44128	LRP4-AS1	LRP4 antisense RNA 1	11p11.2	ENSG00000247675
@@ -18046,6 +18001,7 @@ HGNC:25742	MAP7D3	MAP7 domain containing 3	Xq26.3	ENSG00000129680
 HGNC:26118	MAP9	microtubule associated protein 9	4q32.1	ENSG00000164114
 HGNC:56110	MAP9-AS1	MAP9 antisense RNA 1	4q32.1	ENSG00000250910
 HGNC:29265	MAP10	microtubule associated protein 10	1q42.2	ENSG00000212916
+HGNC:31853	MAPDA	N6-Methyl-AMP deaminase	15q15.3	ENSG00000168803
 HGNC:6871	MAPK1	mitogen-activated protein kinase 1	22q11.22	ENSG00000100030
 HGNC:19840	MAPK1IP1L	mitogen-activated protein kinase 1 interacting protein 1 like	14q22.3	ENSG00000168175
 HGNC:6877	MAPK3	mitogen-activated protein kinase 3	16p11.2	ENSG00000102882
@@ -19123,6 +19079,7 @@ HGNC:32803	MIR549A	microRNA 549a	15q25.1	ENSG00000208003
 HGNC:32804	MIR550A1	microRNA 550a-1	7p14.3	ENSG00000207771
 HGNC:32805	MIR550A2	microRNA 550a-2	7p14.3	ENSG00000207573
 HGNC:41870	MIR550A3	microRNA 550a-3	7p14.3	ENSG00000212024
+HGNC:58072	MIR550A3HG	MIR550A3 host gene	7p14.3	
 HGNC:38992	MIR550B1	microRNA 550b-1	7p14.3	ENSG00000283237
 HGNC:38910	MIR550B2	microRNA 550b-2	7p14.3	ENSG00000283461
 HGNC:32806	MIR551A	microRNA 551a	1p36.32	ENSG00000207776
@@ -20659,6 +20616,7 @@ HGNC:7118	MKRN6P	makorin ring finger protein 6, pseudogene	6p21.31	ENSG000002271
 HGNC:7119	MKRN7P	makorin ring finger protein 7, pseudogene	20q13.12	ENSG00000225849
 HGNC:7120	MKRN8P	makorin ring finger protein 8, pseudogene	1p34.2	ENSG00000237090
 HGNC:7116	MKRN9P	makorin ring finger protein 9, pseudogene	12q21.32	ENSG00000258128
+HGNC:57038	MKRN10P	makorin ring finger protein 10, pseudogene	9p22.3	
 HGNC:7121	MKS1	MKS transition zone complex subunit 1	17q22	ENSG00000011143
 HGNC:23729	MKX	mohawk homeobox	10p12.1	ENSG00000150051
 HGNC:50686	MKX-AS1	MKX antisense RNA 1	10p12.1	ENSG00000230500
@@ -21581,6 +21539,7 @@ HGNC:18191	MTMR12	myotubularin related protein 12	5p13.3	ENSG00000150712
 HGNC:55888	MTMR12P1	MTMR12 pseudogene 1	11q22.1	ENSG00000255504
 HGNC:26190	MTMR14	myotubularin related protein 14	3p25.3	ENSG00000163719
 HGNC:29601	MTNAP1	mitochondrial nucleoid associated protein 1	17q25.1	ENSG00000141219
+HGNC:57041	MTNAP1P1	MTNAP1 pseudogene 1	2q24.2	
 HGNC:38728	MTND1P1	MT-ND1 pseudogene 1	Yp11.2	ENSG00000226529
 HGNC:42051	MTND1P2	MT-ND1 pseudogene 2	7q11.21	ENSG00000235646
 HGNC:42052	MTND1P3	MT-ND1 pseudogene 3	7q34	ENSG00000239648
@@ -21893,7 +21852,7 @@ HGNC:7514	MUC4	mucin 4, cell surface associated	3q29	ENSG00000145113
 HGNC:7515	MUC5AC	mucin 5AC, oligomeric mucus/gel-forming	11p15.5	ENSG00000215182
 HGNC:7516	MUC5B	mucin 5B, oligomeric mucus/gel-forming	11p15.5	ENSG00000117983
 HGNC:53936	MUC5B-AS1	MUC5B antisense RNA 1	11p15.5	ENSG00000255177
-HGNC:7517	MUC6	mucin 6, oligomeric mucus/gel-forming	11p15.5	ENSG00000184956
+HGNC:7517	MUC6	mucin 6, oligomeric mucus/gel-forming (gene/pseudogene)	11p15.5	ENSG00000184956
 HGNC:7518	MUC7	mucin 7, secreted	4q13.3	ENSG00000171195
 HGNC:7519	MUC8	mucin 8	12q24.33	
 HGNC:7510	MUC12	mucin 12, cell surface associated	7q22.1	ENSG00000205277
@@ -21902,7 +21861,7 @@ HGNC:7511	MUC13	mucin 13, cell surface associated	3q21.2	ENSG00000173702
 HGNC:14956	MUC15	mucin 15, cell surface associated	11p14.2	ENSG00000169550
 HGNC:15582	MUC16	mucin 16, cell surface associated	19p13.2	ENSG00000181143
 HGNC:16800	MUC17	mucin 17, cell surface associated	7q22.1	ENSG00000169876
-HGNC:14362	MUC19	mucin 19, oligomeric	12q12	ENSG00000205592
+HGNC:14362	MUC19	mucin 19, oligomeric (gene/pseudogene)	12q12	ENSG00000205592
 HGNC:23282	MUC20	mucin 20, cell surface associated	3q29	ENSG00000176945
 HGNC:53807	MUC20-OT1	MUC20 overlapping transcript	3q29	ENSG00000242086
 HGNC:51921	MUC20P1	mucin 20, cell surface associated pseudogene 1	3q29	ENSG00000224769
@@ -21988,7 +21947,7 @@ HGNC:7569	MYH11	myosin heavy chain 11	16p13.11	ENSG00000133392
 HGNC:7571	MYH13	myosin heavy chain 13	17p13.1	ENSG00000006788
 HGNC:23212	MYH14	myosin heavy chain 14	19q13.33	ENSG00000105357
 HGNC:31073	MYH15	myosin heavy chain 15	3q13.13	ENSG00000144821
-HGNC:31038	MYH16	myosin heavy chain 16 (pseudogene)	7q22.1	ENSG00000002079
+HGNC:31038	MYH16	myosin heavy chain 16	7q22.1	ENSG00000002079
 HGNC:50609	MYHAS	myosin heavy chain gene cluster antisense RNA	17p13.1	ENSG00000272975
 HGNC:7582	MYL1	myosin light chain 1	2q34	ENSG00000168530
 HGNC:7583	MYL2	myosin light chain 2	12q24.11	ENSG00000111245
@@ -22018,7 +21977,6 @@ HGNC:7589	MYL12BP3	MYL12B pseudogene 3	6p21.32	ENSG00000229596
 HGNC:21155	MYLIP	myosin regulatory light chain interacting protein	6p22.3	ENSG00000007944
 HGNC:7590	MYLK	myosin light chain kinase	3q21.1	ENSG00000065534
 HGNC:42440	MYLK-AS1	MYLK antisense RNA 1	3q21.1	ENSG00000239523
-HGNC:40387	MYLK-AS2	MYLK antisense RNA 2	3q21.1	ENSG00000250174
 HGNC:16243	MYLK2	myosin light chain kinase 2	20q11.21	ENSG00000101306
 HGNC:29826	MYLK3	myosin light chain kinase 3	16q11.2	ENSG00000140795
 HGNC:27972	MYLK4	myosin light chain kinase family member 4	6p25.2	ENSG00000145949
@@ -22073,7 +22031,7 @@ HGNC:7614	MYOM2	myomesin 2	8p23.3	ENSG00000036448
 HGNC:26679	MYOM3	myomesin 3	1p36.11	ENSG00000142661
 HGNC:41158	MYOM3-AS1	MYOM3 antisense RNA 1	1p36.11	ENSG00000230703
 HGNC:54178	MYOPARR	myogenin promoter associated myogenic regulatory antisense long non coding RNA	1q32.1	
-HGNC:19918	MYORG	myogenesis regulating glycosidase (putative)	9p13.3	ENSG00000164976
+HGNC:19918	MYORG	myogenesis regulating glycosidase	9p13.3	ENSG00000164976
 HGNC:51821	MYOSLID	myocardin-induced smooth muscle lncRNA, inducer of differentiation	2q33.3	ENSG00000229647
 HGNC:54063	MYOSLID-AS1	MYOSLID antisense RNA 1	2q33.3	
 HGNC:12399	MYOT	myotilin	5q31.2	ENSG00000120729
@@ -22240,7 +22198,7 @@ HGNC:7646	NAT2	N-acetyltransferase 2	8p22	ENSG00000156006
 HGNC:18069	NAT8	N-acetyltransferase 8 (putative)	2p13.1	ENSG00000144035
 HGNC:30235	NAT8B	N-acetyltransferase 8B (putative, gene/pseudogene)	2p13.1	ENSG00000204872
 HGNC:26742	NAT8L	N-acetyltransferase 8 like	4p16.3	ENSG00000185818
-HGNC:23133	NAT9	N-acetyltransferase 9 (putative)	17q25.2	ENSG00000109065
+HGNC:23133	NAT9	N-acetyltransferase 9	17q25.2	ENSG00000109065
 HGNC:29830	NAT10	N-acetyltransferase 10	11p13	ENSG00000135372
 HGNC:28918	NAT14	N-acetyltransferase 14 (putative)	19q13.42	ENSG00000090971
 HGNC:22030	NAT16	N-acetyltransferase 16 (putative)	7q22.1	ENSG00000167011
@@ -22344,7 +22302,6 @@ HGNC:26923	NCLN	nicalin	19p13.3	ENSG00000125912
 HGNC:35472	NCLP1	nucleolin pseudogene 1	9q34.3	ENSG00000213212
 HGNC:35473	NCLP2	nucleolin pseudogene 2	Xq26.3	ENSG00000234228
 HGNC:29332	NCMAP	non-compact myelin associated protein	1p36.11	ENSG00000184454
-HGNC:54327	NCMAP-DT	NCMAP divergent transcript	1p36.11	ENSG00000264443
 HGNC:7668	NCOA1	nuclear receptor coactivator 1	2p23.3	ENSG00000084676
 HGNC:7669	NCOA2	nuclear receptor coactivator 2	8q13.3	ENSG00000140396
 HGNC:7670	NCOA3	nuclear receptor coactivator 3	20q13.12	ENSG00000124151
@@ -23137,6 +23094,7 @@ HGNC:52383	NPY4R2	neuropeptide Y receptor Y4-2	10q11.22	ENSG00000264717
 HGNC:7958	NPY5R	neuropeptide Y receptor Y5	4q32.2	ENSG00000164129
 HGNC:7959	NPY6R	neuropeptide Y receptor Y6 (pseudogene)	5q31.2	ENSG00000226306
 HGNC:2874	NQO1	NAD(P)H quinone dehydrogenase 1	16q22.1	ENSG00000181019
+HGNC:58115	NQO1-AS1	NQO1 antisense RNA 1	16q22.1	
 HGNC:55344	NQO1-DT	NQO1 divergent transcript	16q22.1	ENSG00000262136
 HGNC:7856	NQO2	N-ribosyldihydronicotinamide:quinone dehydrogenase 2	6p25.2	ENSG00000124588
 HGNC:40407	NQO2-AS1	NQO2 antisense RNA 1	6p25.2	ENSG00000224846
@@ -23201,6 +23159,7 @@ HGNC:7999	NRG3	neuregulin 3	10q23.1	ENSG00000185737
 HGNC:31429	NRG3-AS1	NRG3 antisense RNA 1	10q23.1	ENSG00000225738
 HGNC:29862	NRG4	neuregulin 4	15q24.2	ENSG00000169752
 HGNC:8000	NRGN	neurogranin	11q24.2	ENSG00000154146
+HGNC:58070	NRGN-AS1	NRGN antisense RNA 1	11q24.2	
 HGNC:8001	NRIP1	nuclear receptor interacting protein 1	21q11.2-q21.1	ENSG00000180530
 HGNC:23078	NRIP2	nuclear receptor interacting protein 2	12p13.33	ENSG00000053702
 HGNC:1167	NRIP3	nuclear receptor interacting protein 3	11p15.4	ENSG00000175352
@@ -23701,7 +23660,7 @@ HGNC:8238	OR2B3	olfactory receptor family 2 subfamily B member 3	6p22.1	ENSG0000
 HGNC:8239	OR2B4P	olfactory receptor family 2 subfamily B member 4 pseudogene	6p22.2-p21.32	ENSG00000197171
 HGNC:8241	OR2B6	olfactory receptor family 2 subfamily B member 6	6p22.1	ENSG00000124657
 HGNC:13967	OR2B7P	olfactory receptor family 2 subfamily B member 7 pseudogene	6p22.1	ENSG00000187763
-HGNC:13968	OR2B8P	olfactory receptor family 2 subfamily B member 8 pseudogene	6p22.1	ENSG00000182477
+HGNC:13968	OR2B8	olfactory receptor family 2 subfamily B member 8 (gene/pseudogene)	6p22.1	ENSG00000182477
 HGNC:31249	OR2B11	olfactory receptor family 2 subfamily B member 11	1q44	ENSG00000177535
 HGNC:31250	OR2BH1P	olfactory receptor family 2 subfamily BH member 1 pseudogene	11p14.1	ENSG00000272882
 HGNC:8242	OR2C1	olfactory receptor family 2 subfamily C member 1	16p13.3	ENSG00000168158
@@ -23719,7 +23678,7 @@ HGNC:8252	OR2H1	olfactory receptor family 2 subfamily H member 1	6p22.1	ENSG0000
 HGNC:8253	OR2H2	olfactory receptor family 2 subfamily H member 2	6p22.1	ENSG00000204657
 HGNC:8255	OR2H4P	olfactory receptor family 2 subfamily H member 4 pseudogene	6p22.1	ENSG00000230598
 HGNC:8256	OR2H5P	olfactory receptor family 2 subfamily H member 5 pseudogene	6p22.1	ENSG00000232173
-HGNC:8258	OR2I1P	olfactory receptor family 2 subfamily I member 1 pseudogene	6p22.1	ENSG00000237988
+HGNC:8258	OR2I1	olfactory receptor family 2 subfamily I member 1 (gene/pseudogene)	6p22.1	ENSG00000237988
 HGNC:8259	OR2J1	olfactory receptor family 2 subfamily J member 1	6p22.1	ENSG00000204702
 HGNC:8260	OR2J2	olfactory receptor family 2 subfamily J member 2	6p22.1	ENSG00000204700
 HGNC:8261	OR2J3	olfactory receptor family 2 subfamily J member 3	6p22.1	ENSG00000204701
@@ -23751,7 +23710,7 @@ HGNC:14727	OR2T3	olfactory receptor family 2 subfamily T member 3	1q44	ENSG00000
 HGNC:15016	OR2T4	olfactory receptor family 2 subfamily T member 4	1q44	ENSG00000196944
 HGNC:15017	OR2T5	olfactory receptor family 2 subfamily T member 5	1q44	ENSG00000203661
 HGNC:15018	OR2T6	olfactory receptor family 2 subfamily T member 6	1q44	ENSG00000198104
-HGNC:15019	OR2T7	olfactory receptor family 2 subfamily T member 7	1q44	ENSG00000227152
+HGNC:15019	OR2T7	olfactory receptor family 2 subfamily T member 7 (gene/pseudogene)	1q44	ENSG00000227152
 HGNC:15020	OR2T8	olfactory receptor family 2 subfamily T member 8	1q44	ENSG00000177462
 HGNC:19573	OR2T10	olfactory receptor family 2 subfamily T member 10	1q44	ENSG00000184022
 HGNC:19574	OR2T11	olfactory receptor family 2 subfamily T member 11	1q44	ENSG00000279301
@@ -23761,7 +23720,7 @@ HGNC:31253	OR2T29	olfactory receptor family 2 subfamily T member 29	1q44	ENSG000
 HGNC:31254	OR2T32P	olfactory receptor family 2 subfamily T member 32 pseudogene	1q44	ENSG00000197067
 HGNC:31255	OR2T33	olfactory receptor family 2 subfamily T member 33	1q44	ENSG00000177212
 HGNC:31256	OR2T34	olfactory receptor family 2 subfamily T member 34	1q44	ENSG00000183310
-HGNC:31257	OR2T35	olfactory receptor family 2 subfamily T member 35	1q44	ENSG00000177151
+HGNC:31257	OR2T35	olfactory receptor family 2 subfamily T member 35 (gene/pseudogene)	1q44	ENSG00000177151
 HGNC:8278	OR2U1P	olfactory receptor family 2 subfamily U member 1 pseudogene	6p22.1	ENSG00000204697
 HGNC:8279	OR2U2P	olfactory receptor family 2 subfamily U member 2 pseudogene	6p22.1	ENSG00000242524
 HGNC:8280	OR2V1	olfactory receptor family 2 subfamily V member 1	5q35.3	ENSG00000185372
@@ -23965,7 +23924,7 @@ HGNC:29194	OR5BN2P	olfactory receptor family 5 subfamily BN member 2 pseudogene	
 HGNC:15277	OR5BP1P	olfactory receptor family 5 subfamily BP member 1 pseudogene	11q12.1	ENSG00000273255
 HGNC:15278	OR5BQ1P	olfactory receptor family 5 subfamily BQ member 1 pseudogene	11q12.1	ENSG00000273228
 HGNC:15279	OR5BR1P	olfactory receptor family 5 subfamily BR member 1 pseudogene	11q12.1	ENSG00000255386
-HGNC:19627	OR5BS1P	olfactory receptor family 5 subfamily BS member 1 pseudogene	12q13.11	ENSG00000198678
+HGNC:19627	OR5BS1	olfactory receptor family 5 subfamily BS member 1	12q13.11	ENSG00000198678
 HGNC:19629	OR5BT1P	olfactory receptor family 5 subfamily BT member 1 pseudogene	12q13.11	ENSG00000258024
 HGNC:8331	OR5C1	olfactory receptor family 5 subfamily C member 1	9q33.2	ENSG00000148215
 HGNC:8335	OR5D2P	olfactory receptor family 5 subfamily D member 2 pseudogene	11q11	ENSG00000254457
@@ -24216,7 +24175,7 @@ HGNC:14840	OR8D4	olfactory receptor family 8 subfamily D member 4	11q24.1	ENSG00
 HGNC:14691	OR8F1P	olfactory receptor family 8 subfamily F member 1 pseudogene	11q24.2	ENSG00000239426
 HGNC:8484	OR8G1	olfactory receptor family 8 subfamily G member 1	11q24.2	ENSG00000197849
 HGNC:8485	OR8G2P	olfactory receptor family 8 subfamily G member 2 pseudogene	11q24.2	ENSG00000181214
-HGNC:14698	OR8G3P	olfactory receptor family 8 subfamily G member 3 pseudogene	11q24.2	ENSG00000255425
+HGNC:14698	OR8G3	olfactory receptor family 8 subfamily G member 3 (gene/pseudogene)	11q24.2	ENSG00000255425
 HGNC:19622	OR8G5	olfactory receptor family 8 subfamily G member 5	11q24.2	ENSG00000255298
 HGNC:19625	OR8G7P	olfactory receptor family 8 subfamily G member 7 pseudogene	11q24.2	ENSG00000276316
 HGNC:14824	OR8H1	olfactory receptor family 8 subfamily H member 1	11q12.1	ENSG00000181693
@@ -24254,7 +24213,7 @@ HGNC:15320	OR9G2P	olfactory receptor family 9 subfamily G member 2 pseudogene	11
 HGNC:15321	OR9G3P	olfactory receptor family 9 subfamily G member 3 pseudogene	11q12.1	ENSG00000181325
 HGNC:15322	OR9G4	olfactory receptor family 9 subfamily G member 4	11q12.1	ENSG00000172457
 HGNC:31940	OR9G9	olfactory receptor family 9 subfamily G member 9	11q11 alternate reference locus	
-HGNC:15038	OR9H1P	olfactory receptor family 9 subfamily H member 1 pseudogene	1q44	ENSG00000228336
+HGNC:15038	OR9H1	olfactory receptor family 9 subfamily H member 1 pseudogene (gene/pseudogene)	1q44	ENSG00000228336
 HGNC:14718	OR9I1	olfactory receptor family 9 subfamily I member 1	11q12.1	ENSG00000172377
 HGNC:15324	OR9I2P	olfactory receptor family 9 subfamily I member 2 pseudogene	11q12.1	ENSG00000186508
 HGNC:15325	OR9I3P	olfactory receptor family 9 subfamily I member 3 pseudogene	11q12.1	ENSG00000272685
@@ -24306,7 +24265,7 @@ HGNC:15388	OR10H4	olfactory receptor family 10 subfamily H member 4	19p13.12	ENS
 HGNC:15389	OR10H5	olfactory receptor family 10 subfamily H member 5	19p13.12	ENSG00000172519
 HGNC:8175	OR10J1	olfactory receptor family 10 subfamily J member 1	1q23.2	ENSG00000196184
 HGNC:14991	OR10J2P	olfactory receptor family 10 subfamily J member 2 pseudogene	1q23.2	ENSG00000248642
-HGNC:14992	OR10J3	olfactory receptor family 10 subfamily J member 3	1q23.2	ENSG00000196266
+HGNC:14992	OR10J3	olfactory receptor family 10 subfamily J member 3 (gene/pseudogene)	1q23.2	ENSG00000196266
 HGNC:15408	OR10J4	olfactory receptor family 10 subfamily J member 4 (gene/pseudogene)	1q23.2	ENSG00000249730
 HGNC:14993	OR10J5	olfactory receptor family 10 subfamily J member 5	1q23.2	ENSG00000184155
 HGNC:14994	OR10J6P	olfactory receptor family 10 subfamily J member 6 pseudogene	1q23.2	ENSG00000158731
@@ -24410,7 +24369,7 @@ HGNC:14708	OR51B4	olfactory receptor family 51 subfamily B member 4	11p15.4	ENSG
 HGNC:19599	OR51B5	olfactory receptor family 51 subfamily B member 5	11p15.4	ENSG00000167355
 HGNC:19600	OR51B6	olfactory receptor family 51 subfamily B member 6	11p15.4	ENSG00000176239
 HGNC:31279	OR51B8P	olfactory receptor family 51 subfamily B member 8 pseudogene	11p15.4	ENSG00000236359
-HGNC:15191	OR51C1P	olfactory receptor family 51 subfamily C member 1 pseudogene	11p15.4	ENSG00000197674
+HGNC:15191	OR51C1	olfactory receptor family 51 subfamily C member 1	11p15.4	ENSG00000197674
 HGNC:31280	OR51C4P	olfactory receptor family 51 subfamily C member 4 pseudogene	11p15.4	ENSG00000272664
 HGNC:15193	OR51D1	olfactory receptor family 51 subfamily D member 1	11p15.4	ENSG00000197428
 HGNC:15194	OR51E1	olfactory receptor family 51 subfamily E member 1	11p15.4	ENSG00000180785
@@ -24493,7 +24452,7 @@ HGNC:14791	OR56A4	olfactory receptor family 56 subfamily A member 4	11p15.4	ENSG
 HGNC:14792	OR56A5	olfactory receptor family 56 subfamily A member 5	11p15.4	ENSG00000188691
 HGNC:15244	OR56A7P	olfactory receptor family 56 subfamily A member 7 pseudogene	11p15.4	ENSG00000255481
 HGNC:15245	OR56B1	olfactory receptor family 56 subfamily B member 1	11p15.4	ENSG00000181023
-HGNC:15246	OR56B2P	olfactory receptor family 56 subfamily B member 2 pseudogene	11p15.4	ENSG00000181017
+HGNC:15246	OR56B2	olfactory receptor family 56 subfamily B member 2	11p15.4	ENSG00000181017
 HGNC:15247	OR56B3P	olfactory receptor family 56 subfamily B member 3 pseudogene	11p15.4	ENSG00000180913
 HGNC:15248	OR56B4	olfactory receptor family 56 subfamily B member 4	11p15.4	ENSG00000180919
 HGNC:25896	ORAI1	ORAI calcium release-activated calcium modulator 1	12q24.31	ENSG00000276045
@@ -24950,7 +24909,6 @@ HGNC:14267	PCDH17	protocadherin 17	13q21.1	ENSG00000118946
 HGNC:14268	PCDH18	protocadherin 18	4q28.3	ENSG00000189184
 HGNC:14270	PCDH19	protocadherin 19	Xq22.1	ENSG00000165194
 HGNC:14257	PCDH20	protocadherin 20	13q21.2	ENSG00000280165
-HGNC:8662	PCDHA@	protocadherin alpha cluster, complex locus	5q31	
 HGNC:8663	PCDHA1	protocadherin alpha 1	5q31.3	ENSG00000204970
 HGNC:8668	PCDHA2	protocadherin alpha 2	5q31.3	ENSG00000204969
 HGNC:8669	PCDHA3	protocadherin alpha 3	5q31.3	ENSG00000255408
@@ -24965,10 +24923,10 @@ HGNC:8665	PCDHA11	protocadherin alpha 11	5q31.3	ENSG00000249158
 HGNC:8666	PCDHA12	protocadherin alpha 12	5q31.3	ENSG00000251664
 HGNC:8667	PCDHA13	protocadherin alpha 13	5q31.3	ENSG00000239389
 HGNC:2163	PCDHA14	protocadherin alpha 14 (pseudogene)	5q31.3	ENSG00000249504
+HGNC:8662	PCDHA@	protocadherin alpha cluster, complex locus	5q31	
 HGNC:8676	PCDHAC1	protocadherin alpha subfamily C, 1	5q31.3	ENSG00000248383
 HGNC:8677	PCDHAC2	protocadherin alpha subfamily C, 2	5q31.3	ENSG00000243232
 HGNC:8678	PCDHACT	protocadherin alpha constant	5q31	
-HGNC:8679	PCDHB@	protocadherin beta cluster	5q31	
 HGNC:8680	PCDHB1	protocadherin beta 1	5q31.3	ENSG00000171815
 HGNC:56111	PCDHB1-AS1	PCDHB1 antisense RNA 1	5q31.3	ENSG00000279047
 HGNC:8687	PCDHB2	protocadherin beta 2	5q31.3	ENSG00000112852
@@ -24989,6 +24947,7 @@ HGNC:14546	PCDHB16	protocadherin beta 16	5q31.3	ENSG00000272674
 HGNC:14547	PCDHB17P	protocadherin beta 17 pseudogene	5q31.3	ENSG00000255622
 HGNC:14548	PCDHB18P	protocadherin beta 18 pseudogene	5q31.3	ENSG00000146001
 HGNC:14549	PCDHB19P	protocadherin beta 19 pseudogene	5q31.3	ENSG00000262096
+HGNC:8679	PCDHB@	protocadherin beta cluster	5q31	
 HGNC:8695	PCDHG@	protocadherin gamma cluster	5q31	
 HGNC:8696	PCDHGA1	protocadherin gamma subfamily A, 1	5q31	ENSG00000204956
 HGNC:8700	PCDHGA2	protocadherin gamma subfamily A, 2	5q31.3	ENSG00000081853
@@ -25198,7 +25157,6 @@ HGNC:30168	PDIA6	protein disulfide isomerase family A member 6	2p25.1	ENSG000001
 HGNC:18981	PDIK1L	PDLIM1 interacting kinase 1 like	1p36.11	ENSG00000175087
 HGNC:27338	PDILT	protein disulfide isomerase like, testis expressed	16p12.3	ENSG00000169340
 HGNC:8809	PDK1	pyruvate dehydrogenase kinase 1	2q31.1	ENSG00000152256
-HGNC:40441	PDK1-AS1	PDK1 and ITGA6 antisense RNA 1	2q31.1	ENSG00000225205
 HGNC:49808	PDK1P1	pyruvate dehydrogenase kinase 1 pseudogene 1	9p21.1	
 HGNC:55004	PDK1P2	PDK1 pseudogene 2	Xq21.1	ENSG00000233446
 HGNC:8810	PDK2	pyruvate dehydrogenase kinase 2	17q21.33	ENSG00000005882
@@ -25257,6 +25215,7 @@ HGNC:8822	PEA15	proliferation and apoptosis adaptor protein 15	1q23.2	ENSG000001
 HGNC:29431	PEAK1	pseudopodium enriched atypical kinase 1	15q24.3	ENSG00000173517
 HGNC:24793	PEAK3	PEAK family member 3	19p13.3	ENSG00000188305
 HGNC:33631	PEAR1	platelet endothelial aggregation receptor 1	1q23.1	ENSG00000187800
+HGNC:58114	PEARL1	PCDH eRNA associated with R-loop formation 1		
 HGNC:8630	PEBP1	phosphatidylethanolamine binding protein 1	12q24.23	ENSG00000089220
 HGNC:20054	PEBP1P1	phosphatidylethanolamine binding protein 1 pseudogene 1	14q32.2	ENSG00000259059
 HGNC:44344	PEBP1P2	phosphatidylethanolamine binding protein 1 pseudogene 2	2p11.2	ENSG00000270532
@@ -25324,6 +25283,7 @@ HGNC:8856	PEX14	peroxisomal biogenesis factor 14	1p36.22	ENSG00000142655
 HGNC:8857	PEX16	peroxisomal biogenesis factor 16	11p11.2	ENSG00000121680
 HGNC:9713	PEX19	peroxisomal biogenesis factor 19	1q23.2	ENSG00000162735
 HGNC:22965	PEX26	peroxisomal biogenesis factor 26	22q11.21	ENSG00000215193
+HGNC:34431	PEX39	peroxisomal biogenesis factor 39	6p21.1	ENSG00000221821
 HGNC:8861	PF4	platelet factor 4	4q13.3	ENSG00000163737
 HGNC:8862	PF4V1	platelet factor 4 variant 1	4q13.3	ENSG00000109272
 HGNC:8863	PFAS	phosphoribosylformylglycinamidine synthase	17p13.1	ENSG00000178921
@@ -25337,6 +25297,7 @@ HGNC:4926	PFDN6	prefoldin subunit 6	6p21.32	ENSG00000204220
 HGNC:8872	PFKFB1	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1	Xp11.21	ENSG00000158571
 HGNC:8873	PFKFB2	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	1q32.1	ENSG00000123836
 HGNC:8874	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	10p15.1	ENSG00000170525
+HGNC:58068	PFKFB3-AS1	PFKFB3 antisense RNA 1	10p15.1	
 HGNC:8875	PFKFB4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	3p21.31	ENSG00000114268
 HGNC:8876	PFKL	phosphofructokinase, liver type	21q22.3	ENSG00000141959
 HGNC:8877	PFKM	phosphofructokinase, muscle	12q13.11	ENSG00000152556
@@ -25451,7 +25412,7 @@ HGNC:49488	PHACTR2P1	phosphatase and actin regulator 2 pseudogene 1	10q26.11	ENS
 HGNC:15833	PHACTR3	phosphatase and actin regulator 3	20q13.32-q13.33	ENSG00000087495
 HGNC:40727	PHACTR3-AS1	PHACTR3 antisense RNA 1	20q13.32	ENSG00000238194
 HGNC:25793	PHACTR4	phosphatase and actin regulator 4	1p35.3	ENSG00000204138
-HGNC:29564	PHAF1	phagosome assembly factor 1	16q22.1	ENSG00000125149
+HGNC:29564	PHAF1	phagophore assembly factor 1	16q22.1	ENSG00000125149
 HGNC:10241	PHAX	phosphorylated adaptor for RNA export	5q23.2	ENSG00000164902
 HGNC:8912	PHB1	prohibitin 1	17q21.33	ENSG00000167085
 HGNC:8913	PHB1P1	PHB1 pseudogene 1	6q25.1	ENSG00000213091
@@ -25485,7 +25446,6 @@ HGNC:15682	PHC3	polyhomeotic homolog 3	3q26.2	ENSG00000173889
 HGNC:26509	PHETA1	PH domain containing endocytic trafficking adaptor 1	12q24.12	ENSG00000198324
 HGNC:27161	PHETA2	PH domain containing endocytic trafficking adaptor 2	22q13.2	ENSG00000177096
 HGNC:8918	PHEX	phosphate regulating endopeptidase X-linked	Xp22.11	ENSG00000102174
-HGNC:40445	PHEX-AS1	PHEX antisense RNA 1	Xp22.11	ENSG00000224204
 HGNC:8919	PHF1	PHD finger protein 1	6p21.32	ENSG00000112511
 HGNC:8920	PHF2	PHD finger protein 2	9q22.31	ENSG00000197724
 HGNC:30241	PHF2P1	PHD finger protein 2 pseudogene 1	13q11	
@@ -25581,6 +25541,7 @@ HGNC:16491	PIDD1	p53-induced death domain protein 1	11p15.5	ENSG00000177595
 HGNC:28435	PIERCE1	piercer of microtubule wall 1	9q34.3	ENSG00000160345
 HGNC:44654	PIERCE2	piercer of microtubule wall 2	15q21.3	ENSG00000261652
 HGNC:28993	PIEZO1	piezo type mechanosensitive ion channel component 1 (Er blood group)	16q24.3	ENSG00000103335
+HGNC:58065	PIEZO1-AS1	PIEZO1 antisense RNA 1	16q24.3	
 HGNC:16214	PIEZO1P1	piezo type mechanosensitive ion channel component 1 pseudogene 1	20q13.32	ENSG00000233686
 HGNC:42861	PIEZO1P2	piezo type mechanosensitive ion channel component 1 pseudogene 2	20q13.32	ENSG00000237121
 HGNC:26270	PIEZO2	piezo type mechanosensitive ion channel component 2	18p11.22-p11.21	ENSG00000154864
@@ -26290,15 +26251,17 @@ HGNC:30129	POP1	POP1 homolog, ribonuclease P/MRP subunit	8q22.2	ENSG00000104356
 HGNC:30081	POP4	POP4 homolog, ribonuclease P/MRP subunit	19q12	ENSG00000105171
 HGNC:17689	POP5	POP5 homolog, ribonuclease P/MRP subunit	12q24.31	ENSG00000167272
 HGNC:19949	POP7	POP7 homolog, ribonuclease P/MRP subunit	7q22.1	ENSG00000172336
-HGNC:17648	POPDC2	popeye domain containing 2	3q13.33	ENSG00000121577
-HGNC:17649	POPDC3	popeye domain containing 3	6q21	ENSG00000132429
+HGNC:1152	POPDC1	popeye domain cAMP effector 1	6q21	ENSG00000112276
+HGNC:21223	POPDC1-AS1	POPDC1 antisense RNA 1	6q21	ENSG00000203808
+HGNC:17648	POPDC2	popeye domain cAMP effector 2	3q13.33	ENSG00000121577
+HGNC:17649	POPDC3	popeye domain cAMP effector 3	6q21	ENSG00000132429
 HGNC:9208	POR	cytochrome p450 oxidoreductase	7q11.23	ENSG00000127948
 HGNC:17652	PORCN	porcupine O-acyltransferase	Xp11.23	ENSG00000102312
 HGNC:55859	PORCN-DT	PORCN divergent transcript	Xp11.23	ENSG00000224292
 HGNC:16953	POSTN	periostin	13q13.3	ENSG00000133110
 HGNC:17284	POT1	protection of telomeres 1	7q31.33	ENSG00000128513
 HGNC:49459	POT1-AS1	POT1 antisense RNA 1	7q31.33	ENSG00000224897
-HGNC:33893	POTEA	POTE ankyrin domain family member A	8p11.1	ENSG00000188877
+HGNC:33893	POTEA	POTE ankyrin domain family member A (gene/pseudogene)	8p11.1	ENSG00000188877
 HGNC:33734	POTEB	POTE ankyrin domain family member B	15q11.2	ENSG00000233917
 HGNC:48327	POTEB2	POTE ankyrin domain family member B2	15q11.2	ENSG00000230031
 HGNC:51240	POTEB3	POTE ankyrin domain family member B3	15q11.2	ENSG00000278522
@@ -26321,7 +26284,6 @@ HGNC:26978	POU2AF3	POU class 2 homeobox associating factor 3	11q23.1	ENSG0000021
 HGNC:9212	POU2F1	POU class 2 homeobox 1	1q24.2	ENSG00000143190
 HGNC:55222	POU2F1-DT	POU2F1 divergent transcript	1q24.2	ENSG00000272205
 HGNC:9213	POU2F2	POU class 2 homeobox 2	19q13.2	ENSG00000028277
-HGNC:56644	POU2F2-AS2	POU2F2 antisense RNA 2	19q13.2	ENSG00000259436
 HGNC:19864	POU2F3	POU class 2 homeobox 3	11q23.3	ENSG00000137709
 HGNC:9214	POU3F1	POU class 3 homeobox 1	1p34.3	ENSG00000185668
 HGNC:9215	POU3F2	POU class 3 homeobox 2	6q16.1	ENSG00000184486
@@ -26530,7 +26492,7 @@ HGNC:9287	PPP1R1B	protein phosphatase 1 regulatory inhibitor subunit 1B	17q12	EN
 HGNC:14940	PPP1R1C	protein phosphatase 1 regulatory inhibitor subunit 1C	2q31.3-q32.1	ENSG00000150722
 HGNC:9288	PPP1R2	protein phosphatase 1 regulatory inhibitor subunit 2	3q29	ENSG00000184203
 HGNC:16318	PPP1R2B	PPP1R2 family member B	5q33.3	ENSG00000231989
-HGNC:16324	PPP1R2C	PPP1R2C family member C	Xp11.3	ENSG00000102055
+HGNC:16324	PPP1R2C	PPP1R2 family member C	Xp11.3	ENSG00000102055
 HGNC:9289	PPP1R2P1	protein phosphatase 1 regulatory inhibitor subunit 2 pseudogene 1	6p21.32	ENSG00000234515
 HGNC:9290	PPP1R2P2	protein phosphatase 1 regulatory inhibitor subunit 2 pseudogene 2	21q22.12	ENSG00000234008
 HGNC:16319	PPP1R2P4	protein phosphatase 1 regulatory inhibitor subunit 2 pseudogene 4	13q14.13	ENSG00000241353
@@ -26621,6 +26583,7 @@ HGNC:17835	PPP2R5CP	protein phosphatase 2 regulatory subunit B'gamma pseudogene	
 HGNC:9312	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta	6p21.1	ENSG00000112640
 HGNC:9313	PPP2R5E	protein phosphatase 2 regulatory subunit B'epsilon	14q23.2	ENSG00000154001
 HGNC:9314	PPP3CA	protein phosphatase 3 catalytic subunit alpha	4q24	ENSG00000138814
+HGNC:58118	PPP3CA-DT	PPP3CA divergent transcript	4q24	
 HGNC:9315	PPP3CB	protein phosphatase 3 catalytic subunit beta	10q22.2	ENSG00000107758
 HGNC:50750	PPP3CB-AS1	PPP3CB antisense RNA 1 (head to head)	10q22.2	ENSG00000221817
 HGNC:9316	PPP3CC	protein phosphatase 3 catalytic subunit gamma	8p21.3	ENSG00000120910
@@ -26892,6 +26855,7 @@ HGNC:17325	PRODH2	proline dehydrogenase 2	19q13.12	ENSG00000250799
 HGNC:56289	PRODHLP	proline dehydrogenase like, pseudogene	22q11.21	ENSG00000161132
 HGNC:18454	PROK1	prokineticin 1	1p13.3	ENSG00000143125
 HGNC:18455	PROK2	prokineticin 2	3p13	ENSG00000163421
+HGNC:58092	PROK2-DT	PROK2 divergent transcript	3p13	
 HGNC:4524	PROKR1	prokineticin receptor 1	2p13.3	ENSG00000169618
 HGNC:15836	PROKR2	prokineticin receptor 2	20p12.3	ENSG00000101292
 HGNC:9454	PROM1	prominin 1	4p15.32	ENSG00000007062
@@ -26993,7 +26957,6 @@ HGNC:28677	PRR30	proline rich 30	2p23.3	ENSG00000186143
 HGNC:34498	PRR32	proline rich 32	Xq25	ENSG00000183631
 HGNC:35118	PRR33	proline rich 33	11p15.5	ENSG00000283787
 HGNC:25606	PRR34	PRR34 long non-coding RNA	22q13.31	ENSG00000182257
-HGNC:50499	PRR34-AS1	PRR34 antisense RNA 1	22q13.31	ENSG00000241990
 HGNC:14139	PRR35	proline rich 35	16p13.3	ENSG00000161992
 HGNC:26172	PRR36	proline rich 36	19p13.2	ENSG00000183248
 HGNC:28164	PRRC1	proline rich coiled-coil 1	5q23.2	ENSG00000164244
@@ -27021,6 +26984,7 @@ HGNC:43787	PRSS3P1	PRSS3 pseudogene 1	7q34	ENSG00000250591
 HGNC:43788	PRSS3P2	PRSS3 pseudogene 2	7q34 alternate reference locus	
 HGNC:43790	PRSS3P3	PRSS3 pseudogene 3	7q34	ENSG00000277083
 HGNC:43789	PRSS3P4	PRSS3 pseudogene 4	9p13.3	ENSG00000204982
+HGNC:51828	PRSS3P5	PRSS3 pseudogene 5	7q34 alternate reference locus	
 HGNC:9491	PRSS8	serine protease 8	16p11.2	ENSG00000052344
 HGNC:9477	PRSS12	serine protease 12	4q26	ENSG00000164099
 HGNC:9480	PRSS16	serine protease 16	6p22.1	ENSG00000112812
@@ -27352,6 +27316,7 @@ HGNC:9658	PTPN6	protein tyrosine phosphatase non-receptor type 6	12p13.31	ENSG00
 HGNC:9659	PTPN7	protein tyrosine phosphatase non-receptor type 7	1q32.1	ENSG00000143851
 HGNC:9661	PTPN9	protein tyrosine phosphatase non-receptor type 9	15q24.2	ENSG00000169410
 HGNC:9644	PTPN11	protein tyrosine phosphatase non-receptor type 11	12q24.13	ENSG00000179295
+HGNC:58112	PTPN11BP	protein tyrosine phosphatase non-receptor type 11B, pseudogene	1p36.33	
 HGNC:56465	PTPN11P1	PTPN11 pseudogene 1	3q13.12	ENSG00000239455
 HGNC:56466	PTPN11P2	PTPN11 pseudogene 2	8q12.1	ENSG00000250031
 HGNC:56467	PTPN11P3	PTPN11 pseudogene 3	6q23.3	ENSG00000220412
@@ -27881,6 +27846,7 @@ HGNC:9889	RBBP6	RB binding protein 6, ubiquitin ligase	16p12.1	ENSG00000122257
 HGNC:45108	RBBP6P1	RBBP6 pseudogene 1	10q22.3	
 HGNC:9890	RBBP7	RB binding protein 7, chromatin remodeling factor	Xp22.2	ENSG00000102054
 HGNC:9891	RBBP8	RB binding protein 8, endonuclease	18q11.2	ENSG00000101773
+HGNC:58091	RBBP8-AS1	RBBP8 antisense RNA 1	18q11.2	
 HGNC:16144	RBBP8NL	RBBP8 N-terminal like	20q13.33	ENSG00000130701
 HGNC:39583	RBBP8P1	RBBP8 pseudogene 1	Xq24	ENSG00000230399
 HGNC:39584	RBBP8P2	RBBP8 pseudogene 2	13q12.13	
@@ -29995,7 +29961,7 @@ HGNC:10045	RNASE2	ribonuclease A family member 2	14q11.2	ENSG00000169385
 HGNC:55569	RNASE2CP	ribonuclease A family member 2C, pseudogene	14q11.2	ENSG00000136315
 HGNC:10046	RNASE3	ribonuclease A family member 3	14q11.2	ENSG00000169397
 HGNC:10047	RNASE4	ribonuclease A family member 4	14q11.2	ENSG00000258818
-HGNC:10048	RNASE6	ribonuclease A family member k6	14q11.2	ENSG00000169413
+HGNC:10048	RNASE6	ribonuclease A family member 6	14q11.2	ENSG00000169413
 HGNC:19278	RNASE7	ribonuclease A family member 7	14q11.2	ENSG00000165799
 HGNC:19277	RNASE8	ribonuclease A family member 8	14q11.2	ENSG00000173431
 HGNC:20673	RNASE9	ribonuclease A family member 9 (inactive)	14q11.2	ENSG00000188655
@@ -30024,6 +29990,7 @@ HGNC:671	RND3	Rho family GTPase 3	2q23.3	ENSG00000115963
 HGNC:10061	RNF2	ring finger protein 2	1q25.3	ENSG00000121481
 HGNC:33987	RNF2P1	ring finger protein 2 pseudogene 1	9p24.1	ENSG00000231381
 HGNC:10067	RNF4	ring finger protein 4	4p16.3	ENSG00000063978
+HGNC:58117	RNF4BP	ring finger protein 4B, pseudogene	15q21.1	
 HGNC:10068	RNF5	ring finger protein 5	6p21.32	ENSG00000204308
 HGNC:31053	RNF5P1	ring finger protein 5 pseudogene 1	8p11.22	ENSG00000253570
 HGNC:10069	RNF6	ring finger protein 6	13q12.13	ENSG00000127870
@@ -34380,6 +34347,7 @@ HGNC:20866	RSPO3	R-spondin 3	6q22.33	ENSG00000146374
 HGNC:16175	RSPO4	R-spondin 4	20p13	ENSG00000101282
 HGNC:29420	RSPRY1	ring finger and SPRY domain containing 1	16q13	ENSG00000159579
 HGNC:24152	RSRC1	arginine and serine rich coiled-coil 1	3q25.32	ENSG00000174891
+HGNC:57037	RSRC1P1	RSRC1 pseudogene 1	9q22.1	
 HGNC:30559	RSRC2	arginine and serine rich coiled-coil 2	12q24.31	ENSG00000111011
 HGNC:25234	RSRP1	arginine and serine rich protein 1	1p36.11	ENSG00000117616
 HGNC:10464	RSU1	Ras suppressor protein 1	10p13	ENSG00000148484
@@ -34578,6 +34546,7 @@ HGNC:49778	SAMM50P1	SAMM50 sorting and assembly machinery component pseudogene 1
 HGNC:49644	SAMMSON	survival associated mitochondrial melanoma specific oncogenic non-coding RNA	3p13	ENSG00000240405
 HGNC:10528	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1	21q11.2	ENSG00000155307
 HGNC:39599	SAMSN1-AS1	SAMSN1 antisense RNA 1	21q11.2	ENSG00000223662
+HGNC:26475	SAMTOR	S-adenosylmethionine sensor upstream of mTORC1	7q31.1	ENSG00000164603
 HGNC:29387	SANBR	SANT and BTB domain regulator of CSR	2p15	ENSG00000162929
 HGNC:10530	SAP18	Sin3A associated protein 18	13q12.11	ENSG00000150459
 HGNC:51567	SAP18P1	SAP18 pseudogene 1	5q13.3	ENSG00000249777
@@ -34708,6 +34677,7 @@ HGNC:40967	SCAT8	S-phase cancer associated transcript 8	6q12	ENSG00000236345
 HGNC:24275	SCCPDH	saccharopine dehydrogenase (putative)	1q44	ENSG00000143653
 HGNC:10571	SCD	stearoyl-CoA desaturase	10q24.31	ENSG00000099194
 HGNC:21088	SCD5	stearoyl-CoA desaturase 5	4q21.22	ENSG00000145284
+HGNC:58108	SCDAL	stem cell derived angiogenic lncRNA	15q26.2	
 HGNC:10572	SCDP1	stearoyl-CoA desaturase pseudogene 1	17p11.2	ENSG00000226549
 HGNC:10573	SCEL	sciellin	13q22.3	ENSG00000136155
 HGNC:39895	SCEL-AS1	SCEL antisense RNA 1	13q22.3	ENSG00000224347
@@ -34805,7 +34775,7 @@ HGNC:34224	SCYGR5	small cysteine and glycine repeat containing 5	2q36.3	ENSG0000
 HGNC:34225	SCYGR6	small cysteine and glycine repeat containing 6	2q36.3	ENSG00000284725
 HGNC:34226	SCYGR7	small cysteine and glycine repeat containing 7	2q36.3	ENSG00000284718
 HGNC:34227	SCYGR8	small cysteine and glycine repeat containing 8	2q36.3	ENSG00000284635
-HGNC:34219	SCYGR9	small cysteine and glycine repeat containing 9 (gene/pseudogene)	2q36.3	ENSG00000285843
+HGNC:34219	SCYGR9	small cysteine and glycine repeat containing 9 (pseudogene)	2q36.3	ENSG00000285843
 HGNC:34221	SCYGR10	small cysteine and glycine repeat containing 10 (gene/pseudogene)	2q36.3	ENSG00000284622
 HGNC:14372	SCYL1	SCY1 like pseudokinase 1	11q13.1	ENSG00000142186
 HGNC:19286	SCYL2	SCY1 like pseudokinase 2	12q23.1	ENSG00000136021
@@ -34846,10 +34816,11 @@ HGNC:55782	SDHAP4	SDHA pseudogene 4	3q29	ENSG00000214135
 HGNC:10681	SDHB	succinate dehydrogenase complex iron sulfur subunit B	1p36.13	ENSG00000117118
 HGNC:56538	SDHBP1	SDHB pseudogene 1	3q22.2	ENSG00000242222
 HGNC:10682	SDHC	succinate dehydrogenase complex subunit C	1q23.3	ENSG00000143252
-HGNC:31734	SDHCP1	succinate dehydrogenase complex subunit C pseudogene 1	18q22.1	ENSG00000264444
-HGNC:45177	SDHCP2	succinate dehydrogenase complex subunit C pseudogene 2	10q23.32	ENSG00000214549
-HGNC:45178	SDHCP3	succinate dehydrogenase complex subunit C pseudogene 3	2p23.3	ENSG00000234946
-HGNC:45179	SDHCP4	succinate dehydrogenase complex subunit C pseudogene 4	11p15.1	ENSG00000255035
+HGNC:31734	SDHCP1	SDHC pseudogene 1	18q22.1	ENSG00000264444
+HGNC:45177	SDHCP2	SDHC pseudogene 2	10q23.32	ENSG00000214549
+HGNC:45178	SDHCP3	SDHC pseudogene 3	2p23.3	ENSG00000234946
+HGNC:45179	SDHCP4	SDHC pseudogene 4	11p15.1	ENSG00000255035
+HGNC:57039	SDHCP5	SDHC pseudogene 5	17p13.3	
 HGNC:10683	SDHD	succinate dehydrogenase complex subunit D	11q23.1	ENSG00000204370
 HGNC:10684	SDHDP1	succinate dehydrogenase complex subunit D pseudogene 1	18p11.21	ENSG00000267162
 HGNC:10685	SDHDP2	succinate dehydrogenase complex subunit D pseudogene 2	7q33	ENSG00000227073
@@ -35304,7 +35275,6 @@ HGNC:29546	SH3YL1	SH3 and SYLF domain containing 1	2p25.3	ENSG00000035115
 HGNC:15474	SHANK1	SH3 and multiple ankyrin repeat domains 1	19q13.33	ENSG00000161681
 HGNC:14295	SHANK2	SH3 and multiple ankyrin repeat domains 2	11q13.3-q13.4	ENSG00000162105
 HGNC:40014	SHANK2-AS1	SHANK2 antisense RNA 1	11q13.4	ENSG00000226627
-HGNC:40015	SHANK2-AS2	SHANK2 antisense RNA 2	11q13.4	ENSG00000236262
 HGNC:25098	SHANK2-AS3	SHANK2 antisense RNA 3	11q13.4	ENSG00000171671
 HGNC:14294	SHANK3	SH3 and multiple ankyrin repeat domains 3	22q13.33	ENSG00000251322
 HGNC:25321	SHARPIN	SHANK associated RH domain interactor	8q24.3	ENSG00000179526
@@ -35366,7 +35336,7 @@ HGNC:18187	SIAE	sialic acid acetylesterase	11q24.2	ENSG00000110013
 HGNC:10857	SIAH1	siah E3 ubiquitin protein ligase 1	16q12.1	ENSG00000196470
 HGNC:30966	SIAH1P1	siah E3 ubiquitin protein ligase 1 pseudogene 1	Xp21.1	ENSG00000230227
 HGNC:10858	SIAH2	siah E3 ubiquitin protein ligase 2	3q25.1	ENSG00000181788
-HGNC:40526	SIAH2-AS1	SIAH2 antisense RNA 1	3q25.1	ENSG00000244265
+HGNC:40526	SIAH2-AS1	SIAH2 and CLRN1 antisense RNA 1	3q25.1	ENSG00000244265
 HGNC:30553	SIAH3	siah E3 ubiquitin protein ligase family member 3	13q14.13	ENSG00000215475
 HGNC:25967	SIDT1	SID1 transmembrane family member 1	3q13.2	ENSG00000072858
 HGNC:41126	SIDT1-AS1	SIDT1 antisense RNA 1	3q13.2	ENSG00000239453
@@ -35385,7 +35355,7 @@ HGNC:15622	SIGLEC11	sialic acid binding Ig like lectin 11	19q13.33	ENSG000001616
 HGNC:15482	SIGLEC12	sialic acid binding Ig like lectin 12	19q13.41	ENSG00000254521
 HGNC:32926	SIGLEC14	sialic acid binding Ig like lectin 14	19q13.41	ENSG00000254415
 HGNC:27596	SIGLEC15	sialic acid binding Ig like lectin 15	18q21.1	ENSG00000197046
-HGNC:24851	SIGLEC16	sialic acid binding Ig like lectin 16	19q13.33	ENSG00000161643
+HGNC:24851	SIGLEC16	sialic acid binding Ig like lectin 16 (gene/pseudogene)	19q13.33	ENSG00000161643
 HGNC:15604	SIGLEC17P	sialic acid binding Ig like lectin 17, pseudogene	19q13.41	ENSG00000171101
 HGNC:15491	SIGLEC18P	sialic acid binding Ig like lectin 18, pseudogene	19q13.41	ENSG00000268581
 HGNC:15609	SIGLEC20P	sialic acid binding Ig like lectin 20, pseudogene	19q13.41	ENSG00000268336
@@ -35669,7 +35639,6 @@ HGNC:48931	SLC16A1P1	SLC16A1 pseudogene 1	7q35	ENSG00000242280
 HGNC:10923	SLC16A2	solute carrier family 16 member 2	Xq13.2	ENSG00000147100
 HGNC:10924	SLC16A3	solute carrier family 16 member 3	17q25.3	ENSG00000141526
 HGNC:10925	SLC16A4	solute carrier family 16 member 4	1p13.3	ENSG00000168679
-HGNC:56051	SLC16A4-AS1	SLC16A4 antisense RNA 1	1p13.3	ENSG00000273373
 HGNC:10926	SLC16A5	solute carrier family 16 member 5	17q25.1	ENSG00000170190
 HGNC:10927	SLC16A6	solute carrier family 16 member 6	17q24.2	ENSG00000108932
 HGNC:48932	SLC16A6P1	SLC16A6 pseudogene 1	17q24.1	ENSG00000232457
@@ -36035,6 +36004,7 @@ HGNC:32689	SLFN14	schlafen family member 14	17q12	ENSG00000236320
 HGNC:26313	SLFNL1	schlafen like 1	1p34.2	ENSG00000171790
 HGNC:44126	SLFNL1-AS1	SLFNL1 antisense RNA 1	1p34.2	ENSG00000281207
 HGNC:20495	SLIRP	SRA stem-loop interacting RNA binding protein	14q24.3	ENSG00000119705
+HGNC:26385	SLIRP-OT1	SLIRP overlapping transcript 1	14q24.3	ENSG00000197734
 HGNC:55149	SLIRPP1	SLIRP. pseudogene 1	Xq27.3	ENSG00000227505
 HGNC:55150	SLIRPP2	SLIRP. pseudogene 2	4p15.2	ENSG00000249277
 HGNC:11085	SLIT1	slit guidance ligand 1	10q24.1	ENSG00000187122
@@ -36083,30 +36053,30 @@ HGNC:26918	SMAGP	small cell adhesion glycoprotein	12q13.13	ENSG00000170545
 HGNC:54417	SMANTIS	SMARCA4 interacting SWI/SNF chromatin remodeling complex scaffold lncRNA	2p13.3	ENSG00000288869
 HGNC:19651	SMAP1	small ArfGAP 1	6q13	ENSG00000112305
 HGNC:25082	SMAP2	small ArfGAP2	1p34.2	ENSG00000084070
-HGNC:11097	SMARCA1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	Xq25-q26.1	ENSG00000102038
-HGNC:11098	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2	9p24.3	ENSG00000080503
+HGNC:11097	SMARCA1	SNF2 related chromatin remodeling ATPase 1	Xq25-q26.1	ENSG00000102038
+HGNC:11098	SMARCA2	SWI/SNF related BAF chromatin remodeling complex subunit ATPase 2	9p24.3	ENSG00000080503
 HGNC:56062	SMARCA2-AS1	SMARCA2 antisense RNA 1	9p24.3	ENSG00000236199
-HGNC:11100	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	19p13.2	ENSG00000127616
-HGNC:11101	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	4q31.21	ENSG00000153147
+HGNC:11100	SMARCA4	SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4	19p13.2	ENSG00000127616
+HGNC:11101	SMARCA5	SNF2 related chromatin remodeling ATPase 5	4q31.21	ENSG00000153147
 HGNC:39982	SMARCA5-AS1	SMARCA5 antisense RNA 1	4q31.21	ENSG00000245112
-HGNC:18398	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	4q22.3	ENSG00000163104
+HGNC:18398	SMARCAD1	SNF2 related chromatin remodeling ATPase with DExD box 1	4q22.3	ENSG00000163104
 HGNC:53364	SMARCAD1-DT	SMARCAD1 divergent transcript	4q22.2	ENSG00000246541
-HGNC:11102	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a like 1	2q35	ENSG00000138375
+HGNC:11102	SMARCAL1	SNF2 related chromatin remodeling annealing helicase 1	2q35	ENSG00000138375
 HGNC:40555	SMARCAL1-AS1	SMARCAL1 antisense RNA 1	2q35	ENSG00000235042
-HGNC:11103	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	22q11.23	ENSG00000099956
-HGNC:11104	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1	3p21.31	ENSG00000173473
-HGNC:11105	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2	12q13.2	ENSG00000139613
-HGNC:11106	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	12q13.12	ENSG00000066117
-HGNC:11107	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2	17q23.3	ENSG00000108604
-HGNC:11108	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	7q36.1	ENSG00000082014
-HGNC:11109	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	17q21.2	ENSG00000073584
-HGNC:39731	SMARCE1P1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 1	11q22.3	ENSG00000225215
-HGNC:39732	SMARCE1P2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 2	6q14.3	ENSG00000226309
-HGNC:39733	SMARCE1P3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 3	14q11.2	ENSG00000259102
-HGNC:39735	SMARCE1P4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 4	8p11.23	ENSG00000253650
-HGNC:39734	SMARCE1P5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 5	13q14.11	ENSG00000230793
-HGNC:39737	SMARCE1P6	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 6	2p23.3	ENSG00000214465
-HGNC:51208	SMARCE1P7	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 pseudogene 7	10q24.31	ENSG00000270973
+HGNC:11103	SMARCB1	SWI/SNF related BAF chromatin remodeling complex subunit B1	22q11.23	ENSG00000099956
+HGNC:11104	SMARCC1	SWI/SNF related BAF chromatin remodeling complex subunit C1	3p21.31	ENSG00000173473
+HGNC:11105	SMARCC2	SWI/SNF related BAF chromatin remodeling complex subunit C2	12q13.2	ENSG00000139613
+HGNC:11106	SMARCD1	SWI/SNF related BAF chromatin remodeling complex subunit D1	12q13.12	ENSG00000066117
+HGNC:11107	SMARCD2	SWI/SNF related BAF chromatin remodeling complex subunit D2	17q23.3	ENSG00000108604
+HGNC:11108	SMARCD3	SWI/SNF related BAF chromatin remodeling complex subunit D3	7q36.1	ENSG00000082014
+HGNC:11109	SMARCE1	SWI/SNF related BAF chromatin remodeling complex subunit E1	17q21.2	ENSG00000073584
+HGNC:39731	SMARCE1P1	SMARCE1 pseudogene 1	11q22.3	ENSG00000225215
+HGNC:39732	SMARCE1P2	SMARCE1 pseudogene 2	6q14.3	ENSG00000226309
+HGNC:39733	SMARCE1P3	SMARCE1 pseudogene 3	14q11.2	ENSG00000259102
+HGNC:39735	SMARCE1P4	SMARCE1 pseudogene 4	8p11.23	ENSG00000253650
+HGNC:39734	SMARCE1P5	SMARCE1 pseudogene 5	13q14.11	ENSG00000230793
+HGNC:39737	SMARCE1P6	SMARCE1 pseudogene 6	2p23.3	ENSG00000214465
+HGNC:51208	SMARCE1P7	SMARCE1 pseudogene 7	10q24.31	ENSG00000270973
 HGNC:53072	SMASR	SMAD3 associated long non-coding RNA	15q22.32	ENSG00000259289
 HGNC:53806	SMBD1P	somatomedin B domain containing 1, pseudogene	3q29	ENSG00000283426
 HGNC:11111	SMC1A	structural maintenance of chromosomes 1A	Xp11.22	ENSG00000072501
@@ -36118,7 +36088,6 @@ HGNC:54642	SMC3P1	SMC3 pseudogene 1	2q11.2	ENSG00000231822
 HGNC:14013	SMC4	structural maintenance of chromosomes 4	3q25.33	ENSG00000113810
 HGNC:51919	SMC4P1	structural maintenance of chromosomes 4 pseudogene 1	2q22.1	ENSG00000229568
 HGNC:20465	SMC5	structural maintenance of chromosomes 5	9q21.12	ENSG00000198887
-HGNC:48718	SMC5-DT	SMC5 divergent transcript	9q21.12	ENSG00000268364
 HGNC:20466	SMC6	structural maintenance of chromosomes 6	2p24.2	ENSG00000163029
 HGNC:29090	SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1	18p11.32	ENSG00000101596
 HGNC:27407	SMCO1	single-pass membrane protein with coiled-coil domains 1	3q29	ENSG00000214097
@@ -36154,7 +36123,6 @@ HGNC:42674	SMIM2-AS1	SMIM2 antisense RNA 1	13q14.11	ENSG00000227258
 HGNC:41492	SMIM2-IT1	SMIM2 intronic transcript 1	13q14.11	ENSG00000235285
 HGNC:30248	SMIM3	small integral membrane protein 3	5q33.1	ENSG00000256235
 HGNC:40030	SMIM5	small integral membrane protein 5	17q25.1	ENSG00000204323
-HGNC:40032	SMIM6	small integral membrane protein 6	17q25.1	ENSG00000259120
 HGNC:28419	SMIM7	small integral membrane protein 7	19p13.11	ENSG00000214046
 HGNC:54700	SMIM7P1	SMIM7 pseudogene 1	2p22.3	ENSG00000196085
 HGNC:21401	SMIM8	small integral membrane protein 8	6q15	ENSG00000111850
@@ -37148,7 +37116,6 @@ HGNC:35122	SOX30P1	SOX30 pseudogene 1	5q33.3
 HGNC:11205	SP1	Sp1 transcription factor	12q13.13	ENSG00000185591
 HGNC:11207	SP2	Sp2 transcription factor	17q21.32	ENSG00000167182
 HGNC:51341	SP2-AS1	SP2 antisense RNA 1	17q21.32	ENSG00000234494
-HGNC:55330	SP2-DT	SP2 divergent transcript	17q21.32	ENSG00000264920
 HGNC:11208	SP3	Sp3 transcription factor	2q31.1	ENSG00000172845
 HGNC:35430	SP3P	Sp3 transcription factor pseudogene	13q31.2	ENSG00000225530
 HGNC:11209	SP4	Sp4 transcription factor	7p15.3	ENSG00000105866
@@ -37239,6 +37206,7 @@ HGNC:32005	SPATA31A5	SPATA31 subfamily A member 5	9q12	ENSG00000276581
 HGNC:32006	SPATA31A6	SPATA31 subfamily A member 6	9p11.2	ENSG00000185775
 HGNC:32007	SPATA31A7	SPATA31 subfamily A member 7	9q12	ENSG00000276040
 HGNC:31411	SPATA31B1P	SPATA31 subfamily B member 1, pseudogene	9q21.32	ENSG00000231649
+HGNC:55745	SPATA31B2P	SPATA31 subfamily B member 2, pseudogene	9q22.31	
 HGNC:27846	SPATA31C1	SPATA31 subfamily C member 1	9q22.1	ENSG00000230246
 HGNC:24508	SPATA31C2	SPATA31 subfamily C member 2	9q22.1	ENSG00000177910
 HGNC:37283	SPATA31D1	SPATA31 subfamily D member 1	9q21.32	ENSG00000214929
@@ -37254,6 +37222,7 @@ HGNC:24504	SPATA31F2P	SPATA31 subfamily F member 2, pseudogene	9p13.3	ENSG000002
 HGNC:42673	SPATA31F3	SPATA31 subfamily F member 3	9p13.3	ENSG00000187791
 HGNC:31418	SPATA31G1	SPATA31 subfamily G member 1	9p13.3	ENSG00000174038
 HGNC:25275	SPATA31H1	SPATA31 subfamily H member 1	2p23.3	ENSG00000221843
+HGNC:27753	SPATA31J1	SPATA31 subfamily J member 1	5q35.3	ENSG00000204661
 HGNC:26349	SPATA32	spermatogenesis associated 32	17q21.31	ENSG00000184361
 HGNC:26463	SPATA33	spermatogenesis associated 33	16q24.3	ENSG00000167523
 HGNC:48613	SPATA41	spermatogenesis associated 41	15q26.3	ENSG00000189419
@@ -37329,6 +37298,7 @@ HGNC:11241	SPI1	Spi-1 proto-oncogene	11p11.2	ENSG00000066336
 HGNC:11242	SPIB	Spi-B transcription factor	19q13.33	ENSG00000269404
 HGNC:29549	SPIC	Spi-C transcription factor	12q23.2	ENSG00000166211
 HGNC:25083	SPICE1	spindle and centriole associated protein 1	3q13.2	ENSG00000163611
+HGNC:58084	SPICE1-CFAP44	SPICE1-CFAP44 readthrough (NMD candidate)	3q13.2	
 HGNC:56809	SPICP1	Spi-C transcription factor pseudogene 1	11p13	ENSG00000255161
 HGNC:56810	SPICP2	Spi-C transcription factor pseudogene 2	17q12	ENSG00000267744
 HGNC:56811	SPICP3	Spi-C transcription factor pseudogene 3	17p13.1	ENSG00000262503
@@ -37903,7 +37873,6 @@ HGNC:11430	STX12	syntaxin 12	1p35.3	ENSG00000117758
 HGNC:11431	STX16	syntaxin 16	20q13.32	ENSG00000124222
 HGNC:41993	STX16-NPEPL1	STX16-NPEPL1 readthrough (NMD candidate)	20q13.32	ENSG00000254995
 HGNC:11432	STX17	syntaxin 17	9q31.1	ENSG00000136874
-HGNC:51174	STX17-DT	STX17 divergent transcript	9q31.1	ENSG00000255145
 HGNC:15942	STX18	syntaxin 18	4p16.3-p16.2	ENSG00000168818
 HGNC:48877	STX18-AS1	STX18 antisense RNA 1 (head to head)	4p16.2	ENSG00000247708
 HGNC:41415	STX18-IT1	STX18 intronic transcript 1	4p16.3	ENSG00000248221
@@ -38127,6 +38096,7 @@ HGNC:27638	SYPL2	synaptophysin like 2	1p13.3	ENSG00000143028
 HGNC:16162	SYS1	SYS1 golgi trafficking protein	20q13.12	ENSG00000204070
 HGNC:33535	SYS1-DBNDD2	SYS1-DBNDD2 readthrough (NMD candidate)	20q13.12	ENSG00000254806
 HGNC:11509	SYT1	synaptotagmin 1	12q21.2	ENSG00000067715
+HGNC:58105	SYT1-AS1	SYT1 antisense RNA 1	12q21.2	
 HGNC:11510	SYT2	synaptotagmin 2	1q32.1	ENSG00000143858
 HGNC:40572	SYT2-AS1	SYT2 antisense RNA 1	1q32.1	ENSG00000226862
 HGNC:11511	SYT3	synaptotagmin 3	19q13.33	ENSG00000213023
@@ -38296,7 +38266,7 @@ HGNC:14448	TAS1R1	taste 1 receptor member 1	1p36.31	ENSG00000173662
 HGNC:14905	TAS1R2	taste 1 receptor member 2	1p36.13	ENSG00000179002
 HGNC:15661	TAS1R3	taste 1 receptor member 3	1p36.33	ENSG00000169962
 HGNC:14909	TAS2R1	taste 2 receptor member 1	5p15.31	ENSG00000169777
-HGNC:20615	TAS2R2P	taste 2 receptor member 2, pseudogene	7p21.3	ENSG00000203523
+HGNC:20615	TAS2R2	taste 2 receptor member 2 (gene/pseudogene)	7p21.3	ENSG00000203523
 HGNC:14910	TAS2R3	taste 2 receptor member 3	7q34	ENSG00000127362
 HGNC:14911	TAS2R4	taste 2 receptor member 4	7q34	ENSG00000127364
 HGNC:14912	TAS2R5	taste 2 receptor member 5	7q34	ENSG00000127366
@@ -38605,7 +38575,6 @@ HGNC:29943	TENM2	teneurin transmembrane protein 2	5q34	ENSG00000145934
 HGNC:56066	TENM2-AS1	TENM2 antisense RNA 2	5q34	ENSG00000253978
 HGNC:29944	TENM3	teneurin transmembrane protein 3	4q34.3-q35.1	ENSG00000218336
 HGNC:28076	TENM3-AS1	TENM3 antisense RNA 1	4q34.3	ENSG00000177822
-HGNC:53456	TENM3-AS2	TENM3 antisense transcript 2	4q34.3	ENSG00000251336
 HGNC:29945	TENM4	teneurin transmembrane protein 4	11q14.1	ENSG00000149256
 HGNC:26776	TENT2	terminal nucleotidyltransferase 2	5q14.1	ENSG00000164329
 HGNC:16705	TENT4A	terminal nucleotidyltransferase 4A	5p15.31	ENSG00000112941
@@ -38756,6 +38725,7 @@ HGNC:44664	TGIF2-RAB5IF	TGIF2-RAB5IF readthrough	20q11.23	ENSG00000259399
 HGNC:18570	TGIF2LX	TGFB induced factor homeobox 2 like X-linked	Xq21.31	ENSG00000153779
 HGNC:18569	TGIF2LY	TGFB induced factor homeobox 2 like Y-linked	Yp11.2	ENSG00000176679
 HGNC:33317	TGIF2P1	TGFB induced factor homeobox 2 pseudogene 1	1q44	ENSG00000225401
+HGNC:58116	TGILR	TGF-beta induced TARBP2 interacting lncRNA		
 HGNC:11777	TGM1	transglutaminase 1	14q12	ENSG00000092295
 HGNC:11778	TGM2	transglutaminase 2	20q11.23	ENSG00000198959
 HGNC:11779	TGM3	transglutaminase 3	20p13	ENSG00000125780
@@ -38999,6 +38969,7 @@ HGNC:11860	TM6SF1	transmembrane 6 superfamily member 1	15q25.2	ENSG00000136404
 HGNC:11861	TM6SF2	transmembrane 6 superfamily member 2	19p13.11	ENSG00000213996
 HGNC:11863	TM7SF2	transmembrane 7 superfamily member 2	11q13.1	ENSG00000149809
 HGNC:23049	TM7SF3	transmembrane 7 superfamily member 3	12p11.23	ENSG00000064115
+HGNC:58075	TM7SF3-AS1	TM7SF3 antisense RNA 1	12p11.23	
 HGNC:11864	TM9SF1	transmembrane 9 superfamily member 1	14q12	ENSG00000100926
 HGNC:11865	TM9SF2	transmembrane 9 superfamily member 2	13q32.3	ENSG00000125304
 HGNC:21529	TM9SF3	transmembrane 9 superfamily member 3	10q24.1	ENSG00000077147
@@ -39906,7 +39877,7 @@ HGNC:41046	TRAPPC12-AS1	TRAPPC12 antisense RNA 1	2p25.3	ENSG00000225234
 HGNC:25828	TRAPPC13	trafficking protein particle complex subunit 13	5q12.3	ENSG00000113597
 HGNC:50347	TRAPPC13P1	trafficking protein particle complex 13 pseudogene 1	Xq13.3	ENSG00000235447
 HGNC:25604	TRAPPC14	trafficking protein particle complex subunit 14	7q22.1	ENSG00000146826
-HGNC:29592	TRARG1	trafficking regulator of GLUT4 (SLC2A4) 1	17p13.3	ENSG00000184811
+HGNC:29592	TRARG1	trafficking regulator of GLUT4 (SLC2A4) 1 (gene/pseudogene)	17p13.3	ENSG00000184811
 HGNC:30698	TRAT1	T cell receptor associated transmembrane adaptor 1	3q13.13	ENSG00000163519
 HGNC:12101	TRAV1-1	T cell receptor alpha variable 1-1	14q11.2	ENSG00000255569
 HGNC:12102	TRAV1-2	T cell receptor alpha variable 1-2	14q11.2	ENSG00000256553
@@ -40090,6 +40061,7 @@ HGNC:34588	TRC-GCA22-1	tRNA-Cys (anticodon GCA) 22-1	7q36.1
 HGNC:34757	TRC-GCA23-1	tRNA-Cys (anticodon GCA) 23-1	7q36.1	
 HGNC:12250	TRC-GCA24-1	tRNA-Cys (GCA) 24-1	17q12	
 HGNC:35017	TRC-GCA25-1	tRNA-Cys (anticodon GCA) 25-1	3p24.3	
+HGNC:53112	TRCG1P	taste receptor cell gene 1, pseudogene	15q24.2	
 HGNC:12252	TRD	T cell receptor delta locus	14q11.2	
 HGNC:56197	TRD-AS1	TRD antisense RNA 1	14q11.2	ENSG00000251002
 HGNC:34770	TRD-GTC1-1	tRNA-Asp (anticodon GTC) 1-1	12q23.1	
@@ -40646,6 +40618,7 @@ HGNC:34847	TRP-TGG3-5	tRNA-Pro (anticodon TGG) 3-5	16p13.3
 HGNC:35056	TRP-TGG4-1	tRNA-Pro (anticodon TGG) 4-1	16p13.3	
 HGNC:35090	TRP-TGG5-1	tRNA-Pro (anticodon TGG) 5-1	1q32.1	
 HGNC:497	TRPA1	transient receptor potential cation channel subfamily A member 1	8q21.11	ENSG00000104321
+HGNC:57045	TRPA2P	transient receptor potential cation channel subfamily A member 2, pseudogene	8q21.11	
 HGNC:12333	TRPC1	transient receptor potential cation channel subfamily C member 1	3q23	ENSG00000144935
 HGNC:12334	TRPC2	transient receptor potential cation channel subfamily C member 2 (pseudogene)	11p15.4	
 HGNC:12335	TRPC3	transient receptor potential cation channel subfamily C member 3	4q27	ENSG00000138741
@@ -40928,6 +40901,7 @@ HGNC:12372	TSHB	thyroid stimulating hormone subunit beta	1p13.2	ENSG00000134200
 HGNC:12373	TSHR	thyroid stimulating hormone receptor	14q24-q31	ENSG00000165409
 HGNC:10669	TSHZ1	teashirt zinc finger homeobox 1	18q22.3	ENSG00000179981
 HGNC:13010	TSHZ2	teashirt zinc finger homeobox 2	20q13.2	ENSG00000182463
+HGNC:58099	TSHZ2-AS1	TSHZ2 antisense RNA 1	20q13.2	
 HGNC:30700	TSHZ3	teashirt zinc finger homeobox 3	19q12	ENSG00000121297
 HGNC:55288	TSHZ3-AS1	TSHZ3 antisense RNA 1	19q12	ENSG00000267662
 HGNC:12377	TSIX	TSIX transcript, XIST antisense RNA	Xq13.2	ENSG00000270641
@@ -40939,6 +40913,7 @@ HGNC:12379	TSN	translin	2q14.3	ENSG00000211460
 HGNC:26437	TSNARE1	t-SNARE domain containing 1	8q24.3	ENSG00000171045
 HGNC:12380	TSNAX	translin associated factor X	1q42.2	ENSG00000116918
 HGNC:49177	TSNAX-DISC1	TSNAX-DISC1 readthrough (NMD candidate)	1q42.2	ENSG00000270106
+HGNC:58098	TSNAX-DT	TSNAX divergent transcript	1q42.2	
 HGNC:18586	TSNAXIP1	translin associated factor X interacting protein 1	16q22.1	ENSG00000102904
 HGNC:20657	TSPAN1	tetraspanin 1	1p34.1	ENSG00000117472
 HGNC:20659	TSPAN2	tetraspanin 2	1p13.2	ENSG00000134198
@@ -40969,7 +40944,6 @@ HGNC:13410	TSPAN32	tetraspanin 32	11p15.5	ENSG00000064201
 HGNC:28743	TSPAN33	tetraspanin 33	7q32.1	ENSG00000158457
 HGNC:1268	TSPEAR	thrombospondin type laminin G domain and EAR repeats	21q22.3	ENSG00000175894
 HGNC:1271	TSPEAR-AS1	TSPEAR antisense RNA 1	21q22.3	ENSG00000235890
-HGNC:16428	TSPEAR-AS2	TSPEAR antisense RNA 2	21q22.3	ENSG00000182912
 HGNC:1158	TSPO	translocator protein	22q13.2	ENSG00000100300
 HGNC:21256	TSPO2	translocator protein 2	6p21.1	ENSG00000112212
 HGNC:16831	TSPOAP1	TSPO associated protein 1	17q22	ENSG00000005379
@@ -41135,8 +41109,6 @@ HGNC:31890	TTTY17C	testis expressed transcript, Y-linked 17C	Yq11.23	ENSG0000022
 HGNC:18842	TTTY18	testis expressed transcript, Y-linked 18	Yp11.2	ENSG00000233699
 HGNC:18843	TTTY19	testis expressed transcript, Y-linked 19	Yp11.2	ENSG00000232419
 HGNC:18844	TTTY20	testis expressed transcript, Y-linked 20	Yp11.2	ENSG00000232808
-HGNC:18845	TTTY21	testis expressed transcript, Y-linked 21	Yp11.2	ENSG00000228890
-HGNC:37980	TTTY21B	testis expressed transcript, Y-linked 21B	Yp11.2	ENSG00000237563
 HGNC:18846	TTTY22	testis expressed transcript, Y-linked 22	Yp11.2	ENSG00000224075
 HGNC:18847	TTTY23	testis expressed transcript, Y-linked 23	Yp11.2	ENSG00000239225
 HGNC:37983	TTTY23B	testis expressed transcript, Y-linked 23B	Yp11.2	
@@ -41396,7 +41368,7 @@ HGNC:39010	UBE2D3P2	ubiquitin conjugating enzyme E2 D3 pseudogene 2	3p22.2	ENSG0
 HGNC:39011	UBE2D3P3	ubiquitin conjugating enzyme E2 D3 pseudogene 3	1q21.3	ENSG00000224690
 HGNC:39391	UBE2D3P4	ubiquitin conjugating enzyme E2 D3 pseudogene 4	13q31.1	ENSG00000224188
 HGNC:56916	UBE2D3P5	UBE2D3 pseudogene 5	6p22.3	
-HGNC:21647	UBE2D4	ubiquitin conjugating enzyme E2 D4 (putative)	7p13	ENSG00000078967
+HGNC:21647	UBE2D4	ubiquitin conjugating enzyme E2 D4	7p13	ENSG00000078967
 HGNC:28656	UBE2DNL	ubiquitin conjugating enzyme E2 D N-terminal like (pseudogene)	Xq21.1	ENSG00000293307
 HGNC:12477	UBE2E1	ubiquitin conjugating enzyme E2 E1	3p24.2	ENSG00000170142
 HGNC:40598	UBE2E1-AS1	UBE2E1 antisense RNA 1	3p24.3	ENSG00000223791
@@ -41577,7 +41549,7 @@ HGNC:20597	UFM1	ubiquitin fold modifier 1	13q13.3	ENSG00000120686
 HGNC:55146	UFM1P1	UFM1 pseudogene 1	Xq27.3	ENSG00000270709
 HGNC:55147	UFM1P2	UFM1 pseudogene 2	17q12	ENSG00000267315
 HGNC:55148	UFM1P3	UFM1 pseudogene 3	8q22.2	ENSG00000253299
-HGNC:33821	UFSP1	UFM1 specific peptidase 1 (inactive)	7q22.1	ENSG00000176125
+HGNC:33821	UFSP1	UFM1 specific peptidase 1	7q22.1	ENSG00000176125
 HGNC:25640	UFSP2	UFM1 specific peptidase 2	4q35.1	ENSG00000109775
 HGNC:12524	UGCG	UDP-glucose ceramide glucosyltransferase	9q31.3	ENSG00000148154
 HGNC:12525	UGDH	UDP-glucose 6-dehydrogenase	4p14	ENSG00000109814
@@ -41810,7 +41782,6 @@ HGNC:56965	USP10P3	USP10 pseudogene 3	22q11.1
 HGNC:12609	USP11	ubiquitin specific peptidase 11	Xp11.3	ENSG00000102226
 HGNC:20485	USP12	ubiquitin specific peptidase 12	13q12.13	ENSG00000152484
 HGNC:39961	USP12-AS1	USP12 antisense RNA 1	13q12.13	ENSG00000232162
-HGNC:39962	USP12-DT	USP12 divergent transcript	13q12.13	ENSG00000230641
 HGNC:12610	USP12P1	USP12 pseudogene 1	5q33-q34	ENSG00000253213
 HGNC:54575	USP12P2	USP12 pseudogene 2	2q23.1	ENSG00000224007
 HGNC:54576	USP12P3	USP12 pseudogene 3	9q21.11	
@@ -41821,12 +41792,12 @@ HGNC:12612	USP14	ubiquitin specific peptidase 14	18p11.32	ENSG00000101557
 HGNC:12613	USP15	ubiquitin specific peptidase 15	12q14.1	ENSG00000135655
 HGNC:12614	USP16	ubiquitin specific peptidase 16	21q21.3	ENSG00000156256
 HGNC:37182	USP17L1	ubiquitin specific peptidase 17 like family member 1	8p23.1	ENSG00000230549
-HGNC:34434	USP17L2	ubiquitin specific peptidase 17 like family member 2	8p23.1	ENSG00000223443
+HGNC:34434	USP17L2	ubiquitin specific peptidase 17 like family member 2 (gene/pseudogene)	8p23.1	ENSG00000223443
 HGNC:37175	USP17L3	ubiquitin specific peptidase 17 like family member 3	8p23.1	ENSG00000225327
 HGNC:37176	USP17L4	ubiquitin specific peptidase 17 like family member 4	8p23.1	ENSG00000236125
 HGNC:37177	USP17L5	ubiquitin specific peptidase 17 like family member 5	4p16.1	ENSG00000227140
 HGNC:37179	USP17L6P	ubiquitin specific peptidase 17 like family member 6, pseudogene	4p16.1	ENSG00000205946
-HGNC:37180	USP17L7	ubiquitin specific peptidase 17 like family member 7	8p23.1	ENSG00000226430
+HGNC:37180	USP17L7	ubiquitin specific peptidase 17 like family member 7 (gene/pseudogene)	8p23.1	ENSG00000226430
 HGNC:37181	USP17L8	ubiquitin specific peptidase 17 like family member 8	8p23.1	ENSG00000237038
 HGNC:12615	USP17L9P	ubiquitin specific peptidase 17 like family member 9, pseudogene	4p16.1	ENSG00000251694
 HGNC:44438	USP17L10	ubiquitin specific peptidase 17 like family member 10	4p16.1	ENSG00000231396
@@ -42392,6 +42363,7 @@ HGNC:12757	WDR5	WD repeat domain 5	9q34.2	ENSG00000196363
 HGNC:55141	WDR5-DT	WDR5 divergent transcript	9q34.2	ENSG00000273249
 HGNC:17826	WDR5B	WD repeat domain 5B	3q21.1	ENSG00000196981
 HGNC:55192	WDR5B-DT	WDR5B divergent transcript	3q21.1	ENSG00000272758
+HGNC:57046	WDR5CP	WD repeat domain 5C, pseudogene	4p14	
 HGNC:12758	WDR6	WD repeat domain 6	3p21.31	ENSG00000178252
 HGNC:13490	WDR7	WD repeat domain 7	18q21.31	ENSG00000091157
 HGNC:45131	WDR7-OT1	WDR7 overlapping transcript 1	18q21.31	ENSG00000267225
@@ -42855,7 +42827,7 @@ HGNC:29528	ZC3H15	zinc finger CCCH-type containing 15	2q32.1	ENSG00000065548
 HGNC:25091	ZC3H18	zinc finger CCCH-type containing 18	16q24.2	ENSG00000158545
 HGNC:33799	ZC3H18-AS1	ZC3H18 antisense RNA 1 (head to head)	16q24.2	
 HGNC:23721	ZC3HAV1	zinc finger CCCH-type containing, antiviral 1	7q34	ENSG00000105939
-HGNC:22423	ZC3HAV1L	zinc finger CCCH-type containing, antiviral 1 like	7q34	ENSG00000146858
+HGNC:22423	ZC3HAV1L	ZC3HAV1 like	7q34	ENSG00000146858
 HGNC:29913	ZC3HC1	zinc finger C3HC-type containing 1	7q32.2	ENSG00000091732
 HGNC:24931	ZC4H2	zinc finger C4H2-type containing	Xq11.2	ENSG00000126970
 HGNC:22916	ZCCHC2	zinc finger CCHC-type containing 2	18q21.33	ENSG00000141664
@@ -43077,7 +43049,6 @@ HGNC:51179	ZNF30-AS1	ZNF30 antisense RNA 1	19q13.11	ENSG00000270876
 HGNC:13095	ZNF32	zinc finger protein 32	10q11.21	ENSG00000169740
 HGNC:23577	ZNF32-AS1	ZNF32 antisense RNA 1	10q11.21	ENSG00000226245
 HGNC:23593	ZNF32-AS2	ZNF32 antisense RNA 2	10q11.21	ENSG00000230565
-HGNC:23583	ZNF32-AS3	ZNF32 antisense RNA 3	10q11.21	ENSG00000223910
 HGNC:13096	ZNF33A	zinc finger protein 33A	10p11.1	ENSG00000189180
 HGNC:13097	ZNF33B	zinc finger protein 33B	10q11.21	ENSG00000196693
 HGNC:44975	ZNF33BP1	zinc finger protein 33B pseudogene 1	10p11.21	ENSG00000225192
@@ -43156,6 +43127,7 @@ HGNC:12925	ZNF140	zinc finger protein 140	12q24.33	ENSG00000196387
 HGNC:12926	ZNF141	zinc finger protein 141	4p16.3	ENSG00000131127
 HGNC:12927	ZNF142	zinc finger protein 142	2q35	ENSG00000115568
 HGNC:12928	ZNF143	zinc finger protein 143	11p15.4	ENSG00000166478
+HGNC:58073	ZNF143-AS1	ZNF143 antisense RNA 1	11p15.4	
 HGNC:12931	ZNF146	zinc finger protein 146	19q13.1	ENSG00000167635
 HGNC:12933	ZNF148	zinc finger protein 148	3q21.2	ENSG00000163848
 HGNC:12939	ZNF154	zinc finger protein 154	19q13.43	ENSG00000179909
@@ -43175,7 +43147,6 @@ HGNC:12976	ZNF185	zinc finger protein 185 with LIM domain	Xq28	ENSG00000147394
 HGNC:12980	ZNF189	zinc finger protein 189	9q31.1	ENSG00000136870
 HGNC:12986	ZNF195	zinc finger protein 195	11p15.5	ENSG00000005801
 HGNC:12988	ZNF197	zinc finger protein 197	3p21.31	ENSG00000186448
-HGNC:40620	ZNF197-AS1	ZNF197 antisense RNA 1	3p21.31	ENSG00000233509
 HGNC:12993	ZNF200	zinc finger protein 200	16p13.3	ENSG00000010539
 HGNC:12994	ZNF202	zinc finger protein 202	11q23.3	ENSG00000166261
 HGNC:12995	ZNF204P	zinc finger protein 204, pseudogene	6p22.1	ENSG00000204789
