@@ -41,7 +41,7 @@ import java.util.stream.Collectors;
 @Service
 public class GeneServiceImpl implements GeneService {
 
-    private final Logger logger = LoggerFactory.getLogger(GeneService.class);
+    private final Logger logger = LoggerFactory.getLogger(GeneServiceImpl.class);
 
     private final List<Gene> genes;
 
